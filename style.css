@@ -43,6 +43,11 @@ textarea:focus, input:focus{
     outline: none;
 }
 
+.count {
+    text-align: center;
+    margin-top: 10px;
+}
+
 
 input:focus::-webkit-input-placeholder { color:transparent; }
 input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */

@@ -4453,18 +4453,31 @@ var kanji = [
 var answer;
 var i = 0;
 var n = 0;
-$(".kanji").text(kanji[n][0]);
-$(".eigo").text(eigo[n][0]);
+var executed = false;
+
+var INIT = (function() {
+    return function() {
+        if (!executed) {
+            $(".kanji").text(kanji[n][i]);
+            $(".eigo").text(eigo[n][i]);
+            $(".count").text(i+"/"+eigo[n].length)
+            executed = true;
+        }
+    };
+})();
+
+INIT(); // Initializes first kanji of N5
 
 function difficulty() {
+    i=0;
     n = $('#select[name=diff]:checked').val();
     e = jQuery.Event("keypress")
+    $(".count").text(i+"/"+eigo[n].length)
     e.which = 13 //choose the one you want
     $(document).keypress(function(){
     }).trigger(e)  
-    i=0;
-  
 }
+
 
 $(document).keypress(function(e) {
     
@@ -4484,10 +4497,11 @@ $(document).keypress(function(e) {
         }
 
         if (e_val.includes(answer) === true && answer!="" && answer!=undefined ) {
-            $(".kanji").animate({color: "green"},200);
+            $(".kanji").animate({color: "#5CDBA4"},200);
             $(".action").val("")
             $(".eigo").css("visibility", "visible");
             i++; 
+            $(".count").text(i+"/"+eigo[n].length)
         }
     }
 });
