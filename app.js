@@ -4485,11 +4485,11 @@ $(document).keypress(function(e) {
     if(e.which == 13){
             
         $(".kanji").css("color", "black")
-        answer = $("input").val();
+        answer = $("input").val().toLowerCase();
         $(".eigo").css("visibility", "hidden");
         $(".kanji").text(kanji[n][i]);
         $(".eigo").text(eigo[n][i]);
-        e_val = $(".eigo").text(eigo[n][i]).text();
+        e_val = $(".eigo").text(eigo[n][i]).text().toLowerCase();
         
         if (i===eigo[n].length) {
             $(".kanji").text(kanji[n][0]);
