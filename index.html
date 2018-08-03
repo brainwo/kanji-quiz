@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="jquery.color-2.1.2.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <p class="kanji"></p>
+        <p class="eigo"></p>
+        <input class="action" placeholder="input meaning..." type="text"><br>
+        <form class="select" action=" ">
+            <input onclick="difficulty()" id="select" type="radio" name="diff" value="0"> N5
+            <input onclick="difficulty()" id="select" type="radio" name="diff" value="1"> N4
+            <input onclick="difficulty()" id="select" type="radio" name="diff" value="2"> N3
+            <input onclick="difficulty()" id="select" type="radio" name="diff" value="3"> N2
+            <input onclick="difficulty()" id="select" type="radio" name="diff" value="4"> N1
+        </form>
+    </div>
+
+<script src="app.js"></script>
+</body>
+</html>
