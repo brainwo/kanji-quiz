@@ -8,9 +8,13 @@
 
 .kanji {
     font-size: 200px;
+    height: 200px;
+    line-height: 225px;
+    margin: auto;
+    position: relative;
     text-align: center;
     font-family: Meiryo;
-    margin-bottom: -30px;
+    z-index: -1;
 }
 
 
@@ -29,10 +33,12 @@
     text-align: center;
     font-size: 14px;
     display: block;
+    z-index: 2;
 }
 
 .container {
     margin-top: 5%;
+   
 }
 
 form {
@@ -48,9 +54,66 @@ textarea:focus, input:focus{
 .count {
     text-align: center;
     margin-top: 10px;
+    color: gray;
 }
 
+.oBtn {
+    width: 75px;
+    text-align: center;
+    margin: auto;
+    color: lightgrey;
+}
 
+.oBtn:hover {
+    color: #5CDBA4;;
+}
+
+.options {
+    margin-top: 15px;
+    text-align: center;
+    display: none;
+    color: gray;
+    font-size: 14px;
+}
+
+a {
+    font-size: 14px;
+    line-height: 5;
+    text-decoration: none !important;
+    color: lightgrey;
+}
+
+a:hover {
+    color: #5CDBA4;
+}
+
+.fonts {
+    margin-top: 10px;
+}
+
+.inst {
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+}
+
+hr {
+    width: 10%;
+    margin: auto;
+    height: 1px;
+    color: lightgray;
+    background-color: lightgray;
+    border: 0;
+    margin-bottom: 25px;
+}
+
+#shuffle {
+    font-size: 16px;
+    margin: auto;
+}
+#shuffle:hover {
+    color: #5CDBA4;
+}
 
 
 

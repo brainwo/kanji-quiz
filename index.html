@@ -12,19 +12,38 @@
 <body>
 
     <div class="container">
-        <p class="kanji"></p>
-        <p class="eigo"></p>
-        <input class="action" placeholder="input meaning..." type="text"><br>
-        <form class="select" action=" ">
-            <input onclick="difficulty()" id="select" type="radio" name="diff" value="0" checked="checked"> N5
-            <input onclick="difficulty()" id="select" type="radio" name="diff" value="1"> N4
-            <input onclick="difficulty()" id="select" type="radio" name="diff" value="2"> N3
-            <input onclick="difficulty()" id="select" type="radio" name="diff" value="3"> N2
-            <input onclick="difficulty()" id="select" type="radio" name="diff" value="4"> N1
-        </form>
-            <p class="count"></p>
-    
+        <div class="clearfix">
+            <p class="kanji"></p>
+        </div>
         
+        <p class="eigo"></p>
+        <p class="count"></p>
+        <input class="action" placeholder="input meaning..." type="text"><br>
+
+        
+        <p class="oBtn" onclick="options()">options</p>
+        <div class="options">
+                <p class="inst">This is a small application meant to help you learn the English meaning of all the basic kanji.</p><br>
+                <p class="inst">Enter the English meaning in the input field and press enter.</p><br>
+                <p class="inst">Press "shuffle" to shuffle selected deck.</p><br><hr>
+                <form class="select" action=" "></form> 
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="0" checked="checked"> N5
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="1"> N4
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="2"> N3
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="3"> N2
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="4"> N1
+            </form><br>
+            <form class="fonts">
+                <select  name="fonts">
+                  <option value="meiryo">meiryo</option>
+                  <option value="ms gothic">gothic</option>
+                  <option value="ms mincho">mincho</option>
+                </select>
+            </form><br>
+            <p id="shuffle" class="oBtn" onclick="shuffle(eigo[n], kanji[n])">shuffle</p><br>
+            <a href="http://www.tanos.co.uk/jlpt/" class="respect">All data gathered by Jonathan Waller at tanos.co.uk!</a><br>
+
+        </div>
     </div>
 
 <script src="app.js"></script>

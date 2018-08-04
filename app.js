@@ -4479,6 +4479,33 @@ function difficulty() {
     }).trigger(e)  
 }
 
+function options() {
+    $(".options").slideToggle("fast");
+}
+
+$(".fonts").change(function() {
+    var str = "";
+    $( ".fonts option:selected" ).each(function() {
+      str = $(this).val();
+    });
+    $(".kanji").css("font-family", ('"'+str+'"'))
+})
+
+function shuffle(a, b) {
+    for (let m = a.length - 1; m > 0; m--) {
+        const j = Math.floor(Math.random() * (m + 1));
+        [a[m], a[j]] = [a[j], a[m]];
+        [b[m], b[j]] = [b[j], b[m]];
+    }
+    e = jQuery.Event("keypress")
+    e.which = 13 //choose the one you want
+    i=0;
+    $(".count").text(i+"/"+eigo[n].length)
+    $(document).keypress(function(){
+    }).trigger(e)  
+    return a, b;
+}
+
 
 $(document).keypress(function(e) {
     
