@@ -65,7 +65,8 @@ textarea:focus, input:focus{
 }
 
 .oBtn:hover {
-    color: #5CDBA4;;
+    color: #5CDBA4;
+    text-decoration: underline;
 }
 
 .options {
@@ -111,8 +112,12 @@ hr {
     font-size: 16px;
     margin: auto;
 }
-#shuffle:hover {
-    color: #5CDBA4;
+
+
+@media (max-width: 767px) {
+    .kanji {
+        font-family: 150px;
+    }
 }
 
 
