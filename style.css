@@ -61,7 +61,8 @@ textarea:focus, input:focus{
     width: 75px;
     text-align: center;
     margin: auto;
-    color: lightgrey;
+    color: gray;
+    font-size: 14; 
 }
 
 .oBtn:hover {
@@ -107,10 +108,6 @@ hr {
     margin-bottom: 25px;
 }
 
-#shuffle {
-    font-size: 16px;
-    margin: auto;
-}
 
 .contact {
     margin-top: 50px;

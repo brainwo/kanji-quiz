@@ -4505,6 +4505,19 @@ function shuffle(a, b) {
     }).trigger(e)  
     return a, b;
 }
+function repeat() {
+
+    i-=10;
+    if(i<0) {
+        i=0;
+    }
+    e = jQuery.Event("keypress")
+    e.which = 13 //choose the one you want
+    $(".count").text(i+"/"+eigo[n].length)
+    $(document).keypress(function(){
+    }).trigger(e) 
+
+}
 
 
 $(document).keypress(function(e) {
