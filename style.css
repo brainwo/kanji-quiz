@@ -79,7 +79,6 @@ textarea:focus, input:focus{
 
 a {
     font-size: 14px;
-    line-height: 5;
     text-decoration: none !important;
     color: lightgrey;
 }
@@ -113,11 +112,8 @@ hr {
     margin: auto;
 }
 
-
-@media (max-width: 767px) {
-    .kanji {
-        font-family: 150px;
-    }
+.contact {
+    margin-top: 50px;
 }
 
 
