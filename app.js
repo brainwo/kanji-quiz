@@ -4505,7 +4505,7 @@ function shuffle(a, b) {
     }).trigger(e)  
     return a, b;
 }
-function repeat() {
+function repeatMinus() {
 
     i-=10;
     if(i<0) {
@@ -4519,9 +4519,24 @@ function repeat() {
 
 }
 
+function repeatPlus() {
+
+    i+=10;
+    if(i>=eigo[n].length) {
+        i=0;
+    }
+    e = jQuery.Event("keypress")
+    e.which = 13 //choose the one you want
+    $(".count").text(i+"/"+eigo[n].length)
+    $(document).keypress(function(){
+    }).trigger(e) 
+
+}
+
+var keys = {};
 
 $(document).keypress(function(e) {
-    
+    keys[e.which] = true;
     if(e.which == 13){
             
         $(".kanji").css("color", "black")
@@ -4544,9 +4559,14 @@ $(document).keypress(function(e) {
             i++; 
             $(".count").text(i+"/"+eigo[n].length)
         }
+        
     }
+
 });
 
+
+    
+    
 
 
 
