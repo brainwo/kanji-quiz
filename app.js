@@ -4563,6 +4563,25 @@ $(document).keypress(function(e) {
     }
 
 });
+$(".peek").mouseover( function() {
+    $(".peek").text(eigo[n][i]);
+
+}); 
+
+
+$( ".peek" ).mouseenter(function() {
+    $(".peek").text(eigo[n][i]);
+  }).mouseleave(function() {
+    $(".peek").text("Hover to cheat...");
+  });
+
+    
+
+
+    
+
+    
+
 
 
     
