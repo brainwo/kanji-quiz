@@ -2220,6 +2220,7 @@ var eigo = [
         "excessive/overflow/spread out",	
         "victory/fast"
     ],
+    list = ["yo"],
     n5v = [
         "to meet",
         "blue",
@@ -5117,8 +5118,8 @@ var kanji = [
         "崚",
         "濫",
         "捷"
-    ]
-
+    ],
+    list = ["yo"],
 ];
 
 
@@ -5141,14 +5142,18 @@ var INIT = (function() {
 
 INIT(); // Initializes first kanji of N5
 
+function simulateEnter () {
+    e = jQuery.Event("keypress")
+    e.which = 13 //choose the one you want
+    $(".count").text(i+"/"+eigo[n].length)
+    $(document).keypress(function(){
+    }).trigger(e) 
+}
+
 function difficulty() {
     i=0;
     n = $('#select[name=diff]:checked').val();
-    e = jQuery.Event("keypress")
-    $(".count").text(i+"/"+eigo[n].length)
-    e.which = 13 //choose the one you want
-    $(document).keypress(function(){
-    }).trigger(e)  
+    simulateEnter();
 }
 
 function options() {
@@ -5163,50 +5168,39 @@ $(".fonts").change(function() {
     $(".kanji").css("font-family", ('"'+str+'"'))
 })
 
+//Fisher-Yates Shuffle
 function shuffle(a, b) {
     for (let m = a.length - 1; m > 0; m--) {
         const j = Math.floor(Math.random() * (m + 1));
         [a[m], a[j]] = [a[j], a[m]];
         [b[m], b[j]] = [b[j], b[m]];
     }
-    e = jQuery.Event("keypress")
-    e.which = 13 //choose the one you want
     i=0;
-    $(".count").text(i+"/"+eigo[n].length)
-    $(document).keypress(function(){
-    }).trigger(e)  
+    simulateEnter(); 
     return a, b;
 }
-function repeatMinus() {
 
+//Take 10 steps back
+function repeatMinus() {
     i-=10;
     if(i<0) {
         i=0;
     }
-    e = jQuery.Event("keypress")
-    e.which = 13 //choose the one you want
-    $(".count").text(i+"/"+eigo[n].length)
-    $(document).keypress(function(){
-    }).trigger(e) 
-
+    simulateEnter();
 }
 
+//Take 10 steps forward
 function repeatPlus() {
-
     i+=10;
     if(i>=eigo[n].length) {
         i=0;
     }
-    e = jQuery.Event("keypress")
-    e.which = 13 //choose the one you want
-    $(".count").text(i+"/"+eigo[n].length)
-    $(document).keypress(function(){
-    }).trigger(e) 
-
+    simulateEnter();
 }
 
 var keys = {};
 
+//Whats happens when you press enter
 $(document).keypress(function(e) {
     keys[e.which] = true;
     if(e.which == 13){
@@ -5230,16 +5224,20 @@ $(document).keypress(function(e) {
             $(".eigo").css("visibility", "visible");
             i++; 
             $(".count").text(i+"/"+eigo[n].length)
-        }
-        
+        }  
     }
-
 });
+
+function addToList () {
+    kanji[5].push(kanji[n][i]);
+    console.log(kanji[n][i])
+    eigo[5].push(eigo[n][i]);
+}
+
 $(".peek").mouseover( function() {
     $(".peek").text(eigo[n][i]);
 
 }); 
-
 
 $( ".peek" ).mouseenter(function() {
     $(".peek").text(eigo[n][i]);
