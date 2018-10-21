@@ -6588,7 +6588,7 @@ function addToList () {
         Cookies.set('eigoList', eigo[5], { expires: 7, path: '/' });
         $(".list").attr('disabled', false);
     } else {
-        console.log("already added " + kanji[n][i]);
+        console.log("already added "+ kanji[n][i]);
     }
 };
 
