@@ -8,6 +8,7 @@
     <title>JLPT.se - JLPT study made easy! ( ´･ω･)人(・ω・｀ )</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="jquery.color-2.1.2.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127203940-1"></script>
@@ -53,6 +54,7 @@
                 </select>
             </form><br>
             <p class="oBtn" onclick="addToList()">+list</p><br>
+            <p class="oBtn" onclick="pullFromList()">-list</p><br>
             <p id="repeat" class="oBtn" onclick="repeatMinus()">-10 steps</p><br>
             <p id="repeat" class="oBtn" onclick="repeatPlus()">+10 steps</p><br>
             <p id="shuffle" class="oBtn" onclick="shuffle(eigo[n], kanji[n])">shuffle</p><br>

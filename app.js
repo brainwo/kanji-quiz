@@ -6477,6 +6477,13 @@ var executed = false;
 var INIT = (function() {
     return function() {
         if (!executed) {
+            if(Cookies.get('kanjiList') != undefined && Cookies.get('eigoList') != undefined) {
+                var listKanji = JSON.parse(Cookies.get('kanjiList'));
+                kanji[5]  = listKanji;
+                var listEigo = JSON.parse(Cookies.get('eigoList'));
+                eigo[5]  = listEigo;
+                $(".list").attr('disabled', false);
+            }
             $(".kanji").text(kanji[n][i]);
             $(".eigo").text(eigo[n][i]);
             $(".count").text(i+"/"+eigo[n].length)
@@ -6577,11 +6584,20 @@ function addToList () {
     if($.inArray(kanji[n][i],kanji[5]) == -1 ) {
         kanji[5].push(kanji[n][i]);
         eigo[5].push(eigo[n][i]);
+        Cookies.set('kanjiList', kanji[5], { expires: 7, path: '/' });
+        Cookies.set('eigoList', eigo[5], { expires: 7, path: '/' });
         $(".list").attr('disabled', false);
     } else {
         console.log("already added " + kanji[n][i]);
     }
+};
+
+function removeList() {
+    Cookies.remove('kanjiList');
+    Cookies.remove('eigoList');
+    location.reload();
 }
+
 
 $(".peek").mouseover( function() {
     $(".peek").text(eigo[n][i]);
