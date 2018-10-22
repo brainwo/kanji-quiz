@@ -6593,9 +6593,11 @@ function addToList () {
 };
 
 function removeList() {
-    Cookies.remove('kanjiList');
-    Cookies.remove('eigoList');
-    location.reload();
+    if (confirm("Are you sure you want to remove the list?")) {
+        Cookies.remove('kanjiList');
+        Cookies.remove('eigoList');
+        location.reload();
+    }
 }
 
 
