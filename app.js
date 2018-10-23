@@ -6544,7 +6544,7 @@ function repeatMinus() {
 //Take 10 steps forward
 function repeatPlus() {
     i+=10;
-    if(i>=eigo[n].length) {
+    if(i >= eigo[n].length) {
         i=0;
     }
     simulateEnter();
