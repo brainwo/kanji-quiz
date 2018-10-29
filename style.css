@@ -37,7 +37,7 @@
 }
 
 .container {
-    margin-top: 5%;
+    margin-top: 10px;
    
 }
 
@@ -78,11 +78,45 @@ textarea:focus, input:focus{
     color: gray;
     font-size: 14px;
 }
-
 a {
-    font-size: 14px;
     text-decoration: none !important;
     color: lightgrey;
+}
+
+a.options {
+    font-size: 14px;
+
+}
+
+.nav {
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 5%;
+    font-size: 20px;
+    color: lightgrey;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav {
+        text-align: center;
+        font-size: 16px;
+        margin-right: 0px;
+    }
+    .kanji{
+        font-size: 175px;
+        height: 175px;
+        line-height: 200px;
+    }
+    .contentAbout{
+        width: 75% !important; 
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    
+    .contentAbout{
+        width: 65% !important; 
+    }
 }
 
 a:hover {
@@ -126,6 +160,34 @@ hr {
     background-color: white;
     color: black;
 }
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contentAbout {
+    text-align: justify;
+    padding-top: 100px;
+    margin: 0 auto;
+    width: 25%; 
+    
+}
+.links {
+    text-align: center;
+    padding-top: 25px;
+    margin: 0 auto;
+    width: 25%; 
+
+    
+}
+
+.timer {
+    margin-top: 20px;
+    text-align: center;
+    visibility: hidden;
+}
+
 
 
 

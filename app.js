@@ -6500,6 +6500,7 @@ function simulateEnter () {
     $(".count").text(i+"/"+eigo[n].length)
     $(document).keypress(function(){
     }).trigger(e) 
+    
 }
 
 function difficulty() {
@@ -6551,12 +6552,12 @@ function repeatPlus() {
 }
 
 var keys = {};
-
+var timerStart = 0;
 //Whats happens when you press enter
 $(document).keypress(function(e) {
     keys[e.which] = true;
     if(e.which == 13){
-            
+        
         $(".kanji").css("color", "black")
         answer = $("input").val().toLowerCase();
         $(".eigo").css("visibility", "hidden");
@@ -6576,6 +6577,13 @@ $(document).keypress(function(e) {
             $(".eigo").css("visibility", "visible");
             i++; 
             $(".count").text(i+"/"+eigo[n].length)
+            timerStart++;
+            if(timerStart == 1 && timerShow == true) {
+                timer();
+            }
+            if(i == eigo[n].length - 1) {
+                clearTimeout(t);
+            }
         }  
     }
 });
@@ -6612,7 +6620,63 @@ $( ".peek" ).mouseenter(function() {
     $(".peek").text("Hover to cheat...");
   });
 
+
+//stopwatch
+
+var p = document.getElementsByTagName('p')[0],
+    seconds = 0, minutes = 0, hours = 0,
+    t;
+
+function add() {
+    seconds++;
+    if (seconds >= 60) {
+        seconds = 0;
+        minutes++;
+        if (minutes >= 60) {
+            minutes = 0;
+            hours++;
+        }
+    }
     
+    p.textContent = (hours ? (hours > 9 ? hours : "0" + hours) : "00") + ":" + (minutes ? (minutes > 9 ? minutes : "0" + minutes) : "00") + ":" + (seconds > 9 ? seconds : "0" + seconds);
+    timer();
+}
+function timer() {
+    t = setTimeout(add, 1000);
+}
+
+var timerShow = false;
+
+function showTimer() {
+    timerShow = !timerShow;
+    if(timerShow) {
+        $(".timer").css("visibility", "visible");
+    }
+    else {
+        clearTimeout(t);
+        $(".timer").css("visibility", "hidden");
+        p.textContent = "00:00:00";
+        seconds = 0; minutes = 0; hours = 0;
+        timerStart = 0;
+    }
+    
+}
+
+
+
+
+/* Stop button 
+stop.onclick = function() {
+    clearTimeout(t);
+}
+
+/* Clear button 
+clear.onclick = function() {
+    p.textContent = "00:00:00";
+    seconds = 0; minutes = 0; hours = 0;
+}
+
+*/   
 
 
     
