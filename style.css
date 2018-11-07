@@ -67,7 +67,6 @@ textarea:focus, input:focus{
 
 .oBtn:hover {
     color: #5CDBA4;
-    text-decoration: underline;
 }
 
 
@@ -75,7 +74,7 @@ textarea:focus, input:focus{
     margin-top: 15px;
     text-align: center;
     display: none;
-    color: gray;
+    color: grey;
     font-size: 14px;
 }
 a {
