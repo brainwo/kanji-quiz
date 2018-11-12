@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: ms gothic;
+    
+}
+
+
+.kanji {
+    font-size: 100px;
+    height: 75px;
+    line-height: 150px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    font-family: Meiryo;
+    z-index: -1; 
+}
+.hiragana {
+    font-size: 75px;
+    height: 125px;
+    line-height: 175px;
+    margin: auto;
+    position: relative;
+    text-align: center;
+    font-family: Meiryo;
+    z-index: -1;
+}
+
+
+.eigo {
+    visibility: hidden;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+
+.action {
+    margin: auto;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+    display: block;
+    z-index: 2;
+}
+
+.container {
+    margin-top: 10px;
+   
+}
+
+form {
+    margin: auto;
+    text-align: center;
+    width: 250px;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.count {
+    text-align: center;
+    margin-top: 10px;
+    color: gray;
+}
+
+.oBtn {
+    width: 75px;
+    text-align: center;
+    margin: auto;
+    color: gray;
+    font-size: 14; 
+}
+
+.oBtn:hover {
+    color: #5CDBA4;
+}
+
+
+.options {
+    margin-top: 15px;
+    text-align: center;
+    display: none;
+    color: grey;
+    font-size: 14px;
+}
+a {
+    text-decoration: none !important;
+    color: lightgrey;
+}
+
+a.options {
+    font-size: 14px;
+
+}
+
+.nav {
+    text-align: right;
+    margin-top: 25px;
+    margin-right: 5%;
+    font-size: 20px;
+    color: lightgrey;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav {
+        text-align: center;
+        font-size: 16px;
+        margin-right: 0px;
+    }
+    .kanji{
+        font-size: 175px;
+        height: 175px;
+        line-height: 200px;
+    }
+    .contentAbout{
+        width: 75% !important; 
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    
+    .contentAbout{
+        width: 65% !important; 
+    }
+}
+
+a:hover {
+    color: #5CDBA4;
+}
+
+.fonts {
+    margin-top: 10px;
+}
+
+.inst {
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+}
+
+hr {
+    width: 10%;
+    margin: auto;
+    height: 1px;
+    color: lightgray;
+    background-color: lightgray;
+    border: 0;
+    margin-bottom: 25px;
+}
+
+
+.contact {
+    margin-top: 50px;
+}
+
+.peek {
+    margin: auto;
+    background-color: black;
+    color: white;
+    width: 200px;
+    padding: 5px;
+}
+
+.peek:hover {
+    background-color: white;
+    color: black;
+}
+
+.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contentAbout {
+    text-align: justify;
+    padding-top: 100px;
+    margin: 0 auto;
+    width: 25%; 
+    
+}
+.links {
+    text-align: center;
+    padding-top: 25px;
+    margin: 0 auto;
+    width: 25%; 
+
+    
+}
+
+.timer {
+    margin-top: 20px;
+    text-align: center;
+    visibility: hidden;
+}
+
+
+
+
+
+
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
+input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
+input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */

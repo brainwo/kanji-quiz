@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>JLPT.se - Vocabulary ( ´･ω･)人(・ω・｀ )</title>
+    <meta name="description" content="Studying kanji is a breeze on JLPT.se; with simplicity in mind, we offer the definite clean way to study towards the JLPT. Study the kanji needed to crush the JLPT tests. Get better at Japanese today, only at JLPT.se">
+    <title>JLPT.se - Vocabulary</title>
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="jquery.color-2.1.2.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styleV.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-127203940-1"></script>
     <script>
@@ -27,7 +28,55 @@
             <a href="vocab.html">vocab</a>
             <a href="about.html">about</a>
     </div>
-    <div class="content">
-        <h1>Being programmed!</h1>
+    <p class="timer"><time>00:00:00</time></p>
+    <div class="container">
+            
+        <div class="clearfix">
+            <p class="kanji"></p>
+            <p class="hiragana"></p>
+        </div>
+        
+        <p class="eigo"></p>
+        <p class="count"></p>
+        <input class="action" placeholder="input meaning..." type="text"><br>
+
+        
+        <p class="oBtn" onclick="options()">options</p>
+        <div class="options">
+                <p class="inst">This is a small application meant to help you learn the English meaning of all the basic kanji.</p><br>
+                <p class="inst">Enter the English meaning in the input field and press enter.</p><br>
+                <p class="inst">Press "shuffle" to shuffle selected deck.</p><br><hr>
+                <form class="select" action=" "></form> 
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="0" checked="checked"> N5
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="1"> N4
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="2"> N3
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="3"> N2
+                <input onclick="difficulty()" id="select" type="radio" name="diff" value="4"> N1
+                <input onclick="difficulty()" class="list" id="select" type="radio" name="diff" value="5" disabled=true> LIST
+            
+            </form><br>
+            <form class="fonts">
+                <select  name="fonts">
+                  <option value="meiryo">meiryo</option>
+                  <option value="ms gothic">gothic</option>
+                  <option value="ms mincho">mincho</option>
+                </select>
+            </form><br>
+            <p class="oBtn" onclick="hideHiragana()">hiragana</p><br>
+            <p class="oBtn" onclick="addToList()">+list</p><br>
+            <p class="oBtn" onclick="removeList()">-list</p><br>
+            <p id="repeat" class="oBtn" onclick="repeatMinus()">-10 steps</p><br>
+            <p id="repeat" class="oBtn" onclick="repeatPlus()">+10 steps</p><br>
+            <p id="shuffle" class="oBtn" onclick="shuffle(eigo[n], kanji[n], hiragana[n])">shuffle</p><br>
+            <p id="shuffle" class="oBtn" onclick="showTimer()">show timer</p><br>
+            <p class="peek">Hover to cheat...</p>
+            <div class="contact">
+                <a href="https://www.instagram.com/linus_hej" class="respect">Application written by me, Linus Larsson.</a><br>
+                <a href="http://www.tanos.co.uk/jlpt/" class="respect">All data gathered by Jonathan Waller at tanos.co.uk!</a><br>
+            </div>
+        </div>
     </div>
+
+<script src="appV.js"></script>
 </body>
+</html>
