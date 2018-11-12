@@ -2047,7 +2047,7 @@ var showHiragana = true;
 var INIT = (function() {
     return function() {
         if (!executed) {
-            if(Cookies.get('kanjiList') != undefined && Cookies.get('eigoList') != undefined) {
+            if(Cookies.get('kanjiList') != undefined && Cookies.get('eigoList') != undefined && Cookies.get('hiraganaList') != undefined) {
                 var listKanji = JSON.parse(Cookies.get('kanjiList'));
                 kanji[5]  = listKanji;
                 var listEigo = JSON.parse(Cookies.get('eigoList'));
