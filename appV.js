@@ -2047,12 +2047,12 @@ var showHiragana = true;
 var INIT = (function() {
     return function() {
         if (!executed) {
-            if(Cookies.get('kanjiList') != undefined && Cookies.get('eigoList') != undefined && Cookies.get('hiraganaList') != undefined) {
-                var listKanji = JSON.parse(Cookies.get('kanjiList'));
+            if(Cookies.get('vkanjiList') != undefined && Cookies.get('veigoList') != undefined && Cookies.get('vhiraganaList') != undefined) {
+                var listKanji = JSON.parse(Cookies.get('vkanjiList'));
                 kanji[5]  = listKanji;
-                var listEigo = JSON.parse(Cookies.get('eigoList'));
+                var listEigo = JSON.parse(Cookies.get('veigoList'));
                 eigo[5]  = listEigo;
-                var listHiragana = JSON.parse(Cookies.get('hiraganaList'));
+                var listHiragana = JSON.parse(Cookies.get('vhiraganaList'));
                 hiragana[5]  = listHiragana;
                 $(".list").attr('disabled', false);
             }
@@ -2195,9 +2195,9 @@ function addToList () {
     if($.inArray(kanji[n][i],kanji[5]) == -1 ) {
         kanji[5].push(kanji[n][i]);
         eigo[5].push(eigo[n][i]);
-        Cookies.set('kanjiList', kanji[5], { expires: 7, path: '/' });
-        Cookies.set('eigoList', eigo[5], { expires: 7, path: '/' });
-        Cookies.set('hiraganaList', hiragana[5], { expires: 7, path: '/' });
+        Cookies.set('vkanjiList', kanji[5], { expires: 7, path: '/' });
+        Cookies.set('veigoList', eigo[5], { expires: 7, path: '/' });
+        Cookies.set('vhiraganaList', hiragana[5], { expires: 7, path: '/' });
         $(".list").attr('disabled', false);
     } else {
         console.log("already added "+ kanji[n][i]);
@@ -2206,9 +2206,9 @@ function addToList () {
 
 function removeList() {
     if (confirm("Are you sure you want to remove the list?")) {
-        Cookies.remove('kanjiList');
-        Cookies.remove('eigoList');
-        Cookies.remove('hiraganaList');
+        Cookies.remove('vkanjiList');
+        Cookies.remove('veigoList');
+        Cookies.remove('vhiraganaList');
         location.reload();
     }
 }
