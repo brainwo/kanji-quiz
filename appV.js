@@ -2057,7 +2057,7 @@ var INIT = (function() {
                 $(".list").attr('disabled', false);
             }
             $(".kanji").text(kanji[n][i]);
-            $(".eigo").text(eigo[n][i]+ " | " + hiragana[n][i]);
+            $(".eigo").text(eigo[n][i]);
             $(".hiragana").text(hiragana[n][i]);
             $(".count").text(i+"/"+eigo[n].length)
             executed = true;
