@@ -2138,7 +2138,7 @@ $(document).keypress(function(e) {
         $(".eigo").css("visibility", "hidden");
         $(".kanji").text(kanji[n][i]);
         $(".hiragana").text(hiragana[n][i]);
-        $(".eigo").text(eigo[n][i]+ " | " + hiragana[n][i]);
+        $(".eigo").text(eigo[n][i]);
         e_val = $(".eigo").text(eigo[n][i]+ " | " + hiragana[n][i]).text().toLowerCase();
         e_eval_h = $(".hiragana").text(hiragana[n][i]).text();
         
@@ -2204,6 +2204,7 @@ function addToList () {
     if($.inArray(kanji[n][i],kanji[5]) == -1 ) {
         kanji[5].push(kanji[n][i]);
         eigo[5].push(eigo[n][i]);
+        hiragana[5].push(hiragana[n][i]);
         Cookies.set('vkanjiList', kanji[5], { expires: 7, path: '/' });
         Cookies.set('veigoList', eigo[5], { expires: 7, path: '/' });
         Cookies.set('vhiraganaList', hiragana[5], { expires: 7, path: '/' });
