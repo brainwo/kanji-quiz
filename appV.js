@@ -2057,7 +2057,7 @@ var INIT = (function() {
                 $(".list").attr('disabled', false);
             }
             $(".kanji").text(kanji[n][i]);
-            $(".eigo").text(eigo[n][i]+ " | " + hiragana[n][i]);
+            $(".eigo").text(eigo[n][i]);
             $(".hiragana").text(hiragana[n][i]);
             $(".count").text(i+"/"+eigo[n].length)
             executed = true;
@@ -2138,19 +2138,19 @@ $(document).keypress(function(e) {
         $(".eigo").css("visibility", "hidden");
         $(".kanji").text(kanji[n][i]);
         $(".hiragana").text(hiragana[n][i]);
-        $(".eigo").text(eigo[n][i]+ " | " + hiragana[n][i]);
-        e_val = $(".eigo").text(eigo[n][i]+ " | " + hiragana[n][i]).text().toLowerCase();
+        $(".eigo").text(eigo[n][i]);
+        e_val = $(".eigo").text(eigo[n][i]).text().toLowerCase();
         e_eval_h = $(".hiragana").text(hiragana[n][i]).text();
         
         
         if (i===eigo[n].length) {
             $(".kanji").text(kanji[n][0]);
-            $(".eigo").text(eigo[n][0] + " | " + hiragana[n][i]);
+            $(".eigo").text(eigo[n][0]);
             $(".hiragana").text(hiragana[n][0]);
             i=0;
         }
         
-        if (e_val.includes(answer) === true && answer!="" && answer!=undefined || e_eval_h.includes(answer) === true && answer!="" && answer!=undefined ) {
+        if (e_val.includes(answer) === true && answer!="" && answer!=undefined) {
             $(".kanji").animate({color: "#5CDBA4"},200);
             $(".hiragana").animate({color: "#5CDBA4"},200);
             $(".action").val("")
@@ -2230,12 +2230,12 @@ function hideHiragana() {
 
 
 $(".peek").mouseover( function() {
-    $(".peek").text(eigo[n][i] + " | " + hiragana[n][i]);
+    $(".peek").text(eigo[n][i]);
 
 }); 
 
 $( ".peek" ).mouseenter(function() {
-    $(".peek").text(eigo[n][i] + " | " + hiragana[n][i]);
+    $(".peek").text(eigo[n][i]);
   }).mouseleave(function() {
     $(".peek").text("Hover to cheat...");
   });
