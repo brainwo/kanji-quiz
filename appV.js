@@ -2148,6 +2148,7 @@ $(document).keypress(function(e) {
             $(".eigo").text(eigo[n][0] + " | " + hiragana[n][i]);
             $(".hiragana").text(hiragana[n][0]);
             i=0;
+           
         }
         
         if (e_val.includes(answer) === true && answer!="" && answer!=undefined || e_eval_h.includes(answer) === true && answer!="" && answer!=undefined ) {
@@ -2167,28 +2168,36 @@ $(document).keypress(function(e) {
             }
             
             m++; 
-        }  
-          
-        console.log(m)
-
-        if(m === 1)
-        m=0;
+            }  
+            console.log(m)
+        }
+        
         
         if(kanji[n][i] === "" && showHiragana === false && iHidHiragana === false && m==0) {
             console.log("a")
+            console.log(m)
+            console.log(showHiragana)
             $(".hiragana").css("visibility", "visible")
             iHidHiragana = true;
-            
-            
+            console.log(iHidHiragana)
+      
+
         }
-        if(kanji[n][i] !== "" && iHidHiragana === true && m==1) {
+        
+        if(kanji[n][i] !== "" && iHidHiragana === true && m==0) {
             console.log("b")
             $(".hiragana").css("visibility", "hidden")
             iHidHiragana = false;
+            console.log(m)
+            console.log(showHiragana)
+            console.log(iHidHiragana)
+           
             
+
         }
+        if(m === 1)
+        m=0
     
-    }
 });
 
 function addToList () {
