@@ -43,7 +43,7 @@ var onLoad =  $(document).ajaxStop(function () {
 
     
 
-    marker = new L.marker([lat, long]).bindPopup("<p class='name'>" + name + "</p>" + "<p class='desc' style='display: none'>"+desc+"</p>" + "<a class='web' href='"+web+"' style='display: none'>"+web+"</a>" + "<p class='media' style='display: none'>"+media+"</p>").on('click', onClick)
+    marker = new L.marker([lat, long]).bindPopup("<p class='name'>" + name + "</p>" + "<p class='desc' style='display: none'>"+desc+"</p>" + "<a class='web' href='"+web+"' style='display: none'>" + web + "</a>" + "<p class='media' style='display: none'>"+media+"</p>").on('click', onClick)
     .on('mouseover', 
         function () {
             this.openPopup()
@@ -69,7 +69,7 @@ var onLoad =  $(document).ajaxStop(function () {
         $("#exampleModal > .modal-dialog > .modal-content > .modal-header > h5.modal-title").text(nameToModal)
         $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.desc").text(descToModal)
         $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.media").html("<i>"+mediaToModal+"</i>" + " ")
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").html(webToModal)
+        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").html("read more about " + nameToModal)
         $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").attr("href", webToModal);
         }
         
