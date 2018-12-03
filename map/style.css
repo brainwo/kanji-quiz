@@ -1,0 +1,26 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#mapid { 
+    height: 900px; 
+    width: 900px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.modal-dialog {
+    padding-top: 5%;
+  }
+
+
+  @media only screen and (max-width: 720px) {
+    html, body, #mapid { 
+        height: 100%; 
+        width: 100%;
+        margin:0 0 0 0;
+    }
+
+  }
