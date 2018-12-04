@@ -34,12 +34,12 @@ var marker;
 var onLoad =  $(document).ajaxStop(function () {
     var numberOfEvents = tokyo.responseXML.children[0].children.length;
     for(var i = 0; i < numberOfEvents; i++ ) {
-    var name = tokyo.responseXML.children[0].children[i].getElementsByTagName("Name")[0].innerHTML
-    var lat = parseFloat(tokyo.responseXML.children[0].children[i].getElementsByTagName("Latitude")[0].innerHTML) + 0.003227
-    var long = parseFloat(tokyo.responseXML.children[0].children[i].getElementsByTagName("Longitude")[0].innerHTML) - 0.003209 
-    var desc = tokyo.responseXML.children[0].children[i].getElementsByTagName("Description")[0].textContent
-    var media = tokyo.responseXML.children[0].children[i].getElementsByTagName("Media")[0].textContent
-    var web = tokyo.responseXML.children[0].children[i].getAttribute("href")
+    var name = tokyo.responseXML.children[0].children[i].getElementsByTagName("Name")[0].innerHTML;
+    var lat = parseFloat(tokyo.responseXML.children[0].children[i].getElementsByTagName("Latitude")[0].innerHTML) + 0.003227;
+    var long = parseFloat(tokyo.responseXML.children[0].children[i].getElementsByTagName("Longitude")[0].innerHTML) - 0.003209;
+    var desc = tokyo.responseXML.children[0].children[i].getElementsByTagName("Description")[0].textContent;
+    var media = tokyo.responseXML.children[0].children[i].getElementsByTagName("Media")[0].textContent;
+    var web = tokyo.responseXML.children[0].children[i].getAttribute("href");
 
     
 
@@ -47,26 +47,26 @@ var onLoad =  $(document).ajaxStop(function () {
     .on('mouseover', 
         function () {
             this.openPopup()
-            nameToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.name").text()
-            descToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.desc").text()
-            mediaToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.media").text()
-            webToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > a.web").text()
+            nameToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.name").text();
+            descToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.desc").text();
+            mediaToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.media").text();
+            webToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > a.web").text();
         })    
     .on('mouseout', 
         function () {
             this.closePopup();
        
-        })
+        });
     
     markers.addLayer(marker);
     mymap.addLayer(markers);
     
     function onClick() {
         $("#exampleModal").modal()
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-header > h5.modal-title").text(nameToModal)
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.desc").text(descToModal)
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.media").html("<i>"+mediaToModal+"</i>" + " ")
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").html("read more about " + nameToModal)
+        $("#exampleModal > .modal-dialog > .modal-content > .modal-header > h5.modal-title").text(nameToModal);
+        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.desc").text(descToModal);
+        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.media").html("<i>"+mediaToModal+"</i>" + " ");
+        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").html("read more about " + nameToModal);
         $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").attr("href", webToModal);
         }
         
