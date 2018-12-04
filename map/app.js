@@ -56,7 +56,6 @@ var onLoad =  $(document).ajaxStop(function () {
     .on('mouseout', 
         function () {
             this.closePopup();
-       
         });
     
     markers.addLayer(marker);
