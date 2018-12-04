@@ -47,10 +47,11 @@ var onLoad =  $(document).ajaxStop(function () {
     .on('mouseover', 
         function () {
             this.openPopup()
-            nameToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.name").text();
-            descToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.desc").text();
-            mediaToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > p.media").text();
-            webToModal = $("#mapid > div.leaflet-pane.leaflet-map-pane > div.leaflet-pane.leaflet-popup-pane > div > div.leaflet-popup-content-wrapper > div > a.web").text();
+            nameToModal = document.querySelector("p.name").textContent;
+            descToModal = document.querySelector("p.desc").textContent;
+            mediaToModal = document.querySelector("p.media").textContent;
+            webToModal = document.querySelector("a.web").textContent;
+           
         })    
     .on('mouseout', 
         function () {
@@ -63,11 +64,17 @@ var onLoad =  $(document).ajaxStop(function () {
     
     function onClick() {
         $("#exampleModal").modal()
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-header > h5.modal-title").text(nameToModal);
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.desc").text(descToModal);
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.media").html("<i>"+mediaToModal+"</i>" + " ");
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").html("read more about " + nameToModal);
-        $("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.web").attr("href", webToModal);
+
+        document.querySelector("h5.modal-title").textContent = nameToModal;
+        document.querySelector("p.mDesc").textContent = descToModal;
+        document.querySelector("p.mMedia").innerHTML = "<i>"+mediaToModal+"</i>" + " ";
+        document.querySelector("a.mWeb").innerHTML = "read more about " + nameToModal;
+        document.querySelector("a.mWeb").setAttribute("href", webToModal);
+        //$("#exampleModal > .modal-dialog > .modal-content > .modal-header > h5.modal-title").text(nameToModal);
+        //$("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.mDesc").text(descToModal);
+        //$("#exampleModal > .modal-dialog > .modal-content > .modal-body > p.mMedia").html("<i>"+mediaToModal+"</i>" + " ");
+        //$("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.mWeb").html("read more about " + nameToModal);
+        //$("#exampleModal > .modal-dialog > .modal-content > .modal-body > a.mWeb").attr("href", webToModal);
         }
         
     } 
