@@ -44,7 +44,7 @@ var onLoad =  $(document).ajaxStop(function () {
     
 
     marker = new L.marker([lat, long]).bindPopup("<p class='name'>" + name + "</p>" + "<p class='desc' style='display: none'>"+desc+"</p>" + "<a class='web' href='"+web+"' style='display: none'>" + web + "</a>" + "<p class='media' style='display: none'>"+media+"</p>").on('touchstart click', onClick)
-    .on('mouseover', 
+    .on('mouseover click', 
         function () {
             this.openPopup()
             nameToModal = document.querySelector("p.name").textContent;
