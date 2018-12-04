@@ -55,10 +55,7 @@ var onLoad =  $(document).ajaxStop(function () {
     .on('mouseout', 
         function () {
             this.closePopup();
-            nameToModal = undefined;
-            descToModal = undefined;
-            mediaToWeb = undefined;
-            webToModal = undefined;
+       
         })
     
     markers.addLayer(marker);
