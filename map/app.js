@@ -47,10 +47,10 @@ var onLoad =  $(document).ajaxStop(function () {
     .on('mouseover', 
         function () {
             this.openPopup()
-            nameToModal = document.querySelector("p.name").textContent;
-            descToModal = document.querySelector("p.desc").textContent;
-            mediaToModal = document.querySelector("p.media").textContent;
-            webToModal = document.querySelector("a.web").textContent;
+            // nameToModal = document.querySelector("p.name").textContent;
+            // descToModal = document.querySelector("p.desc").textContent;
+            // mediaToModal = document.querySelector("p.media").textContent;
+            // webToModal = document.querySelector("a.web").textContent;
            
         })    
     .on('mouseout', 
@@ -63,6 +63,10 @@ var onLoad =  $(document).ajaxStop(function () {
     
     function onClick() {
         $("#exampleModal").modal();
+        nameToModal = document.querySelector("p.name").textContent;
+            descToModal = document.querySelector("p.desc").textContent;
+            mediaToModal = document.querySelector("p.media").textContent;
+            webToModal = document.querySelector("a.web").textContent;
 
         document.querySelector("h5.modal-title").textContent = nameToModal;
         document.querySelector("p.mDesc").textContent = descToModal;
