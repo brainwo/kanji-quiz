@@ -43,7 +43,7 @@ var onLoad =  $(document).ajaxStop(function () {
 
     
 
-    marker = new L.marker([lat, long]).bindPopup("<p class='name'>" + name + "</p>" + "<p class='desc' style='display: none'>"+desc+"</p>" + "<a class='web' href='"+web+"' style='display: none'>" + web + "</a>" + "<p class='media' style='display: none'>"+media+"</p>").on('click', onClick)
+    marker = new L.marker([lat, long]).bindPopup("<p class='name'>" + name + "</p>" + "<p class='desc' style='display: none'>"+desc+"</p>" + "<a class='web' href='"+web+"' style='display: none'>" + web + "</a>" + "<p class='media' style='display: none'>"+media+"</p>").on('touchstart click', onClick)
     .on('mouseover', 
         function () {
             this.openPopup()
@@ -62,7 +62,7 @@ var onLoad =  $(document).ajaxStop(function () {
     mymap.addLayer(markers);
     
     function onClick() {
-        $("#exampleModal").modal()
+        $("#exampleModal").modal();
 
         document.querySelector("h5.modal-title").textContent = nameToModal;
         document.querySelector("p.mDesc").textContent = descToModal;
