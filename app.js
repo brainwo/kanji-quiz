@@ -6597,7 +6597,7 @@ $(document).keypress(function(e) {
 
 $(document).keypress(function(e) {
     keys[e.which] = true;
-    if(e.which == 37){ 
+    if(e.which == 39){ 
         repeatPlus();
     }
 
