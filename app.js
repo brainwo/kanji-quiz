@@ -6587,13 +6587,20 @@ $(document).keypress(function(e) {
         }  
     }
 
-    else if(e.which == 37) { 
+   
+});
+
+
+$(document).keypress(function(event) {
+    keys[event.which] = true; 
+    if(event.which == 37) { 
         repeatMinus();
    } 
 
-   else if(e.which == 39) { 
+   else if(event.which == 39) { 
        repeatPlus();
    }
+
 });
     
 function addToList () {
