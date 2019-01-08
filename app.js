@@ -6586,22 +6586,19 @@ $(document).keypress(function(e) {
             }
         }  
     }
+
+    if(e.which == 37) { 
+        repeatMinus();
+   } 
+
+   if(e.which == 39) { 
+       repeatPlus();
+   }
 });
 
-$(document).keypress(function(e) {
-    keys[e.which] = true;
-    if(e.which == 37){ 
-         repeatMinus();
-    } 
-});
 
-$(document).keypress(function(e) {
-    keys[e.which] = true;
-    if(e.which == 39){ 
-        repeatPlus();
-    }
+    
 
-});
 
 function addToList () {
     if($.inArray(kanji[n][i],kanji[5]) == -1 ) {
