@@ -6587,19 +6587,15 @@ $(document).keypress(function(e) {
         }  
     }
 
-    if(e.which == 37) { 
+    else if(e.which == 37) { 
         repeatMinus();
    } 
 
-   if(e.which == 39) { 
+   else if(e.which == 39) { 
        repeatPlus();
    }
 });
-
-
     
-
-
 function addToList () {
     if($.inArray(kanji[n][i],kanji[5]) == -1 ) {
         kanji[5].push(kanji[n][i]);
