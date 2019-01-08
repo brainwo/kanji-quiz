@@ -6588,6 +6588,21 @@ $(document).keypress(function(e) {
     }
 });
 
+$(document).keypress(function(e) {
+    keys[e.which] = true;
+    if(e.which == 37){ 
+         repeatMinus();
+    } 
+});
+
+$(document).keypress(function(e) {
+    keys[e.which] = true;
+    if(e.which == 37){ 
+        repeatPlus();
+    }
+
+});
+
 function addToList () {
     if($.inArray(kanji[n][i],kanji[5]) == -1 ) {
         kanji[5].push(kanji[n][i]);
