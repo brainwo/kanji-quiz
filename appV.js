@@ -2209,6 +2209,9 @@ $(document).keyup(function(e) {
     if (e.which == 38) {
         hideHiragana();
     }
+    if (e.which == 40) {
+        addToList();
+    }
     
 });
 
