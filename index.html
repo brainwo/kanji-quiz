@@ -36,6 +36,8 @@
         </div>
         
         <p class="eigo"></p>
+        <p class="onyomi"></p>
+        <p class="kunyomi"></p>
         <p class="count"></p>
         <input class="action" placeholder="input meaning..." type="text"><br>
 
@@ -61,6 +63,7 @@
                   <option value="ms mincho">mincho</option>
                 </select>
             </form><br>
+            <p class="oBtn" onclick="toggleReading()">toggle on/kun</p><br>
             <p class="oBtn" onclick="addToList()">+list</p><br>
             <p class="oBtn" onclick="removeList()">-list</p><br>
             <p id="repeat" class="oBtn" onclick="repeatMinus()">-10 steps</p><br>
@@ -75,6 +78,7 @@
         </div>
     </div>
 
+<script src="kanji.js"></script>
 <script src="app.js"></script>
 </body>
 </html>

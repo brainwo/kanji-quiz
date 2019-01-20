@@ -2128,8 +2128,7 @@ function repeatPlus() {
 var keys = {};
 var timerStart = 0;
 //Whats happens when you press enter
-$(document).keypress(function(e) {
-    keys[e.which] = true;
+$(document).keyup(function(e) {
     if(e.which == 13){
         
         $(".kanji").css("color", "black")
@@ -2197,6 +2196,19 @@ $(document).keypress(function(e) {
         }
         if(m === 1)
         m=0
+
+        
+    if (e.which == 37) {
+        repeatMinus();
+    }
+
+    if (e.which == 39) {
+        repeatPlus();
+    }
+
+    if (e.which == 38) {
+        hideHiragana();
+    }
     
 });
 
