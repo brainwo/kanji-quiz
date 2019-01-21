@@ -142,6 +142,10 @@ $(document).keyup(function (e) {
         repeatPlus();
     }
 
+    if (e.which == 40) {
+        addToList();
+    }
+
 });
 
 function addToList() {
