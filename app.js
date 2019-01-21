@@ -17,8 +17,8 @@ var INIT = (function () {
             }
             $(".kanji").text(kanji[n][i]);
             $(".eigo").text(eigo[n][i]);
-            $(".eigo").text(onyomi[n][i]);
-            $(".eigo").text(kunyomi[n][i]);
+            //$(".eigo").text(onyomi[n][i]);
+            //$(".eigo").text(kunyomi[n][i]);
             $(".count").text(i + "/" + eigo[n].length)
             executed = true;
         }
@@ -98,8 +98,8 @@ $(document).keyup(function (e) {
         $(".kunyomi").css("display", "none");
         $(".kanji").text(kanji[n][i]);
         $(".eigo").text(eigo[n][i]);
-        var ony = $(".onyomi").text(onyomi[n][i]).text();
-        var kun = $(".kunyomi").text(kunyomi[n][i]).text();
+        //var ony = $(".onyomi").text(onyomi[n][i]).text();
+        //var kun = $(".kunyomi").text(kunyomi[n][i]).text();
         e_val = $(".eigo").text(eigo[n][i]).text().toLowerCase();
         
 
@@ -109,7 +109,7 @@ $(document).keyup(function (e) {
             i = 0;
         }
 
-        if (ony.includes(answer) && answer != "" && answer != undefined || kun.includes(answer) && answer != "" && answer != undefined || e_val.includes(answer) && answer != "" && answer != undefined) {
+        if (e_val.includes(answer) && answer != "" && answer != undefined) {
             $(".kanji").animate({ color: "#5CDBA4" }, 200);
             $(".action").val("")
             $(".eigo").css("visibility", "visible");
@@ -117,8 +117,8 @@ $(document).keyup(function (e) {
             if (reading) {
                 $(".onyomi").css("display", "block");
                 $(".kunyomi").css("display", "block");
-                $(".onyomi").text("on: " + onyomi[n][i]);
-                $(".kunyomi").text("kun: " + kunyomi[n][i]);
+               // $(".onyomi").text("on: " + onyomi[n][i]);
+                //$(".kunyomi").text("kun: " + kunyomi[n][i]);
             }
 
             i++;
