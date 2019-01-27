@@ -67,7 +67,7 @@ function shuffle(a, b) {
 function repeatMinus() {
     i -= 10;
     if (i < 0) {
-        i = 0;
+        i = eigo[n].length - 10;
     }
     simulateEnter();
 }
