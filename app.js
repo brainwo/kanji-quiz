@@ -28,12 +28,9 @@ var INIT = (function () {
 INIT(); // Initializes first kanji of N5
 
 function simulateEnter() {
-    e = jQuery.Event("keypress")
-    e.which = 13 //choose the one you want
+    
     $(".count").text(i + "/" + eigo[n].length)
-    $(document).keypress(function () {
-    }).trigger(e)
-
+    jQuery.event.trigger({ type: 'keyup', which: 13 });
 }
 
 function difficulty() {
