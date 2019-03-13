@@ -2109,7 +2109,7 @@ function shuffle(a, b, c) {
 
 //Take 10 steps back
 function repeatMinus() {
-    i-=10;
+    i-=5;
     if(i<0) {
         i=0;
     }
@@ -2118,7 +2118,7 @@ function repeatMinus() {
 
 //Take 10 steps forward
 function repeatPlus() {
-    i+=10;
+    i+=5;
     if(i >= eigo[n].length) {
         i=0;
     }
