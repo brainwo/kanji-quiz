@@ -12,7 +12,7 @@ var tiles = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?ac
     }).addTo(mymap);
     
 var tokyo = $.ajax({
-    url: "https://cors-escape.herokuapp.com/http://www.tokyoartbeat.com/list/event_free.en.xml",
+    url: "https://cors-anywhere.herokuapp.com/http://www.tokyoartbeat.com/list/event_free.en.xml",
     dataType: "xml",
     success: console.log("success"),
     error: function (xhr) {
