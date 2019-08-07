@@ -1253,8 +1253,9 @@ var eigo = [
 'register',
 'report',
 'word processor',
-    ],
-    n3v = [
+ ],
+    
+ n3v = [
     'love',
 'love, affection',
 'sign, signal',
@@ -3058,7 +3059,7 @@ var eigo = [
 'report,paper',
 'locket,rocket',
 'wine',
-    ],
+ ],
     n2v = [],
     n1v = [],
     list = []    
