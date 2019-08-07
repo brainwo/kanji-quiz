@@ -1559,7 +1559,7 @@ var eigo = [
 '(1) gold,(2) gold general (shogi) (abbr)',
 'possible,practicable,feasible',
 'share,stock,stump (of tree)',
-'to put on , wear, cover (one's) head,',
+"to put on , wear, cover (one's) head",
 'to mind,to care about,to be concerned about',
 'patience,endurance,perseverance',
 '(1) first volume,(2) superior quality,(3) governmental',
