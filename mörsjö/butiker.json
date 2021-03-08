@@ -1,0 +1,4832 @@
+[
+    {
+      "latitude": 59.33577,
+      "longitude": 18.012141,
+      "title": "Ica Maxi Lindhagen",
+      "content": "Lindhagensgatan 118 Stockholm"
+    },
+    {
+      "latitude": 59.329424,
+      "longitude": 18.059198,
+      "title": "Coop Konsum Centralen",
+      "content": "Centralplan 1 Stockholm"
+    },
+    {
+      "latitude": 59.322718,
+      "longitude": 18.069324,
+      "title": "Gamla Stans Fisk & Catering",
+      "content": "Mälartorget 21 Stockholm"
+    },
+    {
+      "latitude": 59.323406,
+      "longitude": 18.068023,
+      "title": "Munkbrohallen",
+      "content": "Munkbrogatan 8 Stockholm"
+    },
+    {
+      "latitude": 59.339478,
+      "longitude": 18.060171,
+      "title": "Coop Konsum Sveavägen",
+      "content": "Sveavägen 70 Stockholm"
+    },
+    {
+      "latitude": 59.332854,
+      "longitude": 18.069365,
+      "title": "Ica Kvantum NK Saluhall",
+      "content": "Hamngatan 18-20 Stockholm"
+    },
+    {
+      "latitude": 59.328299,
+      "longitude": 18.042512,
+      "title": "Ica Supermarket Kungsholmstorg",
+      "content": "Kungsholmstorg Stockholm"
+    },
+    {
+      "latitude": 59.331554,
+      "longitude": 18.045004,
+      "title": "Coop Konsum Rådhuset",
+      "content": "Kungsholmsgatan 22 Stockholm"
+    },
+    {
+      "latitude": 59.333654,
+      "longitude": 18.032334,
+      "title": "Daglivs",
+      "content": "Sankt Eriksgatan 34-38 Stockholm"
+    },
+    {
+      "latitude": 59.334659,
+      "longitude": 18.03233,
+      "title": "Ica Supermarket Västermalmsgallerian",
+      "content": "S:t Eriksgatan 45 Stockholm"
+    },
+    {
+      "latitude": 59.332586,
+      "longitude": 18.031738,
+      "title": "Ica Supermarket Fridhemsplan",
+      "content": "S:t Eriksgatan 26 Stockholm"
+    },
+    {
+      "latitude": 59.32808,
+      "longitude": 18.017814,
+      "title": "Hemköp Matpressen",
+      "content": "Rålambsvägen 7 Stockholm"
+    },
+    {
+      "latitude": 59.342976,
+      "longitude": 18.052009,
+      "title": "Coop Konsum OdFenplan",
+      "content": "Coop Konsum Odenplan Odengatan 65 Stockholm"
+    },
+    {
+      "latitude": 59.340079,
+      "longitude": 18.051472,
+      "title": "Hemköp Wasahallen",
+      "content": "Upplandsgatan 28 Stockholm"
+    },
+    {
+      "latitude": 59.346488,
+      "longitude": 18.035054,
+      "title": "Hemköp Torsplan",
+      "content": "Norra Stationsgatan 80C Stocholm"
+    },
+    {
+      "latitude": 59.346608,
+      "longitude": 18.046888,
+      "title": "Coop Konsum Norrtullshallen",
+      "content": "Vanadisvägen 13 Stockholm"
+    },
+    {
+      "latitude": 59.344799,
+      "longitude": 18.058063,
+      "title": "Ica Supermarket Baronen",
+      "content": "Odengatan 40 Stockholm"
+    },
+    {
+      "latitude": 59.338306,
+      "longitude": 18.048719,
+      "title": "Ica Supermarket Sabbatsberg",
+      "content": "Dalagatan 9 N Stockholm"
+    },
+    {
+      "latitude": 59.335809,
+      "longitude": 18.078158,
+      "title": "Husmans Deli",
+      "content": "Nybrogatan 31 Stockholm"
+    },
+    {
+      "latitude": 59.341641,
+      "longitude": 18.084356,
+      "title": "Coop Konsum Östermalmstorg",
+      "content": "Sibyllegatan 8 Stockholm"
+    },
+    {
+      "latitude": 59.339132,
+      "longitude": 18.081969,
+      "title": "Ica Supermarket Esplanad",
+      "content": "Karlavägen 56 Stockholm"
+    },
+    {
+      "latitude": 59.337208,
+      "longitude": 18.090997,
+      "title": "Ica Nära Karlaplan",
+      "content": "Karlaplan 10 Stockholm"
+    },
+    {
+      "latitude": 59.338808,
+      "longitude": 18.090868,
+      "title": "Ica Supermarket Fältöversten",
+      "content": "Karlaplan 13 Stockhlm"
+    },
+    {
+      "latitude": 59.338808,
+      "longitude": 18.090868,
+      "title": "Hemköp Sabis Fältöversten",
+      "content": "Karlaplan 13 Stockholm"
+    },
+    {
+      "latitude": 59.314242,
+      "longitude": 18.074656,
+      "title": "Ica Supermarket Medborgarplatsen",
+      "content": "Folkungagatan 54 Stockholm"
+    },
+    {
+      "latitude": 59.313525,
+      "longitude": 18.092563,
+      "title": "Coop Konsum Bondegatan",
+      "content": "Bondegatan 65-67 Stockholm"
+    },
+    {
+      "latitude": 59.36985,
+      "longitude": 17.858883,
+      "title": "Coop Forum Vällingby",
+      "content": "Siktgatan 11 Vällingby"
+    },
+    {
+      "latitude": 59.310097,
+      "longitude": 18.078898,
+      "title": "Coop Konsum Östgötagatan",
+      "content": "Östgötagatan 71 Stockholm"
+    },
+    {
+      "latitude": 59.307296,
+      "longitude": 18.029589,
+      "title": "Hemköp Stockholm Sjövikshallen",
+      "content": "Sjövikstorget 17 Stockholm"
+    },
+    {
+      "latitude": 59.309794,
+      "longitude": 18.023276,
+      "title": "Ica Kvantum Liljeholmen",
+      "content": "Liljeholmstorget 3 Stockholm"
+    },
+    {
+      "latitude": 59.316245,
+      "longitude": 18.011876,
+      "title": "Coop Konsum Gröndal",
+      "content": "Gröndalsvägen 36 Stockholm"
+    },
+    {
+      "latitude": 59.318973,
+      "longitude": 18.062332,
+      "title": "Coop Konsum Mariatorget",
+      "content": "Hornsgatan 54 Stockholm"
+    },
+    {
+      "latitude": 59.317556,
+      "longitude": 18.050947,
+      "title": "Coop Konsum Zinkensdamm",
+      "content": "Hornsgatan 102 Stockholm"
+    },
+    {
+      "latitude": 59.314907,
+      "longitude": 18.070451,
+      "title": "Coop Extra Medborgarplatsen",
+      "content": "Fatburstrappan 7 Stockholm"
+    },
+    {
+      "latitude": 59.317727,
+      "longitude": 18.057199,
+      "title": "Ica Aptiten",
+      "content": "Knutssonsgatan 16 Stockholm"
+    },
+    {
+      "latitude": 59.307179,
+      "longitude": 18.075518,
+      "title": "Hemköp Skanstull",
+      "content": "Ringvägen 100 Stockholm"
+    },
+    {
+      "latitude": 59.309467,
+      "longitude": 18.075327,
+      "title": "Göta Fisk",
+      "content": "Götgatan 96 Stockholm"
+    },
+    {
+      "latitude": 59.308298,
+      "longitude": 18.075978,
+      "title": "Ica Supermarket Ringen",
+      "content": "Götgatan 132 Stockholm"
+    },
+    {
+      "latitude": 59.302551,
+      "longitude": 18.102927,
+      "title": "Coop Konsum Hammarby Sjöstad",
+      "content": "Lugnets Allé 21 Stockholm"
+    },
+    {
+      "latitude": 59.290248,
+      "longitude": 18.116727,
+      "title": "Coop Konsum Björkhagen",
+      "content": "Halmstadsvägen 37 Johanneshov"
+    },
+    {
+      "latitude": 59.292083,
+      "longitude": 18.082702,
+      "title": "Ica Supermarket Globen",
+      "content": "Arenaslingan 1 Stockholm"
+    },
+    {
+      "latitude": 59.278585,
+      "longitude": 18.069613,
+      "title": "Ica Kvantum Enskede BEA",
+      "content": "Handelsvägen 188 Enskede"
+    },
+    {
+      "latitude": 59.249894,
+      "longitude": 18.095974,
+      "title": "Coop Konsum Farsta Centrum",
+      "content": "Farstaplan 21-27 Farsta"
+    },
+    {
+      "latitude": 59.29444,
+      "longitude": 18.003937,
+      "title": "Coop Älvsjö",
+      "content": "Västbergavägen 4 Älvsjö"
+    },
+    {
+      "latitude": 59.29444,
+      "longitude": 18.003937,
+      "title": "Coop Forum Västberga",
+      "content": "Västbergavägen 4 Hgersten"
+    },
+    {
+      "latitude": 59.285524,
+      "longitude": 17.965606,
+      "title": "Coop Konsum Fruängen",
+      "content": "Fruängsgången 3 Hägersten"
+    },
+    {
+      "latitude": 59.31211,
+      "longitude": 18.203887,
+      "title": "Ica Supermarket Ektorp",
+      "content": "Gamla Landsvägen 10 Nacka"
+    },
+    {
+      "latitude": 59.311755,
+      "longitude": 18.172422,
+      "title": "Ica Maxi Nacka",
+      "content": "Per Hallströms väg 15 Nacka"
+    },
+    {
+      "latitude": 59.326734,
+      "longitude": 18.257103,
+      "title": "Coop Extra Orminge",
+      "content": "Ormingeplan 3 Saltsjö-Boo"
+    },
+    {
+      "latitude": 59.314549,
+      "longitude": 18.25949,
+      "title": "Hemköp Lännersta",
+      "content": "Prästkragens väg 3 Saltsjo-Boo"
+    },
+    {
+      "latitude": 59.284655,
+      "longitude": 18.276998,
+      "title": "Ica Supermarket Saltsjöbaden",
+      "content": "Torggatan 8 Saltsjöbaden"
+    },
+    {
+      "latitude": 59.324873,
+      "longitude": 18.394017,
+      "title": "Coop Konsum Gustavsberg",
+      "content": "Gustavsbergs Centrum Gustavsberg"
+    },
+    {
+      "latitude": 59.31,
+      "longitude": 18.383938,
+      "title": "Coop Forum Värmdö",
+      "content": "Gustavsbergsvägen 34C Gustavsberg"
+    },
+    {
+      "latitude": 59.3239,
+      "longitude": 18.384508,
+      "title": "Hemköp Hamnen",
+      "content": "Odelbergs väg 1 Gustavsberg"
+    },
+    {
+      "latitude": 59.313254,
+      "longitude": 18.429029,
+      "title": "Ica Maxi Värmdö",
+      "content": "Afrodites väg 6 Gustavsberg"
+    },
+    {
+      "latitude": 59.281963,
+      "longitude": 18.425273,
+      "title": "Ingaröhallen",
+      "content": "Pastor Ödmans Väg 2 Ingarö"
+    },
+    {
+      "latitude": 59.244925,
+      "longitude": 18.228343,
+      "title": "Ica Kvantum Tyresö",
+      "content": "Östangränd 2 Tyresö"
+    },
+    {
+      "latitude": 59.24529,
+      "longitude": 18.223821,
+      "title": "Coop Extra Tyresö",
+      "content": "Tyresö Centrum Tyresö"
+    },
+    {
+      "latitude": 59.241699,
+      "longitude": 18.284388,
+      "title": "Coop Tyresö strand",
+      "content": "Strandtorget 2 Tyresö"
+    },
+    {
+      "latitude": 59.179241,
+      "longitude": 18.149224,
+      "title": "Coop Forum Haninge",
+      "content": "Nynäsvägen 21 Haninge"
+    },
+    {
+      "latitude": 59.310876,
+      "longitude": 18.698742,
+      "title": "Ica Nära Djurö",
+      "content": "Gransbergsvägen 2-4 Djurhamn"
+    },
+    {
+      "latitude": 59.323245,
+      "longitude": 18.502136,
+      "title": "Coop Konsum Hemmesta",
+      "content": "Hemmesta Centrum Värmdö"
+    },
+    {
+      "latitude": 59.249978,
+      "longitude": 18.012385,
+      "title": "Coop Extra Stuvsta",
+      "content": "Ågestavägen 1 Huddinge"
+    },
+    {
+      "latitude": 59.23616,
+      "longitude": 17.981008,
+      "title": "Coop Extra Huddinge",
+      "content": "Forelltorget 6 huddinge"
+    },
+    {
+      "latitude": 59.271412,
+      "longitude": 17.921204,
+      "title": "Ica Kvantum Kungens Kurva",
+      "content": "Tangentvägen 4 Kungens Kurva"
+    },
+    {
+      "latitude": 59.192937,
+      "longitude": 17.74384,
+      "title": "Coop Konsum Rönninge",
+      "content": "Dånviksvägen 6 Rönninge"
+    },
+    {
+      "latitude": 59.198675,
+      "longitude": 17.832821,
+      "title": "Ica Kvantum Tumba",
+      "content": "Tumba Torg 7 Tumba"
+    },
+    {
+      "latitude": 59.432102,
+      "longitude": 18.038368,
+      "title": "Ica Nära Enebytorg",
+      "content": "Alvägen 22 Enebyberg"
+    },
+    {
+      "latitude": 58.903705,
+      "longitude": 17.947013,
+      "title": "Coop Konsum Nynäshamn",
+      "content": "Centralgatan 11 Nynäshamn"
+    },
+    {
+      "latitude": 58.900825,
+      "longitude": 17.952392,
+      "title": "Nynäs rökeri & fiskhall 14930 nynäshamn",
+      "content": "Fiskargränd 6 Nynäshamn"
+    },
+    {
+      "latitude": 58.912672,
+      "longitude": 17.956076,
+      "title": "Coop Extra Nynäshamn",
+      "content": "Telivägen 2 Nynäshamn"
+    },
+    {
+      "latitude": 59.196,
+      "longitude": 17.62768,
+      "title": "Ica Södertälje Kringlan",
+      "content": "Storgatan 4 Södertälje"
+    },
+    {
+      "latitude": 59.193743,
+      "longitude": 17.643022,
+      "title": "Coop Konsum Södertälje",
+      "content": "Erik Dahlbergs väg 21 Södertälje"
+    },
+    {
+      "latitude": 59.207379,
+      "longitude": 17.648362,
+      "title": "Ica Supermarket Weda",
+      "content": "Bergaholmsvägen 11-13 Södertälje"
+    },
+    {
+      "latitude": 59.193743,
+      "longitude": 17.643022,
+      "title": "Coop Konsum Folkparken",
+      "content": "Erik Dahlbergs Väg 21 Södertälje"
+    },
+    {
+      "latitude": 59.177547,
+      "longitude": 17.432066,
+      "title": "Ica Supermarket Nykvarn",
+      "content": "Centrumvägen 24 Nykvarn"
+    },
+    {
+      "latitude": 59.361896,
+      "longitude": 17.873021,
+      "title": "Hemköp Vällingby",
+      "content": "Vällingbyplan 14-16 Vällingby"
+    },
+    {
+      "latitude": 59.378504,
+      "longitude": 17.958889,
+      "title": "Coop Sundby Park",
+      "content": "Östra Madenvägen 8 Sundbyberg"
+    },
+    {
+      "latitude": 59.36335,
+      "longitude": 17.873021,
+      "title": "Coop Extra Vällingby",
+      "content": "Pajalagatan 38 Vällingby"
+    },
+    {
+      "latitude": 59.382089,
+      "longitude": 17.897869,
+      "title": "Ica Supermarket Spånga",
+      "content": "Spånga Torg 15 Spånga"
+    },
+    {
+      "latitude": 59.403321,
+      "longitude": 17.943261,
+      "title": "Coop Konsum Kista",
+      "content": "Danmarksgatan 32 Kista"
+    },
+    {
+      "latitude": 59.401912,
+      "longitude": 17.945985,
+      "title": "Ica Supermarket Kista",
+      "content": "Färögatan 30 Kista"
+    },
+    {
+      "latitude": 59.38042,
+      "longitude": 17.817875,
+      "title": "Ica Supermarket Åkermyntan",
+      "content": "Drivbänksvägen 5 Hässelby"
+    },
+    {
+      "latitude": 59.323235,
+      "longitude": 17.956985,
+      "title": "Ica Nära HM:S Livs",
+      "content": "Bergviksvägen 91 Bromma"
+    },
+    {
+      "latitude": 59.338416,
+      "longitude": 17.938906,
+      "title": "Ica Supermarket Brommaplan",
+      "content": "Tunnlandet 1-3 Bromma"
+    },
+    {
+      "latitude": 59.357241,
+      "longitude": 17.949729,
+      "title": "Coop Forum Bromma",
+      "content": "Ulvsundavägen 189 Bromma"
+    },
+    {
+      "latitude": 59.360096,
+      "longitude": 18.000326,
+      "title": "Ica Kvantum Solna",
+      "content": "Postgången 22a Solna"
+    },
+    {
+      "latitude": 59.361234,
+      "longitude": 17.965732,
+      "title": "Ica Supermarket Sundbyberg 17265 sundbyberg",
+      "content": "Landsvägen 63 Sundbyberg"
+    },
+    {
+      "latitude": 59.423922,
+      "longitude": 17.835451,
+      "title": "Coop Extra Jakobsberg",
+      "content": "Riddarplatsen 12 Järfälla"
+    },
+    {
+      "latitude": 59.469326,
+      "longitude": 17.811915,
+      "title": "Hemköp Stäket",
+      "content": "Skarprättarvägen 36 Järfälla"
+    },
+    {
+      "latitude": 59.290234,
+      "longitude": 17.810908,
+      "title": "Ica Supermarket Ekerö",
+      "content": "Mälarötorg 1 Ekerö"
+    },
+    {
+      "latitude": 59.366055,
+      "longitude": 18.135141,
+      "title": "Coop Extra Skeppet",
+      "content": "Friggavägen 26 Lidingö"
+    },
+    {
+      "latitude": 59.366604,
+      "longitude": 18.133917,
+      "title": "Papilles Ost & Chark 18132 lidingö",
+      "content": "Odenvägen 58 Lidingö"
+    },
+    {
+      "latitude": 59.354266,
+      "longitude": 18.218206,
+      "title": "Ica Supermarket Käppala",
+      "content": "Holavedsvägen 1 Lidingö"
+    },
+    {
+      "latitude": 59.374932,
+      "longitude": 18.178425,
+      "title": "Ica Supermarket Rudboda",
+      "content": "Rudbodatorg 22 Lidingö"
+    },
+    {
+      "latitude": 59.398709,
+      "longitude": 18.03622,
+      "title": "Hemköp Mörby Centrum",
+      "content": "Mörby Centrum Danderyd"
+    },
+    {
+      "latitude": 59.396386,
+      "longitude": 18.044901,
+      "title": "Ica Nära Myran",
+      "content": "Mörbyhöjden 1 Danderyd"
+    },
+    {
+      "latitude": 59.407905,
+      "longitude": 18.019075,
+      "title": "Coop Extra Danderyd",
+      "content": "Sunnanängsvägen 2a Danderyd"
+    },
+    {
+      "latitude": 59.397628,
+      "longitude": 18.086601,
+      "title": "Coop Konsum Djursholm",
+      "content": "Vendevägen 13 Djursholm"
+    },
+    {
+      "latitude": 59.461162,
+      "longitude": 18.137958,
+      "title": "Coop Forum Arninge",
+      "content": "Saluvägen 5 Täby"
+    },
+    {
+      "latitude": 59.446569,
+      "longitude": 18.073658,
+      "title": "Hemköp Täby Centrum",
+      "content": "Gustav Bergs väg 13 Täby"
+    },
+    {
+      "latitude": 59.444251,
+      "longitude": 18.072876,
+      "title": "Ica Supermarket Metro",
+      "content": "Stora Marknadsvägen 15 Täby"
+    },
+    {
+      "latitude": 59.471884,
+      "longitude": 18.331811,
+      "title": "Hemköp Favoriten",
+      "content": "Muskötvägen 28 Åkersberga"
+    },
+    {
+      "latitude": 59.480277,
+      "longitude": 18.310783,
+      "title": "Coop Extra Åkersberga",
+      "content": "Pilstugegränd 1-5 Åkersberga"
+    },
+    {
+      "latitude": 59.402914,
+      "longitude": 18.350452,
+      "title": "Coop Konsum Vaxholm",
+      "content": "Hamngatan 11 Vaxholm"
+    },
+    {
+      "latitude": 59.5357,
+      "longitude": 18.078017,
+      "title": "Ica Kvantum Vallentuna Centrum",
+      "content": "Torggatan 17 Vallentuna"
+    },
+    {
+      "latitude": 59.444257,
+      "longitude": 18.03206,
+      "title": "Ica Nära Rösjöhallen",
+      "content": "Ljungmyrsvägen 2 Täby"
+    },
+    {
+      "latitude": 59.426648,
+      "longitude": 17.950662,
+      "title": "Ica Kvantum Sollentuna",
+      "content": "Sköldvägen Solllentuna"
+    },
+    {
+      "latitude": 59.440652,
+      "longitude": 17.931773,
+      "title": "Coop Forum Häggvik",
+      "content": "Norra Malmvägen 82 Sollentuna"
+    },
+    {
+      "latitude": 59.445669,
+      "longitude": 17.96542,
+      "title": "Ica Supermarket Edsberg",
+      "content": "Edsbergs Torg 16 Sollentuna"
+    },
+    {
+      "latitude": 59.47082,
+      "longitude": 17.916073,
+      "title": "Coop Extra Rotebro",
+      "content": "Konsumentvägen 1 Sollentuna"
+    },
+    {
+      "latitude": 59.617003,
+      "longitude": 17.722642,
+      "title": "Ica Supermarket Sigtuna",
+      "content": "Stora gatan 40C Sigtuna"
+    },
+    {
+      "latitude": 59.516426,
+      "longitude": 17.889377,
+      "title": "Hemköp Matextra Upplands Väsby",
+      "content": "Finnvids väg 2 Upplands Väsby"
+    },
+    {
+      "latitude": 59.498435,
+      "longitude": 17.928496,
+      "title": "Ica Supermarket Format",
+      "content": "Kanalvägen 5 B Upplands Väsby"
+    },
+    {
+      "latitude": 59.61636,
+      "longitude": 17.856146,
+      "title": "Coop Extra Märsta",
+      "content": "Västra Bangatan 2 Märsta"
+    },
+    {
+      "latitude": 59.478922,
+      "longitude": 17.749765,
+      "title": "Ica Nära Kungsängen",
+      "content": "Torget 1 Kungsängen"
+    },
+    {
+      "latitude": 57.70773,
+      "longitude": 11.967918,
+      "title": "Hemköp Nordstan ( Göteborg )",
+      "content": "Hemköp Nordstan ( Göteborg ) Östra Hamngatan 28 Göteborg"
+    },
+    {
+      "latitude": 57.698599,
+      "longitude": 11.968043,
+      "title": "Hemköp Vasagatan ( Göteborg )",
+      "content": "Hemköp Vasagatan ( Göteborg ) Vasagatan 30 Göteborg"
+    },
+    {
+      "latitude": 57.698755,
+      "longitude": 11.934843,
+      "title": "Hemköp Stigbergstorget",
+      "content": "Stigbergstorget 6 Göteborg"
+    },
+    {
+      "latitude": 57.722005,
+      "longitude": 11.955546,
+      "title": "Coop Forum Backapla",
+      "content": "Backavägen 2 Göteborg"
+    },
+    {
+      "latitude": 57.560616,
+      "longitude": 11.961677,
+      "title": "Hemköp Billdal",
+      "content": "Kungsporten 6 Billdal"
+    },
+    {
+      "latitude": 57.655176,
+      "longitude": 12.013029,
+      "title": "Hemköp Mölndal ( Göteborg )",
+      "content": "Hemköp Mölndal ( Göteborg ) Brogatan 21 Mölndal"
+    },
+    {
+      "latitude": 57.658457,
+      "longitude": 12.11376,
+      "title": "Hemköp Mölnlycke ( Göteborg )",
+      "content": "Hemköp Mölnlycke ( Göteborg ) Ekdalavägen 3 Mölnlycke"
+    },
+    {
+      "latitude": 57.782953,
+      "longitude": 14.162792,
+      "title": "Hemköp Jönköping",
+      "content": "Barnarpsgatan 10 Jönköping"
+    },
+    {
+      "latitude": 57.496529,
+      "longitude": 13.109506,
+      "title": "Ica Kvantum Svenljunga",
+      "content": "Kinnagatan 3 Svenljunga"
+    },
+    {
+      "latitude": 58.07838,
+      "longitude": 13.02705,
+      "title": "Ica Supermarket Herrljunga",
+      "content": "Magasinsgatan 6 Herrljunga"
+    },
+    {
+      "latitude": 58.898318,
+      "longitude": 17.542187,
+      "title": "Ost & Delikatess Trosa 61930 trosa",
+      "content": "Viktoriagatan 41A Trosa"
+    },
+    {
+      "latitude": 59.356676,
+      "longitude": 16.475024,
+      "title": "Ica Supermarket Stenby",
+      "content": "Stenbygatan 2 Eskilstuna"
+    },
+    {
+      "latitude": 59.376108,
+      "longitude": 17.027601,
+      "title": "Coop Konsum Strängnäs",
+      "content": "Trädgårdsgatan 14-18 Strängnäs"
+    },
+    {
+      "latitude": 59.335793,
+      "longitude": 17.020346,
+      "title": "Coop Forum Strängnäs",
+      "content": "Solberga Handelsväg 17 Strängnäs"
+    },
+    {
+      "latitude": 59.259218,
+      "longitude": 17.222406,
+      "title": "Ica Supermarket Mariefred Torghallen 64721 mariefred",
+      "content": "Storgatan 9 Mariefred"
+    },
+    {
+      "latitude": 59.269251,
+      "longitude": 15.229167,
+      "title": "Coop Extra Österplan ( Örebro )",
+      "content": "Coop Extra Österplan ( Örebro ) Österängsgatan 2 Örebro"
+    },
+    {
+      "latitude": 59.608566,
+      "longitude": 16.53981,
+      "title": "Hemköp Park",
+      "content": "Stora Gatan 58 Västerås"
+    },
+    {
+      "latitude": 59.620741,
+      "longitude": 16.528857,
+      "title": "Ica Nära Aroslund",
+      "content": "Arosvägen 32 Västerås"
+    },
+    {
+      "latitude": 59.637323,
+      "longitude": 16.545083,
+      "title": "Ica Supermarket Grytan",
+      "content": "Grytavägen 1 Västerås"
+    },
+    {
+      "latitude": 59.726544,
+      "longitude": 17.786958,
+      "title": "Ica Kvantum Knivsta",
+      "content": "Centralvägen 56 Knivsta"
+    },
+    {
+      "latitude": 59.636507,
+      "longitude": 17.076577,
+      "title": "Ica Supermarket Stjärnköp",
+      "content": "Torggatan 31 Enköping"
+    },
+    {
+      "latitude": 59.633002,
+      "longitude": 17.0818,
+      "title": "Coop Forum Enköping",
+      "content": "Östra Ringgatan 21 Enköping"
+    },
+    {
+      "latitude": 59.849085,
+      "longitude": 17.563039,
+      "title": "Coop Forum Stenhagen",
+      "content": "Herrhagsvägen 1 Uppsala"
+    },
+    {
+      "latitude": 59.861387,
+      "longitude": 17.627184,
+      "title": "Ica Supermarket Luthagens Livs",
+      "content": "Sysslomansgatan 19-21 Uppsala"
+    },
+    {
+      "latitude": 59.87346,
+      "longitude": 17.66514,
+      "title": "Coop Extra Gränby",
+      "content": "Marknadsgatan 1 Uppsala"
+    },
+    {
+      "latitude": 59.968224,
+      "longitude": 18.806652,
+      "title": "Ica Supermarket Väddö",
+      "content": "Norrtäljevägen 10 Väddö"
+    },
+    {
+      "latitude": 59.752369,
+      "longitude": 18.694619,
+      "title": "Ica Kvantum Flygfyren",
+      "content": "Gustaf Adolfs väg 55 Norrtälje"
+    },
+    {
+      "latitude": 59.764809,
+      "longitude": 18.695044,
+      "title": "Coop Forum Norrtälje",
+      "content": "Baldersgatan 25 Norrtälje"
+    },
+    {
+      "latitude": 59.766556,
+      "longitude": 18.71359,
+      "title": "Ica Supermarket Norrtälje",
+      "content": "Noorsgatan 1 Norrtälje"
+    },
+    {
+      "latitude": 59.743338,
+      "longitude": 18.367084,
+      "title": "Coop Konsum Rimbo",
+      "content": "Köpmannagatan 6 Rimbo"
+    },
+    {
+      "latitude": 59.744497,
+      "longitude": 18.378209,
+      "title": "Ica Supermarket Rimbo",
+      "content": "Norrtäljevägen 6 Rimbo"
+    },
+    {
+      "latitude": 59.360305,
+      "longitude": 17.876443,
+      "title": "City Gross M.A.T Vällingby",
+      "content": "Vilhelminagatan 19 Vällingby"
+    },
+    {
+      "latitude": 59.436747,
+      "longitude": 17.938426,
+      "title": "City Gross Sollentuna",
+      "content": "Glimmervägen 10 Sollentuna"
+    },
+    {
+      "latitude": 59.350152,
+      "longitude": 17.968453,
+      "title": "City Gross Bromma",
+      "content": "Bryggerivägen 10 Bromma"
+    },
+    {
+      "latitude": 59.610017,
+      "longitude": 16.451917,
+      "title": "City Gross Västerås",
+      "content": "Krankroksgatan 21 Västerås"
+    },
+    {
+      "latitude": 55.639613,
+      "longitude": 13.21536,
+      "title": "City Gross Staffanstorp",
+      "content": "Klågerupsvägen 1 Staffanstorp"
+    },
+    {
+      "latitude": 58.21968,
+      "longitude": 15.17687,
+      "title": "City Gross Mantorp",
+      "content": "Mobilia Mantorp"
+    },
+    {
+      "latitude": 56.064111,
+      "longitude": 12.717397,
+      "title": "City Gross M.A.T Helsingborg",
+      "content": "Regementsvägen 3 Helsingborg"
+    },
+    {
+      "latitude": 57.858864,
+      "longitude": 11.917962,
+      "title": "City Gross Ytterby",
+      "content": "Torsbyvägen 12 Ytterby"
+    },
+    {
+      "latitude": 58.3498,
+      "longitude": 11.935649,
+      "title": "City Gross Uddevalla",
+      "content": "Östra torp vägen 2 Uddevalla"
+    },
+    {
+      "latitude": 57.713814,
+      "longitude": 12.866764,
+      "title": "City Gross Borås",
+      "content": "Göteborgsvägen 181 Borås"
+    },
+    {
+      "latitude": 56.101094,
+      "longitude": 12.860448,
+      "title": "City Gross Hyllinge",
+      "content": "Dragaregatan 1 Hyllinge"
+    },
+    {
+      "latitude": 60.576971,
+      "longitude": 15.608302,
+      "title": "City Gross Falun",
+      "content": "Stortallsvägen 3 Falun"
+    },
+    {
+      "latitude": 56.01627,
+      "longitude": 12.753215,
+      "title": "City Gross Helsingborg",
+      "content": "Rusthållsgatan 43 Helsingborg"
+    },
+    {
+      "latitude": 55.612003,
+      "longitude": 13.095529,
+      "title": "City Gross Bernstorp",
+      "content": "Vassvägen 20 Arlöv"
+    },
+    {
+      "latitude": 56.202121,
+      "longitude": 12.567565,
+      "title": "City Gross Höganäs",
+      "content": "Midgårdsgatan 8 Höganäs"
+    },
+    {
+      "latitude": 59.358425,
+      "longitude": 17.980144,
+      "title": "Ica Maxi Solna",
+      "content": "Svetsarvägen 18 Solna"
+    },
+    {
+      "latitude": 57.76743,
+      "longitude": 14.201701,
+      "title": "City Gross Jönköping",
+      "content": "Batterigatan 2 Jönköping"
+    },
+    {
+      "latitude": 56.197175,
+      "longitude": 15.61285,
+      "title": "City Gross Karlskrona",
+      "content": "Lyckebyvägen 1 Karlskrona"
+    },
+    {
+      "latitude": 59.176478,
+      "longitude": 18.161569,
+      "title": "Ica Maxi Haninge",
+      "content": "Söderbyleden Haninge"
+    },
+    {
+      "latitude": 55.868829,
+      "longitude": 12.831243,
+      "title": "City Gross Landskrona",
+      "content": "Drottninggatan 31 Landskrona"
+    },
+    {
+      "latitude": 55.71726,
+      "longitude": 13.165086,
+      "title": "City Gross Lund",
+      "content": "Traktorvägen 1-3 Lund"
+    },
+    {
+      "latitude": 59.237409,
+      "longitude": 17.832401,
+      "title": "Ica Maxi Botkyrka",
+      "content": "Kumla gårdsväg 30 Norsborg"
+    },
+    {
+      "latitude": 57.714879,
+      "longitude": 12.869881,
+      "title": "Rångedala Plantskola",
+      "content": "Göteborgsvägen 179 Borås"
+    },
+    {
+      "latitude": 58.503505,
+      "longitude": 13.157077,
+      "title": "Coop Extra Lidköping",
+      "content": "Linhagsgatan 4 B Lidköping"
+    },
+    {
+      "latitude": 61.828785,
+      "longitude": 16.092583,
+      "title": "Coop Extra Ljusdal",
+      "content": "Norra Järnvägsgatan 27 Ljusdal"
+    },
+    {
+      "latitude": 48.880711,
+      "longitude": 2.303047,
+      "title": "Svenska Kyrkan i Paris",
+      "content": "9, rue Mederic Paris"
+    },
+    {
+      "latitude": 44.799408,
+      "longitude": 10.337246,
+      "title": "Idea Birra (Marco Foutana)",
+      "content": "Idea Birra (Marco Foutana) Strada Republica 95/D PARMA / ITALY"
+    },
+    {
+      "latitude": 58.326279,
+      "longitude": 15.124678,
+      "title": "Coop Extra Mjölby",
+      "content": "Smålandsvägen 20 Mjölby"
+    },
+    {
+      "latitude": 62.391145,
+      "longitude": 17.271198,
+      "title": "Coop Extra Nacksta",
+      "content": "Bultgatan 11 Sundsvall"
+    },
+    {
+      "latitude": 63.309409,
+      "longitude": 12.110102,
+      "title": "Coop Extra Storlien",
+      "content": "Vintergatan 4 Storlien"
+    },
+    {
+      "latitude": 59.13438,
+      "longitude": 12.919536,
+      "title": "Coop Extra Säffle",
+      "content": "Magasinsgatan 6 Säffle"
+    },
+    {
+      "latitude": 59.290481,
+      "longitude": 15.205714,
+      "title": "Coop Extra Örebro Baronen",
+      "content": "Smiesgatan 2 Örebro"
+    },
+    {
+      "latitude": 59.844047,
+      "longitude": 17.690267,
+      "title": "Coop Forum Boländerna",
+      "content": "Rapsgatan 1 Uppsala"
+    },
+    {
+      "latitude": 59.375318,
+      "longitude": 16.469013,
+      "title": "Coop Forum Eskilstuna",
+      "content": "Albertina Nyströms väg 2 Eskilstuna"
+    },
+    {
+      "latitude": 62.635296,
+      "longitude": 17.925115,
+      "title": "Coop Forum Härnösand",
+      "content": "Kaptensgatan 15 Härnösand"
+    },
+    {
+      "latitude": 59.218336,
+      "longitude": 15.138468,
+      "title": "Coop Forum Marieberg,",
+      "content": "Säljarvägen 3 Örebro"
+    },
+    {
+      "latitude": 65.316714,
+      "longitude": 21.47356,
+      "title": "Coop Forum Piteå",
+      "content": "Hamnplan 41 Piteå"
+    },
+    {
+      "latitude": 64.738422,
+      "longitude": 20.966656,
+      "title": "Coop Forum Skellefteå",
+      "content": "Gymnasievägen 8 Skellefteå"
+    },
+    {
+      "latitude": 62.443887,
+      "longitude": 17.334965,
+      "title": "Coop Forum Sundsvall",
+      "content": "Gesällvägen 5 Sundsvall"
+    },
+    {
+      "latitude": 63.850599,
+      "longitude": 20.299914,
+      "title": "Coop Forum Umeå",
+      "content": "Formvägen 4 Umeå"
+    },
+    {
+      "latitude": 63.302679,
+      "longitude": 18.734257,
+      "title": "Coop Forum Örnsköldsvik",
+      "content": "Hästmarksvägen 6 Örnsköldsvik"
+    },
+    {
+      "latitude": 63.17329,
+      "longitude": 14.694526,
+      "title": "Coop Forum Östersund",
+      "content": "Chaufförsvägen 27 Östersund"
+    },
+    {
+      "latitude": 57.710723,
+      "longitude": 11.986615,
+      "title": "Coop Konsum Friggagatan",
+      "content": "Friggagatan 10 A Göteborg"
+    },
+    {
+      "latitude": 57.699606,
+      "longitude": 11.976516,
+      "title": "Coop Konsum Avenyn",
+      "content": "Kungsportsavenyn 26 - 28 Göteborg"
+    },
+    {
+      "latitude": 63.081154,
+      "longitude": 14.824635,
+      "title": "Coop Konsum Brunflo",
+      "content": "Centrumvägen 20 Brunflo"
+    },
+    {
+      "latitude": 62.749542,
+      "longitude": 15.41982,
+      "title": "Coop Konsum Bräcke",
+      "content": "Hantverksgatan 24 Bräcke"
+    },
+    {
+      "latitude": 63.182364,
+      "longitude": 14.618397,
+      "title": "Coop Konsum Frösön",
+      "content": "Trädgårdsvägen 2 Frösön"
+    },
+    {
+      "latitude": 63.110019,
+      "longitude": 16.353654,
+      "title": "Coop Konsum Hammarstrand",
+      "content": "Centralgatan 10 Hammarstrand"
+    },
+    {
+      "latitude": 63.346098,
+      "longitude": 13.463629,
+      "title": "Coop Konsum Järpen",
+      "content": "Norra Vägen 27 Järpen"
+    },
+    {
+      "latitude": 57.984969,
+      "longitude": 15.631185,
+      "title": "Coop Konsum Kisa",
+      "content": "Västravägen 1 Kisa"
+    },
+    {
+      "latitude": 57.721191,
+      "longitude": 11.934958,
+      "title": "Coop Konsum Lundby",
+      "content": "Wieselgrensplatsen 8 Göteborg"
+    },
+    {
+      "latitude": 64.594251,
+      "longitude": 18.677013,
+      "title": "Coop Konsum Matcity Lycksele",
+      "content": "Storgatan 27 Lycksele"
+    },
+    {
+      "latitude": 63.82598,
+      "longitude": 20.261757,
+      "title": "Coop Konsum Matcity Umeå",
+      "content": "Kungsgatan 54 Umeå"
+    },
+    {
+      "latitude": 63.175801,
+      "longitude": 14.638701,
+      "title": "Coop Konsum Matcity Östersund",
+      "content": "Kyrkgatan 66 Östersund"
+    },
+    {
+      "latitude": 58.69967,
+      "longitude": 12.451915,
+      "title": "Coop Konsum Mellerud",
+      "content": "Köpmangatan 4 MELLERUD"
+    },
+    {
+      "latitude": 57.65847,
+      "longitude": 12.115736,
+      "title": "Coop Konsum Mölnlycke",
+      "content": "Biblioteksgatan 7 Mölnlycke"
+    },
+    {
+      "latitude": 63.165172,
+      "longitude": 17.27754,
+      "title": "Coop Konsum Sollefteå",
+      "content": "Storgatan 80 Sollefteå"
+    },
+    {
+      "latitude": 63.85172,
+      "longitude": 15.557852,
+      "title": "Coop Konsum Strömsund",
+      "content": "Vattudalstorget 10 Strömsund"
+    },
+    {
+      "latitude": 62.485911,
+      "longitude": 17.323369,
+      "title": "Coop Konsum Timrå",
+      "content": "Köpmangatan 29 Timrå"
+    },
+    {
+      "latitude": 64.624046,
+      "longitude": 16.657571,
+      "title": "Coop Konsum Vilhelmina",
+      "content": "Volgsjövägen 44 Vilhemina"
+    },
+    {
+      "latitude": 59.051278,
+      "longitude": 12.701059,
+      "title": "Coop Konsum Åmål",
+      "content": "Mellanbrogatan 9 Åmål"
+    },
+    {
+      "latitude": 63.395769,
+      "longitude": 13.086429,
+      "title": "Coop Konsum Åre",
+      "content": "Årevägen 53 Åre"
+    },
+    {
+      "latitude": 60.477836,
+      "longitude": 15.418083,
+      "title": "Coop Norra Backa",
+      "content": "Norra Backagatan 5 Borlänge"
+    },
+    {
+      "latitude": 58.410476,
+      "longitude": 15.620892,
+      "title": "Det lilla kökets Delikatesser",
+      "content": "Storgatan 50 Linköping"
+    },
+    {
+      "latitude": 44.844116,
+      "longitude": 10.370661,
+      "title": "Dispensa Zaniboni S.R.L",
+      "content": "Via Nobel 5/A Parma"
+    },
+    {
+      "latitude": 61.987105,
+      "longitude": 17.054466,
+      "title": "Ekonära Hälsingland",
+      "content": "Storgatan 21 Bergsjö"
+    },
+    {
+      "latitude": 60.675765,
+      "longitude": 17.148283,
+      "title": "Ellens Skafferi",
+      "content": "Drottninggatan 32 Gävle"
+    },
+    {
+      "latitude": 63.696109,
+      "longitude": 16.879475,
+      "title": "Emmas skafferi AB",
+      "content": "Köpmangatan 32 Junsele"
+    },
+    {
+      "latitude": 58.166885,
+      "longitude": 13.534228,
+      "title": "Falbygdens Osteria AB",
+      "content": "Göteborgsvägen 19 Falköping"
+    },
+    {
+      "latitude": 56.051947,
+      "longitude": 14.585484,
+      "title": "Farfars Pärla, Ost & Delikatesser AB",
+      "content": "Södergatan 3 Sölvesborg"
+    },
+    {
+      "latitude": 61.231698,
+      "longitude": 14.036097,
+      "title": "Fjäril",
+      "content": "Dalgatan101 Älvdalen"
+    },
+    {
+      "latitude": 63.177539,
+      "longitude": 14.639474,
+      "title": "Glada Lådan",
+      "content": "Rådhusgatan 44 Östersund"
+    },
+    {
+      "latitude": 59.330052,
+      "longitude": 14.562061,
+      "title": "Goda ting & garn",
+      "content": "Sandviksvägen 10 Karlskoga"
+    },
+    {
+      "latitude": 59.065714,
+      "longitude": 15.10943,
+      "title": "God smak Hallsberg",
+      "content": "VÄSTRA STORGATAN 7C 69430"
+    },
+    {
+      "latitude": 55.704034,
+      "longitude": 13.189327,
+      "title": "Grand Hotel i Lund",
+      "content": "Klostergatan 13 Lund"
+    },
+    {
+      "latitude": 63.176683,
+      "longitude": 14.636068,
+      "title": "Grändens Deli",
+      "content": "Tomégränd 9 Östersund"
+    },
+    {
+      "latitude": 57.491342,
+      "longitude": 15.841214,
+      "title": "Alex Bensin & Service AB",
+      "content": "Oskarsgatan 79 Hultsfred"
+    },
+    {
+      "latitude": 58.07797,
+      "longitude": 13.021597,
+      "title": "Allt kring mat i Herrljunga",
+      "content": "Storgatan 26 Herrljunga"
+    },
+    {
+      "latitude": 64.624471,
+      "longitude": 16.655497,
+      "title": "Bergmans fisk",
+      "content": "Sågån 1 Vilhelmina"
+    },
+    {
+      "latitude": 58.356154,
+      "longitude": 11.963109,
+      "title": "Blomsterlandet Värslegiljan Aktiebolag",
+      "content": "Nordmannerödsvägen 1 UDDEVALLA"
+    },
+    {
+      "latitude": 44.598508,
+      "longitude": 10.689932,
+      "title": "Boutique Del Formaggio e Salume",
+      "content": "via Vallisneri 10 Scandiano"
+    },
+    {
+      "latitude": 56.206215,
+      "longitude": 12.556099,
+      "title": "Butiken Bredvid",
+      "content": "Bruksgatan 36Y HÖGANÄS"
+    },
+    {
+      "latitude": 57.81939,
+      "longitude": 12.417209,
+      "title": "Hugo Ericson",
+      "content": "Spinnerivägen 1 Nääs Tollered"
+    },
+    {
+      "latitude": 58.349734,
+      "longitude": 11.340997,
+      "title": "Hunnebo Servicebutik",
+      "content": "Strandvägen 40 Bohus Malmön"
+    },
+    {
+      "latitude": 59.65717,
+      "longitude": 12.586527,
+      "title": "ICA Kvantum Arvika",
+      "content": "Palmviksgatan 12 Arvika"
+    },
+    {
+      "latitude": 60.484161,
+      "longitude": 15.417972,
+      "title": "ICA Kvantum Borlänge",
+      "content": "Kupolen 1 Borlänge"
+    },
+    {
+      "latitude": 55.563692,
+      "longitude": 12.972022,
+      "title": "ICA Kvantum Emporia",
+      "content": "Hyllie Stations väg 22 MALMÖ"
+    },
+    {
+      "latitude": 59.712993,
+      "longitude": 14.156122,
+      "title": "ICA Kvantum Filipstad",
+      "content": "Konsul Lundströms v. 1 Filipstad"
+    },
+    {
+      "latitude": 60.669016,
+      "longitude": 17.17976,
+      "title": "ICA Kvantum Fjällbacken",
+      "content": "Atlasgatan 42 Gävle"
+    },
+    {
+      "latitude": 67.848286,
+      "longitude": 20.253535,
+      "title": "ICA Kvantum Kiruna",
+      "content": "Österleden 2 Kiruna"
+    },
+    {
+      "latitude": 58.580666,
+      "longitude": 16.146091,
+      "title": "Ica Kvantum Klockaretorpet",
+      "content": "Folkborgsvägen 1 Norrköping"
+    },
+    {
+      "latitude": 62.298305,
+      "longitude": 17.379027,
+      "title": "ICA Kvantum Kvissleby",
+      "content": "Affärsgatan 6 Kvissleby"
+    },
+    {
+      "latitude": 65.594492,
+      "longitude": 22.149433,
+      "title": "ICA Kvantum Luleå",
+      "content": "Delfingatan 4 Luleå"
+    },
+    {
+      "latitude": 55.595048,
+      "longitude": 12.96703,
+      "title": "ICA Kvantum Malmborg Erikslust",
+      "content": "Erikslustvägen 17 Malmö"
+    },
+    {
+      "latitude": 55.581645,
+      "longitude": 12.935247,
+      "title": "ICA Kvantum Malmborg Limhamn",
+      "content": "Linnégatan 48 Limhamn"
+    },
+    {
+      "latitude": 55.581134,
+      "longitude": 13.003528,
+      "title": "ICA Kvantum Malmborg Mobilia",
+      "content": "Per Albin Hanssonsväg 40 Malmö"
+    },
+    {
+      "latitude": 55.709718,
+      "longitude": 13.215888,
+      "title": "ICA Kvantum Malmborg Tuna",
+      "content": "Tunavägen 39 Lund"
+    },
+    {
+      "latitude": 63.15558,
+      "longitude": 14.682999,
+      "title": "ICA Kvantum Östersund",
+      "content": "Slåttervägen 31 ÖSTERSUND"
+    },
+    {
+      "latitude": 62.39193,
+      "longitude": 17.262477,
+      "title": "ICA Kvantum Nacksta",
+      "content": "Axvägen 1 Sundsvall"
+    },
+    {
+      "latitude": 56.902052,
+      "longitude": 14.830847,
+      "title": "Ica Kvantum Norremark",
+      "content": "Norremarksvägen 3 Växjö"
+    },
+    {
+      "latitude": 58.573286,
+      "longitude": 16.211099,
+      "title": "ICA Kvantum Norrköping",
+      "content": "Timmermansgatan 44 NORRKÖPING"
+    },
+    {
+      "latitude": 56.741762,
+      "longitude": 15.902596,
+      "title": "Ica Kvantum Nybro",
+      "content": "Bangatan 4 Nybro"
+    },
+    {
+      "latitude": 57.648848,
+      "longitude": 14.70129,
+      "title": "ICA Kvantum Nässjö",
+      "content": "Bandygatan 5 Nässjö"
+    },
+    {
+      "latitude": 65.314342,
+      "longitude": 21.480751,
+      "title": "ICA Kvantum Piteå",
+      "content": "Hamnplan 7 Piteå"
+    },
+    {
+      "latitude": 63.160612,
+      "longitude": 17.296812,
+      "title": "ICA Kvantum Sollefteå",
+      "content": "Hågesta 227 Sollefteå"
+    },
+    {
+      "latitude": 55.716964,
+      "longitude": 13.343251,
+      "title": "ICA Kvantum Södra Sandby",
+      "content": "Revingevägen 2 Södra Sandby"
+    },
+    {
+      "latitude": 55.425456,
+      "longitude": 12.964026,
+      "title": "ICA Kvantum Toppen",
+      "content": "Kungstorpsvägen 8B Höllviken"
+    },
+    {
+      "latitude": 63.839862,
+      "longitude": 20.194901,
+      "title": "ICA Kvantum Umeå",
+      "content": "Kronoskogsvägen Umeå"
+    },
+    {
+      "latitude": 63.302534,
+      "longitude": 18.720791,
+      "title": "ICA Kvantum Örnsköldsvik",
+      "content": "Ångermanlandsgatan 24 Örnsköldsvik"
+    },
+    {
+      "latitude": 60.482627,
+      "longitude": 15.447746,
+      "title": "ICA Maxi Borlänge",
+      "content": "Mjälgavägen 2 Borlänge"
+    },
+    {
+      "latitude": 59.616012,
+      "longitude": 16.462024,
+      "title": "ICA Maxi Erikslund",
+      "content": "Traversgatan 12 Västerås"
+    },
+    {
+      "latitude": 60.606997,
+      "longitude": 15.658548,
+      "title": "ICA Maxi Falun",
+      "content": "Bataljonsvägen 11 Falun"
+    },
+    {
+      "latitude": 60.646836,
+      "longitude": 17.147116,
+      "title": "Ica Maxi Gävle",
+      "content": "Ingenjörsgatan 1 Gävle"
+    },
+    {
+      "latitude": 65.842631,
+      "longitude": 24.119252,
+      "title": "ICA Maxi Haparanda",
+      "content": "Hästskovägen 2 Haparanda"
+    },
+    {
+      "latitude": 61.742965,
+      "longitude": 17.116043,
+      "title": "ICA Maxi Hudiksvall",
+      "content": "Blockvägen 1 Hudiksvall"
+    },
+    {
+      "latitude": 56.100632,
+      "longitude": 12.861531,
+      "title": "ICA Maxi Hyllinge",
+      "content": "Dragaregatan 2 Åstorp"
+    },
+    {
+      "latitude": 59.609391,
+      "longitude": 16.620723,
+      "title": "ICA Maxi Hälla",
+      "content": "Stockholmsvägen 134 Västerås"
+    },
+    {
+      "latitude": 62.635667,
+      "longitude": 17.92593,
+      "title": "ICA Maxi Härnösand",
+      "content": "Kaptensgatan 8 Härnösand"
+    },
+    {
+      "latitude": 56.664822,
+      "longitude": 12.877917,
+      "title": "ICA Maxi Högskolan",
+      "content": "Kristian IV:s v. 3 Halmstad"
+    },
+    {
+      "latitude": 57.771912,
+      "longitude": 14.176684,
+      "title": "ICA Maxi Jönköping",
+      "content": "Herkulesvägen 7 Jönköping"
+    },
+    {
+      "latitude": 56.669494,
+      "longitude": 16.339222,
+      "title": "ICA Maxi Kalmar",
+      "content": "Verkstadsgatan 6 Kalmar"
+    },
+    {
+      "latitude": 0,
+      "longitude": 16.225502,
+      "title": "ICA Maxi Katrineholm",
+      "content": "Starrvägen 17 Katrineholm"
+    },
+    {
+      "latitude": 56.834795,
+      "longitude": 13.944624,
+      "title": "ICA Maxi Ljungby",
+      "content": "Drottninggatan 34 Ljungby"
+    },
+    {
+      "latitude": 56.197093,
+      "longitude": 15.640685,
+      "title": "ICA Maxi Lyckeby",
+      "content": "Verkövägen 5 Karlskrona"
+    },
+    {
+      "latitude": 55.573089,
+      "longitude": 13.037081,
+      "title": "ICA Maxi Malmö",
+      "content": "Cypressvägen 4 Malmö"
+    },
+    {
+      "latitude": 58.617316,
+      "longitude": 16.157192,
+      "title": "ICA Maxi Norrköping",
+      "content": "Järngatan 6 Norrköping"
+    },
+    {
+      "latitude": 56.00236,
+      "longitude": 12.742117,
+      "title": "ICA Maxi Råå",
+      "content": "Landskronav. 33 Helsingborg"
+    },
+    {
+      "latitude": 60.624149,
+      "longitude": 16.772896,
+      "title": "ICA Maxi Sandviken",
+      "content": "Linggatan 25 Sandviken"
+    },
+    {
+      "latitude": 64.766046,
+      "longitude": 21.025131,
+      "title": "ICA Maxi Skellefteå",
+      "content": "Varugatan 28 SKELLEFTEÅ"
+    },
+    {
+      "latitude": 62.443243,
+      "longitude": 17.348733,
+      "title": "ICA Maxi Sundsvall",
+      "content": "Antennvägen 11 Sundsbruk"
+    },
+    {
+      "latitude": 58.432084,
+      "longitude": 15.59159,
+      "title": "ICA MAXI Tornby",
+      "content": "Västra Svedengatan 12 LINKÖPING"
+    },
+    {
+      "latitude": 55.373943,
+      "longitude": 13.131257,
+      "title": "ICA Maxi Trelleborg",
+      "content": "Strandridaregatan 10 Trelleborg"
+    },
+    {
+      "latitude": 58.313812,
+      "longitude": 12.303262,
+      "title": "ICA Maxi Trollhättan",
+      "content": "Överby Köpcenter Trollhättan"
+    },
+    {
+      "latitude": 63.797612,
+      "longitude": 20.302758,
+      "title": "ICA Maxi Umeå",
+      "content": "Strömpilsplatsen 41 Umeå"
+    },
+    {
+      "latitude": 56.178032,
+      "longitude": 14.855245,
+      "title": "City Gross Karlshamn",
+      "content": "Erik Dahlbergsv 101 Karlshamn"
+    },
+    {
+      "latitude": 59.295128,
+      "longitude": 15.199474,
+      "title": "City Gross Örebro",
+      "content": "Prologgatan 8 Örebro"
+    },
+    {
+      "latitude": 59.846562,
+      "longitude": 17.686971,
+      "title": "City Gross Uppsala",
+      "content": "Stångjärnsgatan 10 Uppsala"
+    },
+    {
+      "latitude": 58.391847,
+      "longitude": 13.459895,
+      "title": "City Gross Skara",
+      "content": "Skaraborgsgatan 49 Skara"
+    },
+    {
+      "latitude": 57.179107,
+      "longitude": 14.005102,
+      "title": "City gross Värnamo",
+      "content": "Silkesvägen 34 Värnamo"
+    },
+    {
+      "latitude": 56.878008,
+      "longitude": 14.773492,
+      "title": "City Gross Växjö",
+      "content": "Sambandsvägen 4 Växjö"
+    },
+    {
+      "latitude": 55.391303,
+      "longitude": 12.834214,
+      "title": "ICA Nära Falsterbo",
+      "content": "Gamla Torg 1 Falsterbo"
+    },
+    {
+      "latitude": 62.054503,
+      "longitude": 17.239816,
+      "title": "ICA Nära Gnarp",
+      "content": "Statiionsvägen 29 GNARP"
+    },
+    {
+      "latitude": 62.914473,
+      "longitude": 15.232798,
+      "title": "Ica Nära Gällö",
+      "content": "Ringsvägen 2 Gällö"
+    },
+    {
+      "latitude": 60.583171,
+      "longitude": 16.531281,
+      "title": "ICA Nära Storvik",
+      "content": "Tingsgatan 5 Storvik"
+    },
+    {
+      "latitude": 62.417634,
+      "longitude": 16.583383,
+      "title": "Ica Nära Stöde",
+      "content": "Stödevägen 44 Stöde"
+    },
+    {
+      "latitude": 60.669356,
+      "longitude": 17.148967,
+      "title": "ICA Nära Söder",
+      "content": "Södra Kungsgatan 32 Gävle"
+    },
+    {
+      "latitude": 62.428885,
+      "longitude": 17.416426,
+      "title": "Ica Supermarket Alnö",
+      "content": "Raholmsvägen 13 Alnö"
+    },
+    {
+      "latitude": 60.605111,
+      "longitude": 16.751264,
+      "title": "ICA Supermarket Björksätra",
+      "content": "Björksätra Mitt Sandviken"
+    },
+    {
+      "latitude": 64.953188,
+      "longitude": 21.203023,
+      "title": "Ica Supermarket Byske",
+      "content": "Storgatan 3 BYSKE"
+    },
+    {
+      "latitude": 56.427163,
+      "longitude": 12.849073,
+      "title": "ICA Supermarket Båstad",
+      "content": "Köpmansgatan 76 B Båstad"
+    },
+    {
+      "latitude": 63.817857,
+      "longitude": 20.212214,
+      "title": "ICA Supermarket Böleäng",
+      "content": "Fruktvägen 1 Umeå"
+    },
+    {
+      "latitude": 62.39145,
+      "longitude": 17.309279,
+      "title": "Ica Supermarket Esplanad",
+      "content": "Esplanaden 5 Sundsvall"
+    },
+    {
+      "latitude": 59.352662,
+      "longitude": 13.111409,
+      "title": "ICA Supermarket Grums",
+      "content": "Sveagatan 89 Grums"
+    },
+    {
+      "latitude": 59.759633,
+      "longitude": 18.702486,
+      "title": "ICA Supermarket Kryddan",
+      "content": "Billborgsgatan 7 Norrtälje"
+    },
+    {
+      "latitude": 63.827181,
+      "longitude": 20.248254,
+      "title": "ICA Supermarket Kåge",
+      "content": "Storgatan 28C Umeå"
+    },
+    {
+      "latitude": 59.289306,
+      "longitude": 13.517713,
+      "title": "ICA Supermarket Lövnäs",
+      "content": "Norra Hallerudsvägen 4 Hammarö"
+    },
+    {
+      "latitude": 60.683449,
+      "longitude": 13.712203,
+      "title": "ICA Supermarket Malung",
+      "content": "Grönlandsvägen 30 MALUNG"
+    },
+    {
+      "latitude": 62.347317,
+      "longitude": 17.020164,
+      "title": "Ica Supermarket Matfors",
+      "content": "Skölevägen 2-4 Matfors"
+    },
+    {
+      "latitude": 60.731557,
+      "longitude": 14.996809,
+      "title": "ICA Supermarket Mårtas Leksand",
+      "content": "Torget 2 Leksand"
+    },
+    {
+      "latitude": 59.247079,
+      "longitude": 15.167234,
+      "title": "ICA Supermarket Parken",
+      "content": "Adolf Mörners Plan 4 Örebro"
+    },
+    {
+      "latitude": 0,
+      "longitude": 20.846876,
+      "title": "Ica Supermarket Robertsfors",
+      "content": "Storgatan 30 Robertsfors"
+    },
+    {
+      "latitude": 55.412404,
+      "longitude": 12.844103,
+      "title": "ICA Supermarket Skanör",
+      "content": "Södergatan 12 Skanör"
+    },
+    {
+      "latitude": 64.751435,
+      "longitude": 20.951319,
+      "title": "ICA Supermarket Skellefteå",
+      "content": "Stationsgatan 16 Skellefteå"
+    },
+    {
+      "latitude": 59.385717,
+      "longitude": 13.480011,
+      "title": "ICA Supermarket Spara",
+      "content": "Ramgatan 3 Karlstad"
+    },
+    {
+      "latitude": 59.132785,
+      "longitude": 12.932742,
+      "title": "ICA Supermarket Säffle",
+      "content": "Östra Storgatan 17 Säffle"
+    },
+    {
+      "latitude": 56.05069,
+      "longitude": 14.58235,
+      "title": "ICA Supermarket Sölvesborg",
+      "content": "Järnvägsg. 1 Sölvesborg"
+    },
+    {
+      "latitude": 62.509741,
+      "longitude": 17.370545,
+      "title": "ICA Supermarket Sörberget",
+      "content": "Mogatan 1 Sörberge"
+    },
+    {
+      "latitude": 64.624754,
+      "longitude": 16.654646,
+      "title": "ICA Supermarket Tallen",
+      "content": "Volgsjövägen 36 Vilhelmina"
+    },
+    {
+      "latitude": 56.852868,
+      "longitude": 14.820899,
+      "title": "ICA Supermarket Teleborg",
+      "content": "Smedsvängen 70 Växjö"
+    },
+    {
+      "latitude": 60.132136,
+      "longitude": 13.00061,
+      "title": "ICA Supermarket Toria",
+      "content": "Gräsmarksvägen Torsby"
+    },
+    {
+      "latitude": 63.168752,
+      "longitude": 14.568438,
+      "title": "ICA Supermarket Valhalla",
+      "content": "Valla Centrum Frösön"
+    },
+    {
+      "latitude": 57.721435,
+      "longitude": 12.073764,
+      "title": "Ica Supermarket Vallhamra",
+      "content": "Ugglumsleden 23 Sävedalen"
+    },
+    {
+      "latitude": 59.392673,
+      "longitude": 13.516915,
+      "title": "ICA Supermarket Wallinders",
+      "content": "Rudsvägen 34 Karlstad"
+    },
+    {
+      "latitude": 59.609356,
+      "longitude": 16.574735,
+      "title": "ICA Supermarket Viksäng",
+      "content": "Regementsgatan 1 Västerås"
+    },
+    {
+      "latitude": 56.245179,
+      "longitude": 12.862972,
+      "title": "ICA Supermarket Ängelholm",
+      "content": "Storgatan 45 Ängelholm"
+    },
+    {
+      "latitude": 66.146185,
+      "longitude": 19.989481,
+      "title": "Kom in bageri och lanthandel AB",
+      "content": "Kåbdalis 402 Kåbdalis"
+    },
+    {
+      "latitude": 63.289986,
+      "longitude": 18.715776,
+      "title": "Mat Studio S20",
+      "content": "Storgatan 20 Örnsköldsvik"
+    },
+    {
+      "latitude": 58.399276,
+      "longitude": 15.54525,
+      "title": "Norins Ost AB",
+      "content": "Björklundsgatan 3 Linköping"
+    },
+    {
+      "latitude": 56.028964,
+      "longitude": 14.1578,
+      "title": "Ohlssons ost & delikatess",
+      "content": "Östra Storgatan 65 Kristianstad"
+    },
+    {
+      "latitude": 62.398993,
+      "longitude": 17.296048,
+      "title": "Smakrummet",
+      "content": "Norra Berget Sundsvall"
+    },
+    {
+      "latitude": 55.581562,
+      "longitude": 12.931874,
+      "title": "Ostboden på Limhamn",
+      "content": "Järnvägsgatan 45 Limhamn"
+    },
+    {
+      "latitude": 61.117852,
+      "longitude": 14.617784,
+      "title": "Saluhallen i Orsa",
+      "content": "Kaplansgatan 13 Orsa"
+    },
+    {
+      "latitude": 59.92087,
+      "longitude": 16.607407,
+      "title": "Silverstadens Delikatesser",
+      "content": "Rådmansgatan 8 Sala"
+    },
+    {
+      "latitude": 50.110922,
+      "longitude": 8.682127,
+      "title": "Svenska kyrkan i Frankfurt",
+      "content": "An de Wolfsweide 54 Frankfurt am Main"
+    },
+    {
+      "latitude": 58.55457,
+      "longitude": 15.064497,
+      "title": "Östenssons Livs",
+      "content": "Myntgatan 2 Motala"
+    },
+    {
+      "latitude": 59.270566,
+      "longitude": 15.214946,
+      "title": "Örebro Ost",
+      "content": "Kungsgatan 13 Örebro"
+    },
+    {
+      "latitude": 59.27029,
+      "longitude": 15.212855,
+      "title": "Örebro Konfektyr",
+      "content": "Nygatan 32 Örebro"
+    },
+    {
+      "latitude": 63.405897,
+      "longitude": 13.018687,
+      "title": "Åre Delikatess Restaurang & Catering",
+      "content": "Trollvägen 5 Åre"
+    },
+    {
+      "latitude": 58.709849,
+      "longitude": 13.843399,
+      "title": "Wästgötabagaren i Mariestad",
+      "content": "Parkvägen 4 Mariestad"
+    },
+    {
+      "latitude": 64.595691,
+      "longitude": 18.67271,
+      "title": "Viltboa",
+      "content": "Skolgatan 21 Lycksele"
+    },
+    {
+      "latitude": 59.194106,
+      "longitude": 17.445379,
+      "title": "Turinge Ost & Vin",
+      "content": "Gamla Strängnäs 335 Nykvarn"
+    },
+    {
+      "latitude": 58.898369,
+      "longitude": 17.542343,
+      "title": "Trosa Delikatess & Ost",
+      "content": "Viktoriagatan 41 B Trosa"
+    },
+    {
+      "latitude": 62.575241,
+      "longitude": 11.384773,
+      "title": "Röros Delikatesser",
+      "content": "Kjerkgata 8 Röros"
+    },
+    {
+      "latitude": 45.4770928,
+      "longitude": 9.2020414,
+      "title": "Bjork Swedish Brasserie",
+      "content": "via Panfilo Castaldi 20 Milano"
+    },
+    {
+      "latitude": 45.0614166,
+      "longitude": 7.6999573,
+      "title": "im Bedamje",
+      "content": "Via Francesco Lanfranchi 6 Torino"
+    },
+    {
+      "latitude": 45.4810885,
+      "longitude": 9.2088864,
+      "title": "enoteca Vini e Sapori",
+      "content": "Via Vitruvio, 11 Milano"
+    },
+    {
+      "latitude": 41.0451627,
+      "longitude": 16.9185065,
+      "title": "OCSA food",
+      "content": "Via Casamassima, 89 Capurso (BA)"
+    },
+    {
+      "latitude": 42.9152123,
+      "longitude": 13.8935369,
+      "title": "Delizie e Caffè",
+      "content": "Via del Mare, 63 San Benedetto del Tr. (AP)"
+    },
+    {
+      "latitude": 45.6557583,
+      "longitude": 8.8163461,
+      "title": "RichFood",
+      "content": "Viale Danimarca, 1 Gallarate"
+    },
+    {
+      "latitude": 44.3243221,
+      "longitude": 10.837646,
+      "title": "La Zucca Felice",
+      "content": "Via Giardini Sud, 247 Pavullo Nel Frignano"
+    },
+    {
+      "latitude": 44.8001965,
+      "longitude": 10.3277975,
+      "title": "La Drogheria",
+      "content": "Strada Farini, 11/a Parma"
+    },
+    {
+      "latitude": 59.415298,
+      "longitude": 17.864825,
+      "title": "Ica Maxi Barkaby",
+      "content": "Majorsvägen 4 A Järfälla"
+    },
+    {
+      "latitude": 59.12629,
+      "longitude": 15.142956,
+      "title": "Vardagslyx i Kumla",
+      "content": "Köpmangatan 22 Kumla"
+    },
+    {
+      "latitude": 58.589052,
+      "longitude": 16.185695,
+      "title": "Norins Ost Norrköping",
+      "content": "Skolgatan 1 B Norrköping"
+    },
+    {
+      "latitude": 59.37941,
+      "longitude": 13.497966,
+      "title": "Nilssons Ost",
+      "content": "Drottninggatan 28 Karlstad"
+    },
+    {
+      "latitude": 56.378861,
+      "longitude": 13.994209,
+      "title": "Pecorino Ost & sånt",
+      "content": "Östra Järnvägsgatan 2 Osby"
+    },
+    {
+      "latitude": 58.537148,
+      "longitude": 15.033977,
+      "title": "Skafferiet Ost och deli",
+      "content": "Kungsgatan 11 Motala"
+    },
+    {
+      "latitude": 55.79087,
+      "longitude": 13.109968,
+      "title": "Matmakarna",
+      "content": "Stenhuggaregatan 4 Kävlinge"
+    },
+    {
+      "latitude": 63.39904,
+      "longitude": 13.08151,
+      "title": "Ica Åre",
+      "content": "Sankt Olavs väg 33 Åre"
+    },
+    {
+      "latitude": 63.17074,
+      "longitude": 14.69201,
+      "title": "Ica Kvantum",
+      "content": "Hagvägen 13 Östersund"
+    },
+    {
+      "latitude": 63.19251,
+      "longitude": 14.65043,
+      "title": "Ica Maxi",
+      "content": "Arenavägen 19 Östersund"
+    },
+    {
+      "latitude": 62.5462,
+      "longitude": 12.5427,
+      "title": "Ica Supermarket Enqvist",
+      "content": "Rörosvägen 13 Funäsdalen"
+    },
+    {
+      "latitude": 63.15558,
+      "longitude": 14.683,
+      "title": "Ica Supermarket Odenhallen",
+      "content": "Slåttervägen 31 Östersund"
+    },
+    {
+      "latitude": 63.08158,
+      "longitude": 14.82468,
+      "title": "Ica Supermarket Brunflo",
+      "content": "Centrumvägen 15 Brunflo"
+    },
+    {
+      "latitude": 63.17944,
+      "longitude": 14.65078,
+      "title": "Ica Supermarket Matmästar´n",
+      "content": "Samuel Permans gata 26 Östersund"
+    },
+    {
+      "latitude": 63.37881,
+      "longitude": 13.15155,
+      "title": "Ica Nära Björnänge",
+      "content": "Björnänge 825 Åre"
+    },
+    {
+      "latitude": 63.39281,
+      "longitude": 12.92015,
+      "title": "Ica Nära Toppen Duved",
+      "content": "Karolinervägen 21 Duved"
+    },
+    {
+      "latitude": 63.39281,
+      "longitude": 12.92015,
+      "title": "Ica Supermarket Svenstavik",
+      "content": "Tingshusvägen 1 Svenstavik"
+    },
+    {
+      "latitude": 63.3144,
+      "longitude": 13.24183,
+      "title": "Ica Nära Strrandbergs",
+      "content": "Byvägen 63 Undersåker"
+    },
+    {
+      "latitude": 62.41816,
+      "longitude": 13.51194,
+      "title": "Ica Supermarket Hede",
+      "content": "Storgatan 16 Hede"
+    },
+    {
+      "latitude": 63.17864,
+      "longitude": 14.63824,
+      "title": "Ica Supermarket Traktören",
+      "content": "Kyrkgatan 46 Östersund"
+    },
+    {
+      "latitude": 63.3266,
+      "longitude": 14.45087,
+      "title": "Ica Supermarket Krokom",
+      "content": "Genvägen 4 Krokom"
+    },
+    {
+      "latitude": 62.74875,
+      "longitude": 15.42036,
+      "title": "Ica Supermarket Bräcke",
+      "content": "Torpgatan 2 Bräcke"
+    },
+    {
+      "latitude": 63.34652,
+      "longitude": 13.45635,
+      "title": "Ica Supermarket Järpen",
+      "content": "Strandvägen 10 Järpen"
+    },
+    {
+      "latitude": 63.10842,
+      "longitude": 16.35481,
+      "title": "Ica Supermarket Hammarstrand",
+      "content": "Centralgatan 20 Hammarstrand"
+    },
+    {
+      "latitude": 63.34748,
+      "longitude": 14.25189,
+      "title": "Ica Nära Näldhallen",
+      "content": "Karelsvägen 8 Nälden"
+    },
+    {
+      "latitude": 58.378486,
+      "longitude": 13.413078,
+      "title": "Coop Forum Skara",
+      "content": "Smedstorpsgatan 6 Skara"
+    },
+    {
+      "latitude": 58.447503,
+      "longitude": 14.888838,
+      "title": "Stig In",
+      "content": "Storgatan 8 Vadstena"
+    },
+    {
+      "latitude": 59.376434,
+      "longitude": 17.029787,
+      "title": "Ostaffären i Strängnäs",
+      "content": "Hospitalsgatan 17 Strängnäs"
+    },
+    {
+      "latitude": 58.474988,
+      "longitude": 16.334983,
+      "title": "Anderssons Saluhall",
+      "content": "Telegatan 50 Söderköping"
+    },
+    {
+      "latitude": 59.428357,
+      "longitude": 17.952587,
+      "title": "Bonnievie Ost o Deli",
+      "content": "Sollentunavägen 163 Sollentuna"
+    },
+    {
+      "latitude": 57.665195,
+      "longitude": 14.972679,
+      "title": "Delikatessbutiken i Eksjö",
+      "content": "Södra Storgatan 5 Eksjö"
+    },
+    {
+      "latitude": 55.429193,
+      "longitude": 13.820129,
+      "title": "Ost o Delikatesskällaren",
+      "content": "Stortorget 10 Ystad"
+    },
+    {
+      "latitude": 56.423593,
+      "longitude": 12.734129,
+      "title": "Tant Grön",
+      "content": "Sönnertorpsvägen 111 Båstad"
+    },
+    {
+      "latitude": 56.161588,
+      "longitude": 15.584589,
+      "title": "Nya Skafferiet",
+      "content": "Rådhusgatan 9 Karlskrona"
+    },
+    {
+      "latitude": 59.394837,
+      "longitude": 15.840728,
+      "title": "Anns Ost",
+      "content": "Järntorgsgatan 3 Arboga"
+    },
+    {
+      "latitude": 58.751276,
+      "longitude": 17.004027,
+      "title": "Bönornas delikatesser",
+      "content": "Västra Storgatan 14 Nyköping"
+    },
+    {
+      "latitude": 59.371232,
+      "longitude": 16.516818,
+      "title": "Careliihallen",
+      "content": "Careliigatan 1 Eskilstuna"
+    },
+    {
+      "latitude": 56.675648,
+      "longitude": 12.858147,
+      "title": "di Mare",
+      "content": "Köpmansgatan 10 Halmstad"
+    },
+    {
+      "latitude": 59.635315,
+      "longitude": 17.077602,
+      "title": "Elisabeths Ost & Delikatesser",
+      "content": "Källgatan 11 Enköping"
+    },
+    {
+      "latitude": 59.859672,
+      "longitude": 17.631138,
+      "title": "Elisabeths ost",
+      "content": "Sysslomansgatan 6 Uppsala"
+    },
+    {
+      "latitude": 57.759634,
+      "longitude": 16.637109,
+      "title": "Guldkant Ost o Deli",
+      "content": "Grönsakstorget 6 Västervik"
+    },
+    {
+      "latitude": 59.513463,
+      "longitude": 15.997692,
+      "title": "Hatz Deli",
+      "content": "Stora Gatan 14 Köping"
+    },
+    {
+      "latitude": 56.158119,
+      "longitude": 13.76418,
+      "title": "Mandelträdet ost o deli",
+      "content": "Järnvägsgatan 15 Hässleholm"
+    },
+    {
+      "latitude": 56.675648,
+      "longitude": 12.858147,
+      "title": "Olssons Skafferi",
+      "content": "Storgatan 23 Halmstad"
+    },
+    {
+      "latitude": 56.200717,
+      "longitude": 12.552697,
+      "title": "Oldsbergs ost",
+      "content": "Köpmansgatan 6a Höganäs"
+    },
+    {
+      "latitude": 55.701733,
+      "longitude": 13.195036,
+      "title": "Osthuset Lund",
+      "content": "Mårtenstorget 1 Lund"
+    },
+    {
+      "latitude": 56.052124,
+      "longitude": 12.686791,
+      "title": "Piazza deli",
+      "content": "Drottninggatan 35 Helsingborg"
+    },
+    {
+      "latitude": 58.395412,
+      "longitude": 15.087468,
+      "title": "Skänninge Saluhall",
+      "content": "Stora Torget 2 Skånninge"
+    },
+    {
+      "latitude": 58.995467,
+      "longitude": 16.206449,
+      "title": "Sköna Getruds Te o kaffe",
+      "content": "Köpmangatan 16 Katrineholm"
+    },
+    {
+      "latitude": 59.42149,
+      "longitude": 16.469946,
+      "title": "Torshälla Delikatesser",
+      "content": "Storgatan 23 Torshälla"
+    },
+    {
+      "latitude": 58.379475,
+      "longitude": 12.322314,
+      "title": "Vänersborg Osthall",
+      "content": "Edsgatan 14 Vänersborg"
+    },
+    {
+      "latitude": 59.270589,
+      "longitude": 15.21435,
+      "title": "Örebro Ost",
+      "content": "Kungsgatan 15 Örebro"
+    },
+    {
+      "latitude": 55.7277954,
+      "longitude": 12.5759245,
+      "title": "Super Best, Rotunden",
+      "content": "Strandvejen 64 A Hellerup, Denmark"
+    },
+    {
+      "latitude": 55.6791454,
+      "longitude": 12.5838859,
+      "title": "Magasine Du Nord",
+      "content": "Kongens Nytorv 13 København K, Danmark"
+    },
+    {
+      "latitude": 59.978368,
+      "longitude": 14.183243,
+      "title": "Coop Konsum Lesjöfors",
+      "content": "Bergslagsgatan 70 Lesjöfors"
+    },
+    {
+      "latitude": 60.337051,
+      "longitude": 18.440029,
+      "title": "Coop Konsum Öregrund",
+      "content": "Strandgatan 30 Öregrund"
+    },
+    {
+      "latitude": 59.605983,
+      "longitude": 16.531701,
+      "title": "Coop Konsum Oxbacken",
+      "content": "Repslagargatan 1-2 Västerås"
+    },
+    {
+      "latitude": 57.666999,
+      "longitude": 15.855727,
+      "title": "Coop Konsum Vimmerby",
+      "content": "Norrtullsgatan 5 Vimmerby"
+    },
+    {
+      "latitude": 58.8961,
+      "longitude": 17.54779,
+      "title": "Coop Konsum Trosa",
+      "content": "Trosa Torg Trosa"
+    },
+    {
+      "latitude": 58.8961,
+      "longitude": 17.54779,
+      "title": "Coop Konsum Trosa",
+      "content": "Trosa Torg Trosa"
+    },
+    {
+      "latitude": 55.856079,
+      "longitude": 13.663359,
+      "title": "Coop Konsum Hörby",
+      "content": "Slagtoftavägen 24 Hörby"
+    },
+    {
+      "latitude": 63.272798,
+      "longitude": 18.690306,
+      "title": "Coop Konsum Hörnett",
+      "content": "Hörnettvägen 13 Domsjö"
+    },
+    {
+      "latitude": 55.840678,
+      "longitude": 13.300029,
+      "title": "Coop Extra Eslöv",
+      "content": "Västerlånggatan 12 Eslöv"
+    },
+    {
+      "latitude": 65.840518,
+      "longitude": 24.133674,
+      "title": "Coop Extra Haparanda",
+      "content": "Norra Esplanaden 8 Haparanda"
+    },
+    {
+      "latitude": 58.685171,
+      "longitude": 13.816971,
+      "title": "Coop Extra Mariestad",
+      "content": "Storegårdsvägen 26-28 Mariestad"
+    },
+    {
+      "latitude": 56.093433,
+      "longitude": 12.765165,
+      "title": "Coop Extra Väla",
+      "content": "Björkavägen 97 Ödåkra"
+    },
+    {
+      "latitude": 56.282545,
+      "longitude": 13.278793,
+      "title": "Coop Örkelljunga",
+      "content": "Bangatan 4 Örkelljunga"
+    },
+    {
+      "latitude": 65.825079,
+      "longitude": 21.684967,
+      "title": "Coop Forum Boden",
+      "content": "Kungsgatan 42 Boden"
+    },
+    {
+      "latitude": 59.375318,
+      "longitude": 16.469013,
+      "title": "Coop Forum Eskilstuna",
+      "content": "Albertina Nyströms väg 2 Eskilstuna"
+    },
+    {
+      "latitude": 56.909453,
+      "longitude": 12.493452,
+      "title": "Coop Forum Falkenberg",
+      "content": "Klockaregatan 27 Falkenberg"
+    },
+    {
+      "latitude": 67.149646,
+      "longitude": 20.658733,
+      "title": "Stora Coop Gällivare",
+      "content": "Metallvägen 16 Gällivare"
+    },
+    {
+      "latitude": 57.641859,
+      "longitude": 11.948398,
+      "title": "Coop Forum Sisjön",
+      "content": "Hantverksvägen 2 Askim"
+    },
+    {
+      "latitude": 55.872532,
+      "longitude": 12.853375,
+      "title": "Coop Forum Landskrona",
+      "content": "Österleden 165 Landskrona"
+    },
+    {
+      "latitude": 57.082343,
+      "longitude": 12.278193,
+      "title": "Coop Forum Varberg",
+      "content": "Vrångagatan 1 Varberg"
+    },
+    {
+      "latitude": 59.635739,
+      "longitude": 16.56783,
+      "title": "Coop Forum Västerås",
+      "content": "Stenbygatan 1 Västerås"
+    },
+    {
+      "latitude": 57.082343,
+      "longitude": 12.278193,
+      "title": "Coop Forum Varberg",
+      "content": "Vrångagatan 1 Varberg"
+    },
+    {
+      "latitude": 59.635739,
+      "longitude": 16.56783,
+      "title": "Coop Forum Västerås",
+      "content": "Stenbygatan 1 Västerås"
+    },
+    {
+      "latitude": 63.302679,
+      "longitude": 18.734257,
+      "title": "Coop Forum Örnsköldsvik",
+      "content": "Hästmarksvägen 1 Örnsköldsvik"
+    },
+    {
+      "latitude": 63.174264,
+      "longitude": 14.69448,
+      "title": "Coop Forum Östersund",
+      "content": "Chaufförvägen 27A Östersund"
+    },
+    {
+      "latitude": 55.717789,
+      "longitude": 13.164054,
+      "title": "Coop Forum Lund",
+      "content": "Traktorvägen 2 Lund"
+    },
+    {
+      "latitude": 65.316714,
+      "longitude": 21.47356,
+      "title": "Coop Forum Piteå",
+      "content": "Hamnplan 41 Piteå"
+    },
+    {
+      "latitude": 64.738422,
+      "longitude": 20.966656,
+      "title": "Coop Forum Skellefteå",
+      "content": "Gymnasievägen 8 Skellefteå"
+    },
+    {
+      "latitude": 59.844047,
+      "longitude": 17.690267,
+      "title": "Coop Forum Uppsala Boländerna",
+      "content": "Rapsgatan 1 Uppsala"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "COOP EXTRA VÄXJÖ",
+      "content": "NORREMARKSVÄGEN 1 VÄXJÖ"
+    },
+    {
+      "latitude": 58.8970853,
+      "longitude": 17.5478408,
+      "title": "Ost&Delikatess",
+      "content": "Östra Långgatan 32 Trosa"
+    },
+    {
+      "latitude": 59.9191125,
+      "longitude": 10.7186961,
+      "title": "Marchand/Flaneur",
+      "content": "Niels Juels gate 51 Oslo"
+    },
+    {
+      "latitude": 59.9182952,
+      "longitude": 10.7052398,
+      "title": "Frogner Special",
+      "content": "Bygdøy allé 5 Oslo"
+    },
+    {
+      "latitude": 59.9182953,
+      "longitude": 10.7052398,
+      "title": "Fjelberg Fisk & Vilt",
+      "content": "Bygdøy allé 56 Oslo"
+    },
+    {
+      "latitude": 59.9120323,
+      "longitude": 10.7082664,
+      "title": "Frognerkilen Selskapsmat",
+      "content": "Gabels gate 4A Oslo"
+    },
+    {
+      "latitude": 59.9422072,
+      "longitude": 10.704172,
+      "title": "Billies Kitchen",
+      "content": "Slemdalsveien 70 Oslo"
+    },
+    {
+      "latitude": 59.8811063,
+      "longitude": 10.7867224,
+      "title": "Jacob´s på Holtet",
+      "content": "Ekebergveien 145 Oslo"
+    },
+    {
+      "latitude": 59.8991808,
+      "longitude": 10.5795252,
+      "title": "MENY Høvik",
+      "content": "O. H. Bangsvei 5 HØVIK"
+    },
+    {
+      "latitude": 59.1926474,
+      "longitude": 10.9659323,
+      "title": "Lille Special",
+      "content": "Rosenborgveien 3A Gamle Fredrikstad"
+    },
+    {
+      "latitude": 59.9200812,
+      "longitude": 10.636469,
+      "title": "Grønn AS",
+      "content": "Lilleakerveien 31 Oslo"
+    },
+    {
+      "latitude": 59.852998,
+      "longitude": 10.4936131,
+      "title": "E&G Delica",
+      "content": "Devikrabben 28 Nesbru"
+    },
+    {
+      "latitude": 59.9510604,
+      "longitude": 10.695513,
+      "title": "Fruktboden",
+      "content": "Tennisveien 1 Oslo"
+    },
+    {
+      "latitude": 59.9182344,
+      "longitude": 10.702512,
+      "title": "Skafferiet AS",
+      "content": "Elisenbergveien 7 Oslo"
+    },
+    {
+      "latitude": 59.9087514,
+      "longitude": 10.6057307,
+      "title": "Bolina Livsstilbutikk",
+      "content": "Gamle Drammensvei 38 Stabekk"
+    },
+    {
+      "latitude": 59.9222176,
+      "longitude": 10.7520458,
+      "title": "Gutta Drift",
+      "content": "Maridalsveien 17 Oslo"
+    },
+    {
+      "latitude": 60.5343709,
+      "longitude": 8.2071811,
+      "title": "Matkrok'n Geilo",
+      "content": "Geilovegen 48 Geilo"
+    },
+    {
+      "latitude": 59.130349,
+      "longitude": 10.2220296,
+      "title": "Matlykke",
+      "content": "Torggata 18 Sandefjord"
+    },
+    {
+      "latitude": 58.1470573,
+      "longitude": 7.9932354,
+      "title": "Kaffe & Pasta",
+      "content": "Skippergata 35 Kristiansand S"
+    },
+    {
+      "latitude": 63.3027066,
+      "longitude": 9.8560473,
+      "title": "Solruns Heimlaga",
+      "content": "Orkdalsveien 69 Orkanger"
+    },
+    {
+      "latitude": 62.5752405,
+      "longitude": 11.3847734,
+      "title": "Røros Delikatesser",
+      "content": "Kjerkgata 8 Røros"
+    },
+    {
+      "latitude": 63.583683,
+      "longitude": 10.760819,
+      "title": "Gårdsbuttiken Tautra",
+      "content": "Tautra nordre Frosta"
+    },
+    {
+      "latitude": 63.4295332,
+      "longitude": 10.3928057,
+      "title": "Black & White",
+      "content": "Prinsens Gate 15 Trondheim"
+    },
+    {
+      "latitude": 59.7409762,
+      "longitude": 10.2217497,
+      "title": "MENY BRAKERØYA",
+      "content": "Brandtenborggata 1 Drammen"
+    },
+    {
+      "latitude": 59.8112927,
+      "longitude": 10.3058456,
+      "title": "MENY LIERTOPPEN",
+      "content": "Drammensveien 201 Lierskogen"
+    },
+    {
+      "latitude": 59.7429321,
+      "longitude": 10.1945522,
+      "title": "MENY UNION BRYGGE",
+      "content": "Grønland 43 - 45 Drammen"
+    },
+    {
+      "latitude": 59.7538322,
+      "longitude": 10.1366558,
+      "title": "MENY ÅSSIDEN",
+      "content": "Ing. Rybergs gate 56 B DRAMMEN"
+    },
+    {
+      "latitude": 58.8482871,
+      "longitude": 5.739661,
+      "title": "HELGØ MENY SANDNES",
+      "content": "Gravarsveien 7 Sandnes"
+    },
+    {
+      "latitude": 58.8459124,
+      "longitude": 5.7161971,
+      "title": "HELGØ MENY SANDVED",
+      "content": "Asheimveien 2 Sandnes"
+    },
+    {
+      "latitude": 58.9149058,
+      "longitude": 5.729389,
+      "title": "HELGØ MENY STADIONPARKEN",
+      "content": "Jåttåvågveien 7 Stavanger"
+    },
+    {
+      "latitude": 58.4743201,
+      "longitude": 8.7470991,
+      "title": "MENY HAREBAKKEN",
+      "content": "Langsæveien 5 Arendal"
+    },
+    {
+      "latitude": 63.4351995,
+      "longitude": 10.4109899,
+      "title": "MENY SOLSIDEN",
+      "content": "Beddingen 12 Trondheim"
+    },
+    {
+      "latitude": 63.3581363,
+      "longitude": 10.3741084,
+      "title": "Meny Tiller",
+      "content": "Ivar Lykkes vei 3 Tiller"
+    },
+    {
+      "latitude": 63.4097479,
+      "longitude": 10.4439559,
+      "title": "Meny Moholt",
+      "content": "Vegamot 8 TRONDHEIM"
+    },
+    {
+      "latitude": 63.439231,
+      "longitude": 10.460604,
+      "title": "Meny Lade",
+      "content": "Haakon VII's gate 25 TRONDHEIM"
+    },
+    {
+      "latitude": 59.903073,
+      "longitude": 10.8216082,
+      "title": "MENY BRYN",
+      "content": "Østensjøveien 79 OSLO"
+    },
+    {
+      "latitude": 59.8970196,
+      "longitude": 10.8161607,
+      "title": "Meny Øst - Manglerud",
+      "content": "Manglerud Senter Plogveien6 OSLO"
+    },
+    {
+      "latitude": 59.9307244,
+      "longitude": 10.7099593,
+      "title": "MENY Colosseum",
+      "content": "Sørkedalsv 10 B OSLO"
+    },
+    {
+      "latitude": 59.832186,
+      "longitude": 10.429523,
+      "title": "MENY HAGALØKKVEIEN",
+      "content": "Hagaløkkveien 7 ASKER"
+    },
+    {
+      "latitude": 59.8901103,
+      "longitude": 10.5203809,
+      "title": "MENY SANDVIKA STORSENTER",
+      "content": "Brodtkorbsgate 7 SANDVIKA"
+    },
+    {
+      "latitude": 59.7164185,
+      "longitude": 10.8360306,
+      "title": "MENY SKI STORSENTER",
+      "content": "Jernbanesvingen 6 SKI"
+    },
+    {
+      "latitude": 59.7132748,
+      "longitude": 10.8355675,
+      "title": "MENY Ski",
+      "content": "Eikeliv 1 SKI"
+    },
+    {
+      "latitude": 56,
+      "longitude": 13,
+      "title": "Ica Maxi",
+      "content": "Norra Industrigatan 1 Hässleholm"
+    },
+    {
+      "latitude": 58.0369744,
+      "longitude": 14.9789578,
+      "title": "Apotekarns Vin & Delikatesser",
+      "content": "Falkgatan 9 Tranås"
+    },
+    {
+      "latitude": 59.331554,
+      "longitude": 18.045004,
+      "title": "Coop Konsum Rädhuset",
+      "content": "Kungsholmsgatan 22 Stockholm"
+    },
+    {
+      "latitude": 59.382089,
+      "longitude": 17.897869,
+      "title": "Ica Supermarket Spänga",
+      "content": "Spänga Torg 15 Spänga"
+    },
+    {
+      "latitude": 59.38042,
+      "longitude": 17.817875,
+      "title": "Ica Supermarket äkermyntan",
+      "content": "Drivbänksvägen 5 Hässelby"
+    },
+    {
+      "latitude": 59.461162,
+      "longitude": 18.137958,
+      "title": "Coop Forum Arninge",
+      "content": "Saluvägen 5 Täby"
+    },
+    {
+      "latitude": 59.610017,
+      "longitude": 16.451917,
+      "title": "City Gross Västeräs",
+      "content": "Krankroksgatan 21 Västeräs"
+    },
+    {
+      "latitude": 57.713814,
+      "longitude": 12.866764,
+      "title": "City Gross Boräs",
+      "content": "Göteborgsvägen 181 Boräs"
+    },
+    {
+      "latitude": 57.714879,
+      "longitude": 12.869881,
+      "title": "Rängedala Plantskola",
+      "content": "Göteborgsvägen 179 Boräs"
+    },
+    {
+      "latitude": 65.316714,
+      "longitude": 21.47356,
+      "title": "Coop Forum Piteä",
+      "content": "Hamnplan 41 Piteä"
+    },
+    {
+      "latitude": 64.738422,
+      "longitude": 20.966656,
+      "title": "Coop Forum Skellefteä",
+      "content": "Gymnasievägen 8 Skellefteä"
+    },
+    {
+      "latitude": 63.850599,
+      "longitude": 20.299914,
+      "title": "Coop Forum Umeä",
+      "content": "Formvägen 4 Umeä"
+    },
+    {
+      "latitude": 63.82598,
+      "longitude": 20.261757,
+      "title": "Coop Konsum Matcity Umeä",
+      "content": "Kungsgatan 54 Umeä"
+    },
+    {
+      "latitude": 63.165172,
+      "longitude": 17.27754,
+      "title": "Coop Konsum Sollefteä",
+      "content": "Storgatan 80 Sollefteä"
+    },
+    {
+      "latitude": 62.485911,
+      "longitude": 17.323369,
+      "title": "Coop Konsum Timrä",
+      "content": "Köpmangatan 29 Timrä"
+    },
+    {
+      "latitude": 59.051278,
+      "longitude": 12.701059,
+      "title": "Coop Konsum ämäl",
+      "content": "Mellanbrogatan 9 ämäl"
+    },
+    {
+      "latitude": 63.395769,
+      "longitude": 13.086429,
+      "title": "Coop Konsum äre",
+      "content": "ärevägen 53 äre"
+    },
+    {
+      "latitude": 63.177539,
+      "longitude": 14.639474,
+      "title": "Glada Lädan",
+      "content": "Rädhusgatan 44 östersund"
+    },
+    {
+      "latitude": 58.475062,
+      "longitude": 16.333054,
+      "title": "Anderssons Saluhall",
+      "content": "Ringvägen 44 Söderköping"
+    },
+    {
+      "latitude": 65.594492,
+      "longitude": 22.149433,
+      "title": "ICA Kvantum Luleä",
+      "content": "Delfingatan 4 Luleä"
+    },
+    {
+      "latitude": 65.314342,
+      "longitude": 21.480751,
+      "title": "ICA Kvantum Piteä",
+      "content": "Hamnplan 7 Piteä"
+    },
+    {
+      "latitude": 63.160612,
+      "longitude": 17.296812,
+      "title": "ICA Kvantum Sollefteä",
+      "content": "Hägesta 227 Sollefteä"
+    },
+    {
+      "latitude": 63.839862,
+      "longitude": 20.194901,
+      "title": "ICA Kvantum Umeä",
+      "content": "Kronoskogsvägen Umeä"
+    },
+    {
+      "latitude": 65.617625,
+      "longitude": 22.048595,
+      "title": "ICA Maxi Luleä",
+      "content": "Storhedsvägen 14 Luleä"
+    },
+    {
+      "latitude": 56.00236,
+      "longitude": 12.742117,
+      "title": "ICA Maxi Rää",
+      "content": "Landskronav. 33 Helsingborg"
+    },
+    {
+      "latitude": 64.766046,
+      "longitude": 21.025131,
+      "title": "ICA Maxi Skellefteä",
+      "content": "Varugatan 28 SKELLEFTEä"
+    },
+    {
+      "latitude": 63.797612,
+      "longitude": 20.302758,
+      "title": "ICA Maxi Umeä",
+      "content": "Strömpilsplatsen 41 Umeä"
+    },
+    {
+      "latitude": 56.427163,
+      "longitude": 12.849073,
+      "title": "ICA Supermarket Bästad",
+      "content": "Köpmansgatan 76 B Bästad"
+    },
+    {
+      "latitude": 63.827181,
+      "longitude": 20.248254,
+      "title": "ICA Supermarket Käge",
+      "content": "Storgatan 28C Umeä"
+    },
+    {
+      "latitude": 60.731557,
+      "longitude": 14.996809,
+      "title": "ICA Supermarket Märtas Leksand",
+      "content": "Torget 2 Leksand"
+    },
+    {
+      "latitude": 64.751435,
+      "longitude": 20.951319,
+      "title": "ICA Supermarket Skellefteä",
+      "content": "Stationsgatan 16 Skellefteä"
+    },
+    {
+      "latitude": 55.581562,
+      "longitude": 12.931874,
+      "title": "Ostboden pä Limhamn",
+      "content": "Järnvägsgatan 45 Limhamn"
+    },
+    {
+      "latitude": 63.39904,
+      "longitude": 13.08151,
+      "title": "Ica äre",
+      "content": "Sankt Olavs väg 33 äre"
+    },
+    {
+      "latitude": 59.635739,
+      "longitude": 16.56783,
+      "title": "Coop Forum Västeräs",
+      "content": "Stenbygatan 1 Västeräs"
+    },
+    {
+      "latitude": 58.9149058,
+      "longitude": 5.729389,
+      "title": "HELG&Oslash; MENY STADIONPARKEN",
+      "content": "Jättävägveien 7 Stavanger"
+    },
+    {
+      "latitude": 53.543764,
+      "longitude": 9.986036,
+      "title": "Foodist GmbH",
+      "content": "Große Elbstraße 145a Hamburg"
+    },
+    {
+      "latitude": 59.358954,
+      "longitude": 24.884927,
+      "title": "Rimi Eesti Food AS",
+      "content": "Pörguvälja tee 3 Rae vald Harjumaa"
+    },
+    {
+      "latitude": 59.421926,
+      "longitude": 24.794836,
+      "title": "Ülemiste Rimi hyper",
+      "content": "Suur-Sõjamäe 4, Tallinn"
+    },
+    {
+      "latitude": 59.425254,
+      "longitude": 24.644467,
+      "title": "Haabersti Rimi Hyper",
+      "content": "Haabersti 1, Tallinn"
+    },
+    {
+      "latitude": 59.415915,
+      "longitude": 24.707693,
+      "title": "Sõpruse Rimi Hyper",
+      "content": "Sõpruse puiestee 174, Tallinn"
+    },
+    {
+      "latitude": 58.370785,
+      "longitude": 24.550991,
+      "title": "Pärnu Rimi hyper",
+      "content": "Papiniidu 8-10, Pärnu"
+    },
+    {
+      "latitude": 58.357847,
+      "longitude": 26.675857,
+      "title": "Lõunakeskus",
+      "content": "Ringtee 75, Tartu"
+    },
+    {
+      "latitude": 58.368721,
+      "longitude": 26.675489,
+      "title": "Tartu Lõunakeskuse Rimi hyper",
+      "content": "Ringtee 75, Tartu"
+    },
+    {
+      "latitude": 57.622836,
+      "longitude": -3.108773,
+      "title": "Baxters Food Group",
+      "content": "Fochabers IV32 7LD, Royaume-Uni Moray"
+    },
+    {
+      "latitude": 56.128527,
+      "longitude": -3.395305,
+      "title": "Baxters Food Group",
+      "content": "Home Farm Kelty"
+    },
+    {
+      "latitude": 57.592913,
+      "longitude": -3.713261,
+      "title": "Brodie Countryfare",
+      "content": "Brodie, By Forres"
+    },
+    {
+      "latitude": 51.621382,
+      "longitude": -1.10719,
+      "title": "Chiltern Florist Of Benson",
+      "content": "25 High St, Benson, Wallingford"
+    },
+    {
+      "latitude": 51.598704,
+      "longitude": -1.112205,
+      "title": "Crowmarsh Stores",
+      "content": "64 The St, Crowmarsh Gifford, Wallingford"
+    },
+    {
+      "latitude": 51.713525,
+      "longitude": -0.450469,
+      "title": "Dalling & Co. Wine Merchant",
+      "content": "22 High St, Kings Langley"
+    },
+    {
+      "latitude": 52.634474,
+      "longitude": -1.135755,
+      "title": "Delilah Fine Foods",
+      "content": "4 St Martins Leicester"
+    },
+    {
+      "latitude": 52.953211,
+      "longitude": -1.146493,
+      "title": "Delilah Fine Foods",
+      "content": "12 Victoria St, Nottingham"
+    },
+    {
+      "latitude": 51.73265,
+      "longitude": -0.183195,
+      "title": "The Dutch Nursery",
+      "content": "Great North Road, Hatfield"
+    },
+    {
+      "latitude": 52.425739,
+      "longitude": -1.514721,
+      "title": "Express Gift Service",
+      "content": "Anley Way, Coventry"
+    },
+    {
+      "latitude": 51.570088,
+      "longitude": -0.703414,
+      "title": "Flowerland Garden Centres",
+      "content": "Bourne End Bourne End"
+    },
+    {
+      "latitude": 51.362622,
+      "longitude": -0.386005,
+      "title": "Garsons Esher",
+      "content": "Winterdown Rd, Esher"
+    },
+    {
+      "latitude": 51.48665,
+      "longitude": -0.27126,
+      "title": "Grove Park Deli",
+      "content": "22 Fauconberg Rd, Chiswick London"
+    },
+    {
+      "latitude": 53.18032,
+      "longitude": -3.01182,
+      "title": "Hawarden Estate Farm Shop",
+      "content": "Chester Rd, Hawarden, Flintshire"
+    },
+    {
+      "latitude": 50.985811,
+      "longitude": -0.608565,
+      "title": "The Hungry Guest Food Shop",
+      "content": "Middle St, Petworth"
+    },
+    {
+      "latitude": 55.136852,
+      "longitude": -1.980197,
+      "title": "Kirkharle Laundry Court Coffee House",
+      "content": "Kirkharle Courtyard, Newcastle upon Tyne"
+    },
+    {
+      "latitude": 51.390421,
+      "longitude": -2.176711,
+      "title": "Lowden Garden Centre",
+      "content": "Folly Lane, Shaw, Melksham"
+    },
+    {
+      "latitude": 51.454836,
+      "longitude": -0.139451,
+      "title": "Macfarlanes",
+      "content": "48 Abbeville Rd, London"
+    },
+    {
+      "latitude": 54.136296,
+      "longitude": -0.798446,
+      "title": "Malton Relish",
+      "content": "58 Market Pl, Malton"
+    },
+    {
+      "latitude": 51.035681,
+      "longitude": -0.805065,
+      "title": "Milland Stores",
+      "content": "Iping Rd, Milland, Liphook"
+    },
+    {
+      "latitude": 50.779681,
+      "longitude": -3.03085,
+      "title": "Millers Farm Shop",
+      "content": "Gammons Hill, Axminster"
+    },
+    {
+      "latitude": 53.263347,
+      "longitude": -9.072459,
+      "title": "Mortons of Galway",
+      "content": "148 Salthill Rd Lower Galway"
+    },
+    {
+      "latitude": 51.86653,
+      "longitude": -2.233565,
+      "title": "Farmshop",
+      "content": "M5, Brookthorpe, Gloucester"
+    },
+    {
+      "latitude": 51.498543,
+      "longitude": -0.183611,
+      "title": "Partridges",
+      "content": "17-21 Gloucester Rd, Kensington, London"
+    },
+    {
+      "latitude": 51.920502,
+      "longitude": -0.616328,
+      "title": "Pecks Farm Shop",
+      "content": "Leighton Rd, Eggington, Leighton Buzzard"
+    },
+    {
+      "latitude": 51.686706,
+      "longitude": -0.72487,
+      "title": "Peterley Manor Farm",
+      "content": "Peterley Ln, Prestwood, Great Missenden"
+    },
+    {
+      "latitude": 51.374577,
+      "longitude": -2.351618,
+      "title": "Prior Park Garden & Pet Centre",
+      "content": "Prior Park Rd, Bath"
+    },
+    {
+      "latitude": 51.23458,
+      "longitude": -0.136167,
+      "title": "Priory Farm",
+      "content": "Sandy Ln, South Nutfield, Redhill"
+    },
+    {
+      "latitude": 57.061934,
+      "longitude": -2.495198,
+      "title": "Raemoir Garden Centre",
+      "content": "Raemoir Rd, Banchory"
+    },
+    {
+      "latitude": 51.213568,
+      "longitude": -1.569899,
+      "title": "Rosebourne",
+      "content": "Amesbury Rd, Weyhill, Andover"
+    },
+    {
+      "latitude": 50.903246,
+      "longitude": -0.203914,
+      "title": "Rushfields Plant Centre",
+      "content": "Henfield Rd, Poynings, Brighton"
+    },
+    {
+      "latitude": 51.22046,
+      "longitude": -0.282168,
+      "title": "The Shop at Strood Green",
+      "content": "1 Tynedale Rd, Brockham, Betchworth"
+    },
+    {
+      "latitude": 51.475313,
+      "longitude": -0.240007,
+      "title": "Sonny's Food Shop",
+      "content": "92 Church Rd, Barnes, London"
+    },
+    {
+      "latitude": 51.819096,
+      "longitude": -2.22369,
+      "title": "Farmshop",
+      "content": "M5, Brookthorpe, Gloucester"
+    },
+    {
+      "latitude": 51.819061,
+      "longitude": -2.224786,
+      "title": "Gloucester Services Southbound",
+      "content": "Upton St Leonards, Cheltenham"
+    },
+    {
+      "latitude": 57.640388,
+      "longitude": -4.348172,
+      "title": "Storehouse of Foulis",
+      "content": "4 Foulis Mains Cottages, Evanton, Dingwall"
+    },
+    {
+      "latitude": 52.164675,
+      "longitude": -1.722821,
+      "title": "Stratford Garden Centre",
+      "content": "Campden Rd, Warwickshire, Stratford-upon-Avon"
+    },
+    {
+      "latitude": 51.114232,
+      "longitude": -1.492848,
+      "title": "Thyme & Tides Deli",
+      "content": "The High Street, Stockbridge"
+    },
+    {
+      "latitude": 51.804902,
+      "longitude": -1.67097,
+      "title": "Upton Smokery Shop",
+      "content": "Upton Downs Farm, Burford OX1"
+    },
+    {
+      "latitude": 51.68848,
+      "longitude": -1.258891,
+      "title": "Wells Stores, Peach Croft Farm",
+      "content": "Whites La, Abingdon"
+    },
+    {
+      "latitude": 54.453409,
+      "longitude": -2.606656,
+      "title": "Tebay Services Southbound",
+      "content": "Westmorland Place, Orton"
+    },
+    {
+      "latitude": 51.94236,
+      "longitude": -1.545167,
+      "title": "Delicacy - Delicatessen Cheese, Coffee Shop and Off Licence",
+      "content": "2 Middle Row, Chipping Norton"
+    },
+    {
+      "latitude": 65.594589,
+      "longitude": 22.1499372,
+      "title": "LULEÅDelfingatan 497334",
+      "content": "Delfingatan 4 LULEÅ"
+    },
+    {
+      "latitude": 65.594589,
+      "longitude": 22.1499372,
+      "title": "ICA Kvantum Stormarknad",
+      "content": "Delfingatan 4 LULEÅ"
+    },
+    {
+      "latitude": 55.444531,
+      "longitude": 13.8093526,
+      "title": "ICA Kvantum Ystad",
+      "content": "Almelundsvägen 4 YSTAD"
+    },
+    {
+      "latitude": 60.6917589,
+      "longitude": 17.1169886,
+      "title": "ICA Kvantum Sätra Gävle",
+      "content": "Rullstensvägen 4 GÄVLE"
+    },
+    {
+      "latitude": 58.0750878,
+      "longitude": 11.8258404,
+      "title": "ICA Kvantum Stenungsund",
+      "content": "Vassgatan 1 STENUNGSUND"
+    },
+    {
+      "latitude": 57.1753864,
+      "longitude": 14.061746,
+      "title": "ICA Kvantum Värnamo",
+      "content": "Expovägen 2 VÄRNAMO"
+    },
+    {
+      "latitude": 59.3055814,
+      "longitude": 18.1285349,
+      "title": "ICA Kvantum Sickla",
+      "content": "Siroccogatan 4 NACKA"
+    },
+    {
+      "latitude": 55.7169111,
+      "longitude": 13.1641538,
+      "title": "ICA Kvantum Mobilia Lund",
+      "content": "Traktorvägen 1-3 LUND"
+    },
+    {
+      "latitude": 63.840928,
+      "longitude": 20.1918531,
+      "title": "ICA Kvantum Kronoparken",
+      "content": "Kronoskogsvägen 18 UMEÅ"
+    },
+    {
+      "latitude": 56.9034081,
+      "longitude": 12.4839514,
+      "title": "ICA Kvantum Falkenberg",
+      "content": "Sandgatan 34 FALKENBERG"
+    },
+    {
+      "latitude": 58.6704663,
+      "longitude": 17.1044807,
+      "title": "ICA Kvantum Oxelösund",
+      "content": "Järntorget 7 OXELÖSUND"
+    },
+    {
+      "latitude": 62.3919297,
+      "longitude": 17.2624769,
+      "title": "ICA Kvantum Nacksta Sundsvall",
+      "content": "Axvägen 1 SUNDSVALL"
+    },
+    {
+      "latitude": 65.8171528,
+      "longitude": 21.7085735,
+      "title": "ICA Kvantum Boden",
+      "content": "Lulevägen 27 BODEN"
+    },
+    {
+      "latitude": 57.4977242,
+      "longitude": 12.6714685,
+      "title": "ICA Kvantum MM - Skene",
+      "content": "Klevagårdsgatan 3 SKENE"
+    },
+    {
+      "latitude": 62.2983281,
+      "longitude": 17.3792336,
+      "title": "ICA Kvantum Kvissleby",
+      "content": "Affärsgatan 6 KVISSLEBY"
+    },
+    {
+      "latitude": 64.7556448,
+      "longitude": 20.9171256,
+      "title": "ICA Kvantum Skellefteå",
+      "content": "Kronbodgatan 4 SKELLEFTEÅ"
+    },
+    {
+      "latitude": 56.0517941,
+      "longitude": 14.1443707,
+      "title": "ICA Kvantum Kristianstad",
+      "content": "Stridsvagnsvägen KRISTIANSTAD"
+    },
+    {
+      "latitude": 55.8368608,
+      "longitude": 13.306161,
+      "title": "ICA Kvantum Eslöv",
+      "content": "Kvarngränd 1 ESLÖV"
+    },
+    {
+      "latitude": 59.2420437,
+      "longitude": 18.0903429,
+      "title": "ICA Kvantum Farsta",
+      "content": "Storöplan 2 Farsta"
+    },
+    {
+      "latitude": 58.3838627,
+      "longitude": 13.4372315,
+      "title": "ICA Kvantum Munken",
+      "content": "Skaraborgsgatan 28 SKARA"
+    },
+    {
+      "latitude": 59.2788748,
+      "longitude": 18.0699895,
+      "title": "ICA Kvantum BEA Livsmedel",
+      "content": "Handelsvägen 188 ENSKEDE"
+    },
+    {
+      "latitude": 57.1050389,
+      "longitude": 12.2536429,
+      "title": "ICA Kvantum Varberg",
+      "content": "Torggatan 26 VARBERG"
+    },
+    {
+      "latitude": 58.3954068,
+      "longitude": 13.8339523,
+      "title": "ICA Kvantum Skövde",
+      "content": "Gamla Kungsvägen 54, Skövde"
+    },
+    {
+      "latitude": 59.0592595,
+      "longitude": 16.5914608,
+      "title": "ICA Kvantum Flen",
+      "content": "N.Kungsgatan 8 FLEN"
+    },
+    {
+      "latitude": 57.4934243,
+      "longitude": 12.0741087,
+      "title": "ICA Kvantum Kungsbacka",
+      "content": "Kungsmässan Varla Gård KUNGSBACKA"
+    },
+    {
+      "latitude": 59.3698675,
+      "longitude": 18.0040769,
+      "title": "ICA Kvantum Mall of Scandinavia",
+      "content": "Evenemangsgatan 6 SOLNA"
+    },
+    {
+      "latitude": 59.5671475,
+      "longitude": 17.5294313,
+      "title": "ICA Kvantum Bålsta",
+      "content": "Bålsta Centrum BÅLSTA"
+    },
+    {
+      "latitude": 57.7289575,
+      "longitude": 13.0037832,
+      "title": "ICA City Brämhult",
+      "content": "Brämhults Torg BRÄMHULT"
+    },
+    {
+      "latitude": 57.7292845,
+      "longitude": 12.9390667,
+      "title": "ICA City Knalleland",
+      "content": "Skaraborgsvägen 25 BORÅS"
+    },
+    {
+      "latitude": 58.5289148,
+      "longitude": 13.4943792,
+      "title": "ICA Kvantum Götene",
+      "content": "Lidköpingsv 9 GÖTENE"
+    },
+    {
+      "latitude": 57.7517244,
+      "longitude": 12.9469898,
+      "title": "ICA City Fristad",
+      "content": "Fristadstorget BORÅS"
+    },
+    {
+      "latitude": 59.1721595,
+      "longitude": 18.1700833,
+      "title": "ICA Kvantum Haninge",
+      "content": "Jungfruns gata 418 HANINGE"
+    },
+    {
+      "latitude": 57.4829076,
+      "longitude": 13.3495728,
+      "title": "ICA Kvantum Tranemo",
+      "content": "Storgatan 32 TRANEMO"
+    },
+    {
+      "latitude": 57.4829076,
+      "longitude": 13.3495728,
+      "title": "ICA Kvantum Tranemo",
+      "content": "Storgatan 32, Tranemo,"
+    },
+    {
+      "latitude": 58.3432271,
+      "longitude": 11.9228361,
+      "title": "ICA Kvantum Uddevalla",
+      "content": "Göteborgsvägen 18 UDDEVALLA"
+    },
+    {
+      "latitude": 58.3542986,
+      "longitude": 11.8105759,
+      "title": "ICA Maxi Uddelvalla",
+      "content": "Torp Köpcentrum UDDEVALLA"
+    },
+    {
+      "latitude": 59.4625989,
+      "longitude": 18.1351702,
+      "title": "ICA Kvantum Arninge",
+      "content": "Saluvägen 1, TÄBY"
+    },
+    {
+      "latitude": 57.6863187,
+      "longitude": 12.2112966,
+      "title": "ICA Kvantum Landvetter",
+      "content": "Brattåstorget 3 LANDVETTER"
+    },
+    {
+      "latitude": 57.6985889,
+      "longitude": 11.9933155,
+      "title": "ICA Focus",
+      "content": "Åvägen 42 GÖTEBORG"
+    },
+    {
+      "latitude": 57.7514689,
+      "longitude": 12.2468292,
+      "title": "ICA Kvantum Lerum",
+      "content": "Hulans Torg LERUM"
+    },
+    {
+      "latitude": 59.3730331,
+      "longitude": 16.5570703,
+      "title": "ICA Kvantum Ekängen",
+      "content": "Strängnäsvägen 11 ESKILSTUNA"
+    },
+    {
+      "latitude": 59.8772243,
+      "longitude": 17.6742899,
+      "title": "ICA Kvantum Uppsala",
+      "content": "Marknadsgatan 1 Gränby Centrum UPPSALA"
+    },
+    {
+      "latitude": 58.3810759,
+      "longitude": 12.3165638,
+      "title": "ICA Kvantum Vänersborg",
+      "content": "Brogatan 4 VÄNERSBORG"
+    },
+    {
+      "latitude": 59.4271634,
+      "longitude": 17.9501426,
+      "title": "ICA Kvantum Sollentuna C",
+      "content": "Sköldvägen SOLLENTUNA"
+    },
+    {
+      "latitude": 58.2838538,
+      "longitude": 12.313959,
+      "title": "ICA Kvantum Jätten",
+      "content": "Skogmansgatan 22 TROLLHÄTTAN"
+    },
+    {
+      "latitude": 59.411556,
+      "longitude": 17.8025764,
+      "title": "ICA Kvantum Viksjö",
+      "content": "Viksjö centrum JÄRFÄLLA"
+    },
+    {
+      "latitude": 59.8101296,
+      "longitude": 17.6299134,
+      "title": "ICA Kvantum Gottsunda",
+      "content": "Gottsunda Centrum UPPSALA"
+    },
+    {
+      "latitude": 56.4494431,
+      "longitude": 13.5991333,
+      "title": "ICA Kvantum Markaryd",
+      "content": "Skulptörvägen 2 MARKARYD"
+    },
+    {
+      "latitude": 57.7232894,
+      "longitude": 12.0225579,
+      "title": "ICA Kvantum Munkebäck",
+      "content": "Lilla Munkebäcksgatan 2 A GÖTEBORG"
+    },
+    {
+      "latitude": 56.6529468,
+      "longitude": 16.4705661,
+      "title": "ICA Kvantum Färjestaden",
+      "content": "Ölands Köpstad FÄRJESTADEN"
+    },
+    {
+      "latitude": 55.6058159,
+      "longitude": 13.0076871,
+      "title": "ICA Kvantum Malmborgs Caroli",
+      "content": "Stora Kvarngatan 59 MALMÖ"
+    },
+    {
+      "latitude": 59.4442511,
+      "longitude": 18.0728756,
+      "title": "ICA Kvantum Täby C",
+      "content": "Stora Marknadsvägen 15 Täby"
+    },
+    {
+      "latitude": 55.5950484,
+      "longitude": 12.9670297,
+      "title": "ICA Kvantum Malmborgs Erikslust",
+      "content": "Erikslustvägen 17 MALMÖ"
+    },
+    {
+      "latitude": 58.0341286,
+      "longitude": 14.9766276,
+      "title": "ICA Kvantum Tranås",
+      "content": "Ågatan 22 TRANÅS"
+    },
+    {
+      "latitude": 57.6486409,
+      "longitude": 11.9184093,
+      "title": "ICA Kvantum Frölunda",
+      "content": "Radiovägen 5 VÄSTRA FRÖLUNDA"
+    },
+    {
+      "latitude": 61.2958971,
+      "longitude": 17.020061,
+      "title": "ICA Kvantum Söderhamn",
+      "content": "Stickvägen 5 SÖDERHAMN"
+    },
+    {
+      "latitude": 56.1332316,
+      "longitude": 13.1571803,
+      "title": "ICA Kvantum Klippan",
+      "content": "Elfdalens Centrum KLIPPAN"
+    },
+    {
+      "latitude": 56.1367564,
+      "longitude": 12.941915,
+      "title": "Oj",
+      "content": "Trädgårdsgatan 40 ÅSTORP"
+    },
+    {
+      "latitude": 57.303035,
+      "longitude": 13.5439775,
+      "title": "ICA Kvantum Gislaved",
+      "content": "Stinsgatan 2 GISLAVED"
+    },
+    {
+      "latitude": 59.3804199,
+      "longitude": 17.8178748,
+      "title": "ICA Kvantum Åkermyntan",
+      "content": "Drivbänksvägen 5 HÄSSELBY"
+    },
+    {
+      "latitude": 59.359861,
+      "longitude": 18.000719,
+      "title": "ICA Kvantum Solna",
+      "content": "Solna Centrum SOLNA"
+    },
+    {
+      "latitude": 55.9286189,
+      "longitude": 14.2948029,
+      "title": "ICA Kvantum Åhus",
+      "content": "Vallgatan 30 ÅHUS"
+    },
+    {
+      "latitude": 55.4707583,
+      "longitude": 13.0208238,
+      "title": "ICA Kvantum Vellinge",
+      "content": "Järnvägsgatan 2 VELLINGE"
+    },
+    {
+      "latitude": 55.5801551,
+      "longitude": 13.0036698,
+      "title": "ICA Kvantum Malmborgs Mobilia",
+      "content": "Per Albin Hanssons väg 40 MALMÖ"
+    },
+    {
+      "latitude": 59.9225736,
+      "longitude": 16.586696,
+      "title": "ICA Kvantum Åkrahallen",
+      "content": "Berggatan 13 SALA"
+    },
+    {
+      "latitude": 58.7102737,
+      "longitude": 13.8276855,
+      "title": "ICA Kvantum Mariestad",
+      "content": "Viktoriagatan 20 MARIESTAD"
+    },
+    {
+      "latitude": 55.6308922,
+      "longitude": 13.7080863,
+      "title": "ICA Kvantum Sjöbo",
+      "content": "Östergatan 3 SJÖBO"
+    },
+    {
+      "latitude": 56.0388156,
+      "longitude": 12.7011031,
+      "title": "Oj! Helsingborg",
+      "content": "Carl Krooks gata 30 HELSINGBORG"
+    },
+    {
+      "latitude": 55.7066654,
+      "longitude": 13.1880835,
+      "title": "ICA Kvantum Malmborgs Clemenstorget",
+      "content": "Clemenstorget 5 LUND"
+    },
+    {
+      "latitude": 63.1707455,
+      "longitude": 14.6914017,
+      "title": "ICA Kvantum Östersund",
+      "content": "Hagvägen 13 ÖSTERSUND"
+    },
+    {
+      "latitude": 57.7926649,
+      "longitude": 13.4108157,
+      "title": "ICA Kvantum Ulricehamn",
+      "content": "Strandgatan 6 ULRICEHAMN"
+    },
+    {
+      "latitude": 57.7227568,
+      "longitude": 12.9412681,
+      "title": "ICA City Centrum",
+      "content": "Allégatan 21 BORÅS"
+    },
+    {
+      "latitude": 58.5084447,
+      "longitude": 13.1454673,
+      "title": "ICA Kvantum Hjertberg",
+      "content": "Framnäsvägen 1 LIDKÖPING"
+    },
+    {
+      "latitude": 55.4254556,
+      "longitude": 12.9640261,
+      "title": "ICA Toppen",
+      "content": "Kungstorpsvägen 8B HÖLLVIKEN"
+    },
+    {
+      "latitude": 55.8490816,
+      "longitude": 13.6481541,
+      "title": "ICA Kvantum Hörby",
+      "content": "Ringsjövägen 7 HÖRBY"
+    },
+    {
+      "latitude": 55.5816083,
+      "longitude": 12.9358809,
+      "title": "ICA Kvantum Malmborgs Limhamn",
+      "content": "Linnégatan 48 LIMHAMN"
+    },
+    {
+      "latitude": 58.3799923,
+      "longitude": 15.6812419,
+      "title": "ICA Signalen",
+      "content": "Ekholmens Centrum LINKÖPING"
+    },
+    {
+      "latitude": 56.1515769,
+      "longitude": 13.776776,
+      "title": "ICA Kvantum Hässleholm",
+      "content": "Kristianstadsvägen HÄSSLEHOLM"
+    },
+    {
+      "latitude": 67.1477199,
+      "longitude": 20.6619889,
+      "title": "ICA Kvantum Gällivare",
+      "content": "Sommarvägen 2 GÄLLIVARE"
+    },
+    {
+      "latitude": 56.1915087,
+      "longitude": 12.5669028,
+      "title": "ICA Kvantum Höganäs",
+      "content": "Lexikonvägen 1 HÖGANÄS"
+    },
+    {
+      "latitude": 55.5459079,
+      "longitude": 13.9457834,
+      "title": "ICA Kvantum Tomelilla",
+      "content": "Banmästaregatan 2 TOMELILLA"
+    },
+    {
+      "latitude": 55.709718,
+      "longitude": 13.2158875,
+      "title": "ICA Kvantum Malmborgs Tuna",
+      "content": "Tunavägen 39 LUND"
+    },
+    {
+      "latitude": 55.7169215,
+      "longitude": 13.3432577,
+      "title": "ICA Kvantum Södra Sandby",
+      "content": "Revingevägen 2 SÖDRA SANDBY"
+    },
+    {
+      "latitude": 59.4797207,
+      "longitude": 18.3007135,
+      "title": "ICA Kvantum Åkersberga",
+      "content": "Storängstorget 4 ÅKERSBERGA"
+    },
+    {
+      "latitude": 57.7098338,
+      "longitude": 11.928898,
+      "title": "ICA Kvantum Sannegården",
+      "content": "Vintergatan 4 GÖTEBORG"
+    },
+    {
+      "latitude": 57.7098338,
+      "longitude": 11.928898,
+      "title": "ICA Kvantum Örnsköldsvik",
+      "content": "Ångermanlandsgatan 24 ÖRNSKÖLDSVIK"
+    },
+    {
+      "latitude": 55.8791142,
+      "longitude": 12.8558129,
+      "title": "ICA Kvantum Landskrona",
+      "content": "Östervångsplan 10 LANDSKRONA"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "ICA Kvantum Bollnäs",
+      "content": "BOLLNÄSFabriksgatan 8"
+    },
+    {
+      "latitude": 61.353922,
+      "longitude": 16.3888235,
+      "title": "ICA Kvantum Bollnäs",
+      "content": "Fabriksgatan 8 BOLLNÄS"
+    },
+    {
+      "latitude": 57.8943509,
+      "longitude": 12.0471551,
+      "title": "ICA Kvantum Ale",
+      "content": "Ale Torg 7 NÖDINGE"
+    },
+    {
+      "latitude": 56.1956222,
+      "longitude": 14.843696,
+      "title": "ICA Kvantum Karlshamn",
+      "content": "Korpadalsvägen 3 ASARUM"
+    },
+    {
+      "latitude": 59.3472813,
+      "longitude": 18.1132062,
+      "title": "ICA Kvantum Värtan",
+      "content": "Malmvägen 13 STOCKHOLM"
+    },
+    {
+      "latitude": 58.2576864,
+      "longitude": 12.9601616,
+      "title": "ICA Kvantum Vara",
+      "content": "Torggatan 48 VARA"
+    },
+    {
+      "latitude": 59.3097943,
+      "longitude": 18.0232757,
+      "title": "ICA Kvantum Liljeholmen",
+      "content": "Liljeholmstorget 3, plan 1 Stockholm"
+    },
+    {
+      "latitude": 67.8484366,
+      "longitude": 20.253835,
+      "title": "ICA Kvantum Kiruna",
+      "content": "Österleden 2 Kiruna"
+    },
+    {
+      "latitude": 63.1618334,
+      "longitude": 17.2894503,
+      "title": "ICA Kvantum Sollefteå",
+      "content": "Hågesta 227 SOLLEFTEÅ"
+    },
+    {
+      "latitude": 59.7130024,
+      "longitude": 14.1567462,
+      "title": "ICA Kvantum Filipstad",
+      "content": "Konsul Lundströmsväg 1 FILIPSTAD"
+    },
+    {
+      "latitude": 59.657168,
+      "longitude": 12.586534,
+      "title": "ICA Kvantum Arvika",
+      "content": "Palmviksgatan 12 ARVIKA"
+    },
+    {
+      "latitude": 59.2763405,
+      "longitude": 17.9094649,
+      "title": "ICA Kvantum Skärholmen",
+      "content": "Skärholmsplan 1 SKÄRHOLMEN"
+    },
+    {
+      "latitude": 58.5732858,
+      "longitude": 16.2110993,
+      "title": "ICA Kvantum Mirum Galleria",
+      "content": "Timmermansgatan 44 NORRKÖPING"
+    },
+    {
+      "latitude": 60.145486,
+      "longitude": 16.1741163,
+      "title": "ICA Kvantum Avesta",
+      "content": "Myntgatan 3-5 Avesta"
+    },
+    {
+      "latitude": 58.9361258,
+      "longitude": 11.1947998,
+      "title": "ICA Kvantum Strömstad",
+      "content": "Prästängsvägen 2 STRÖMSTAD"
+    },
+    {
+      "latitude": 58.1796279,
+      "longitude": 13.9505322,
+      "title": "ICA Kvantum Tidaholm",
+      "content": "Järnvägsgatan 5 TIDAHOLM"
+    },
+    {
+      "latitude": 59.3962208,
+      "longitude": 13.5806532,
+      "title": "ICA Kvantum Välsviken",
+      "content": "Rävbergsvägen 2 KARLSTAD"
+    },
+    {
+      "latitude": 59.3331206,
+      "longitude": 18.0694597,
+      "title": "NK Saluhall",
+      "content": "Hamngatan 18-20 STOCKHOLM"
+    },
+    {
+      "latitude": 55.5062462,
+      "longitude": 13.2328433,
+      "title": "ICA Kvantum Karlssons",
+      "content": "Ågatan 16 Svedala"
+    },
+    {
+      "latitude": 59.349463,
+      "longitude": 18.1468733,
+      "title": "ICA Kvantum Lidingö",
+      "content": "Agavägen 3 LIDINGÖ"
+    },
+    {
+      "latitude": 56.9020654,
+      "longitude": 14.8308972,
+      "title": "ICA Kvantum Växjö",
+      "content": "Norremarksvägen 3 VÄXJÖ"
+    },
+    {
+      "latitude": 59.1278149,
+      "longitude": 12.8867654,
+      "title": "ICA Kvantum Säffle",
+      "content": "Karlavagnsvägen 2 SÄFFLE"
+    },
+    {
+      "latitude": 57.5985756,
+      "longitude": 11.9527962,
+      "title": "ICA Kvantum Hovås",
+      "content": "Billdalsvägen 2 Hovås"
+    },
+    {
+      "latitude": 58.5820379,
+      "longitude": 16.1413111,
+      "title": "ICA Kvantum Klockaretorpet",
+      "content": "Folkborgsvägen 1 NORRKÖPING"
+    },
+    {
+      "latitude": 59.1986751,
+      "longitude": 17.8328207,
+      "title": "ICA Kvantum Tumba",
+      "content": "Tumba Torg 7 TUMBA"
+    },
+    {
+      "latitude": 59.51883,
+      "longitude": 17.9111451,
+      "title": "ICA Kvantum Väsby",
+      "content": "Dragonvägen 86 UPPLANDS VÄSBY"
+    },
+    {
+      "latitude": 59.3426751,
+      "longitude": 13.5049521,
+      "title": "ICA Kvantum Hammarö",
+      "content": "Bivägen 11 HAMMARÖ"
+    },
+    {
+      "latitude": 63.26728821,
+      "longitude": 18.69093323,
+      "title": "Hemköp Domsjö",
+      "content": "Domsjövägen 2 Domsjö"
+    },
+    {
+      "latitude": 57.69849777,
+      "longitude": 11.96801376,
+      "title": "Hemköp Göteborg Vasagatan",
+      "content": "Vasagatan 30 Göteborg"
+    },
+    {
+      "latitude": 57.69849777,
+      "longitude": 11.96647072,
+      "title": "Hemköp Särö C",
+      "content": "Furubergsvägen 4 Särö"
+    },
+    {
+      "latitude": 57.26612473,
+      "longitude": 12.33331394,
+      "title": "Hemköp Veddige C",
+      "content": "Viskastigen 25 Veddige"
+    },
+    {
+      "latitude": 59.41774368,
+      "longitude": 16.48519325,
+      "title": "Hemköp Torshälla",
+      "content": "Solrosgatan 1 Torshälla"
+    },
+    {
+      "latitude": 56.73507309,
+      "longitude": 12.66377831,
+      "title": "Hemköp Haverdal Klövervägen",
+      "content": "Klövervägen Haverdal"
+    },
+    {
+      "latitude": 57.69326019,
+      "longitude": 11.95942307,
+      "title": "Hemköp Göteborg Annedal",
+      "content": "Brunnsgatan 5 Göteborg"
+    },
+    {
+      "latitude": 57.66220856,
+      "longitude": 11.99167824,
+      "title": "Hemköp Mölndal Bifrost",
+      "content": "Pinnharvsgatan 11 Mölndal"
+    },
+    {
+      "latitude": 60.02958679,
+      "longitude": 17.55127907,
+      "title": "Hemköp Björklinge C",
+      "content": "Södra Långåsvägen 4 Björklinge"
+    },
+    {
+      "latitude": 57.66784668,
+      "longitude": 12.57009125,
+      "title": "Hemköp Bollebygd",
+      "content": "Sationsvägen 7 Bollebygd"
+    },
+    {
+      "latitude": 59.43441772,
+      "longitude": 15.59212208,
+      "title": "Hemköp Fellingsbro C",
+      "content": "Hemvägen Fellingsbro"
+    },
+    {
+      "latitude": 59.03913879,
+      "longitude": 17.32627487,
+      "title": "Hemköp Gnesta",
+      "content": "Dansutvägen 2 Gnesta"
+    },
+    {
+      "latitude": 58.33349991,
+      "longitude": 12.67031574,
+      "title": "Hemköp Grästorp Södergatan",
+      "content": "Södergatan 27 Grästorp"
+    },
+    {
+      "latitude": 58.07624817,
+      "longitude": 13.02108955,
+      "title": "Hemköp Herrljunga C",
+      "content": "Östra Parkgatan 1 Herrljunga"
+    },
+    {
+      "latitude": 58.27508163,
+      "longitude": 12.29329205,
+      "title": "Hemköp Trollhättan Hjortmossen",
+      "content": "Hjortmossegatan 121 Trollhättan"
+    },
+    {
+      "latitude": 57.67128372,
+      "longitude": 11.91387463,
+      "title": "Hemköp Göteborg Högsbohöjd",
+      "content": "Växelmyntsgatan 6 Göteborg"
+    },
+    {
+      "latitude": 57.68407822,
+      "longitude": 11.97200871,
+      "title": "Hemköp Göteborg Guldheden",
+      "content": "Doktor Fries Torg 4 Göteborg"
+    },
+    {
+      "latitude": 56.1620903,
+      "longitude": 15.58788013,
+      "title": "Hemköp Karlskrona C",
+      "content": "Ronnebygatan 34-36 Karlskorna"
+    },
+    {
+      "latitude": 57.50684738,
+      "longitude": 12.69590473,
+      "title": "Hemköp Kinna C",
+      "content": "Sationsgatan 1 Kinna"
+    },
+    {
+      "latitude": 59.56492615,
+      "longitude": 16.23221588,
+      "title": "Hemköp Kolbäck C",
+      "content": "Linnéatorget 4 Kolbäck"
+    },
+    {
+      "latitude": 57.5461139,
+      "longitude": 11.9467576,
+      "title": "Hemköp Kullavik C",
+      "content": "Kullaviks Centrum Kullavik"
+    },
+    {
+      "latitude": 58.59153748,
+      "longitude": 16.17821312,
+      "title": "Hemköp Norrköping Kungsgatan",
+      "content": "Kungsgatan 33 Norrköping"
+    },
+    {
+      "latitude": 58.69761276,
+      "longitude": 12.46354771,
+      "title": "Hemköp Mellerud Kvarnkullen",
+      "content": "Storgatan 54 Mellerud"
+    },
+    {
+      "latitude": 56.09134674,
+      "longitude": 12.65475559,
+      "title": "Hemköp Helsingborg Laröd",
+      "content": "Serpentinvägen 3 Helsingborg"
+    },
+    {
+      "latitude": 58.50302505,
+      "longitude": 13.15550518,
+      "title": "Hemköp Lidköping C",
+      "content": "Sveagatan 23 Lidköping"
+    },
+    {
+      "latitude": 59.60087204,
+      "longitude": 15.21504402,
+      "title": "Hemköp Lindesberg",
+      "content": "Bergslagsvägen 3 Lindesberg"
+    },
+    {
+      "latitude": 58.59028625,
+      "longitude": 16.20661545,
+      "title": "Hemköp Norrköping Lindö",
+      "content": "Lindövägen Norrköping"
+    },
+    {
+      "latitude": 57.69543457,
+      "longitude": 11.95188427,
+      "title": "Hemköp Göteborg Linnégatan",
+      "content": "Linnégatan 36A Göteborg"
+    },
+    {
+      "latitude": 56.07409668,
+      "longitude": 13.23814583,
+      "title": "Hemköp Ljungbyhed C",
+      "content": "Storgatan 8 Ljungbyhed"
+    },
+    {
+      "latitude": 58.51173782,
+      "longitude": 15.49394894,
+      "title": "Hemköp Ljungsbro C",
+      "content": "Löjtnantsgatan 2 Ljungsbro"
+    },
+    {
+      "latitude": 58.41078949,
+      "longitude": 15.62111187,
+      "title": "Hemköp Linköping Lucullus",
+      "content": "Stora Torget 5 Linköping"
+    },
+    {
+      "latitude": 58.31977844,
+      "longitude": 15.1192522,
+      "title": "Hemköp Mjölby Lundbyhallen",
+      "content": "Smålandsvägen 44 Mjölby"
+    },
+    {
+      "latitude": 57.67112732,
+      "longitude": 11.88071346,
+      "title": "Hemköp Göteborg Långedrag",
+      "content": "Redegatan 9 Västra Frölunda"
+    },
+    {
+      "latitude": 57.69290543,
+      "longitude": 11.91794014,
+      "title": "Hemköp Göteborg Majorna",
+      "content": "Kustgatan 14 Göteborg"
+    },
+    {
+      "latitude": 59.62731552,
+      "longitude": 16.58168793,
+      "title": "Hemköp Västerås Malmaberg",
+      "content": "Gunnilbogatan 1 Västerås"
+    },
+    {
+      "latitude": 57.6984091,
+      "longitude": 11.9431133,
+      "title": "Hemköp Göteborg Masthuggstorget",
+      "content": "Masthuggstorget 3A Göteborg"
+    },
+    {
+      "latitude": 57.73268127,
+      "longitude": 12.05446434,
+      "title": "Hemköp Munkedal Munkeland",
+      "content": "Industrivägen 4 Munkedal"
+    },
+    {
+      "latitude": 57.69261551,
+      "longitude": 11.95133686,
+      "title": "Hemköp Göteborg Nordenskiöldsgatan",
+      "content": "Nordenskiöldsgatan 13-17 Göteborg"
+    },
+    {
+      "latitude": 57.41315842,
+      "longitude": 12.01935673,
+      "title": "Hemköp Onsala C",
+      "content": "Onsala Kyrkby 3 Onsala"
+    },
+    {
+      "latitude": 59.37651443,
+      "longitude": 17.94001389,
+      "title": "Hemköp Sundbyberg Rissne",
+      "content": "Rissne Torg 7 Sundbyberg"
+    },
+    {
+      "latitude": 55.96593857,
+      "longitude": 12.77620888,
+      "title": "Hemköp Helsingborg Rydebäck",
+      "content": "Frösögatan 7 Helsingborg"
+    },
+    {
+      "latitude": 58.1403656,
+      "longitude": 11.82222843,
+      "title": "Hemköp Svanesund C",
+      "content": "Skansvägen 2 Svanesund"
+    },
+    {
+      "latitude": 58.36373901,
+      "longitude": 12.33429527,
+      "title": "Hemköp Vänersborg Torpa",
+      "content": "Tegelbruksvägen 2 Vänersborg"
+    },
+    {
+      "latitude": 59.51647949,
+      "longitude": 17.88977814,
+      "title": "Hemköp Upplands Väsby Runby",
+      "content": "Finsvids väg 2 Upplands Väsby"
+    },
+    {
+      "latitude": 58.94536591,
+      "longitude": 17.48494148,
+      "title": "Hemköp Vagnhärad C",
+      "content": "Centrumvägen 16 Vagnhärad"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "Hemköp Valdermarsvik Vammar",
+      "content": "Vammar Köpcenter Valdermarsvik"
+    },
+    {
+      "latitude": 57.35492706,
+      "longitude": 14.47525215,
+      "title": "Hemköp Vrigstad C",
+      "content": "Torget 5 Vrigstad"
+    },
+    {
+      "latitude": 59.8411019,
+      "longitude": 17.6020092,
+      "title": "Hemköp Västertorg",
+      "content": "Västertorg 3 Uppsala"
+    },
+    {
+      "latitude": 61.17964172,
+      "longitude": 12.99224663,
+      "title": "Hemköp Tandådalen Köpcentrum",
+      "content": "Tandådalen Köpcentrum Sälen"
+    },
+    {
+      "latitude": 57.9885788,
+      "longitude": 15.63297653,
+      "title": "Hemköp Kisa C",
+      "content": "Torggatan 6 Kisa"
+    },
+    {
+      "latitude": 59.23704147,
+      "longitude": 17.98165703,
+      "title": "Hemköp Huddinge C",
+      "content": "Forellvägen 14 Huddinge"
+    },
+    {
+      "latitude": 58.36857986,
+      "longitude": 13.82271099,
+      "title": "Hemköp Skövde Hentorp",
+      "content": "Gröna Vägen 48 Skövde"
+    },
+    {
+      "latitude": 59.34931564,
+      "longitude": 17.98639107,
+      "title": "Hemköp Solna Huvudsta C",
+      "content": "Storgatan 62-64 Solna"
+    },
+    {
+      "latitude": 59.25753403,
+      "longitude": 18.11387253,
+      "title": "Hemköp Stockholm Sköndal C",
+      "content": "Sköndalsvägen 91 Sköndal"
+    },
+    {
+      "latitude": 59.57364655,
+      "longitude": 17.51921272,
+      "title": "Hemköp Bålsta Gamla C",
+      "content": "Stockholmsvägen 14 Bålsta"
+    },
+    {
+      "latitude": 59.2540741,
+      "longitude": 17.97277832,
+      "title": "Hemköp Huddinge Matbörsen",
+      "content": "Kallkärrsvägen 66 Huddinge"
+    },
+    {
+      "latitude": 59.27444077,
+      "longitude": 18.02395439,
+      "title": "Hemköp Stockholm Örby",
+      "content": "Gamla Huddingevägen 437 Älvsjö"
+    },
+    {
+      "latitude": 59.30729675,
+      "longitude": 18.0293541,
+      "title": "Hemköp Stockholm Örvikshallen",
+      "content": "Sjövikstorget 17 Stockholm"
+    },
+    {
+      "latitude": 59.29832077,
+      "longitude": 17.99652481,
+      "title": "Hemköp Stockholm Telefonplan",
+      "content": "Telefonvägen 20 Hägersten"
+    },
+    {
+      "latitude": 59.20005035,
+      "longitude": 18.19222069,
+      "title": "Hemköp Vendelsö",
+      "content": "Sågenvägen 8 Vendelsö"
+    },
+    {
+      "latitude": 59.1926384,
+      "longitude": 17.83780861,
+      "title": "Hemköp Tumba Storvreten",
+      "content": "Storvretsvägen 13 Tumba"
+    },
+    {
+      "latitude": 59.34388351,
+      "longitude": 17.90817261,
+      "title": "Hemköp Stockholm Ängby Torg",
+      "content": "Vultejusvägen 29 Bromma"
+    },
+    {
+      "latitude": 59.20756531,
+      "longitude": 17.90578842,
+      "title": "Hemköp Tullinge C",
+      "content": "Nyängsvägen 3 Tullinge"
+    },
+    {
+      "latitude": 59.33820343,
+      "longitude": 18.09081459,
+      "title": "Hemköp Sabis Stockholm Fältöversten",
+      "content": "Karlaplan 13 Stockholm"
+    },
+    {
+      "latitude": 59.12221527,
+      "longitude": 18.10678482,
+      "title": "Hemköp VästerHaninge C",
+      "content": "Kyrkvägen 4 VästerHaninge"
+    },
+    {
+      "latitude": 59.29854584,
+      "longitude": 18.07964516,
+      "title": "Hemköp Stockholm Gullmarsplan",
+      "content": "Gullmarsplan 4-6 Johanneshov"
+    },
+    {
+      "latitude": 59.29501343,
+      "longitude": 17.9341011,
+      "title": "Hemköp Stockholm Bredäng C",
+      "content": "BredängsTorg 1-3 Skärholmen"
+    },
+    {
+      "latitude": 59.31464005,
+      "longitude": 18.06558418,
+      "title": "Hemköp Stockholm Fatburen",
+      "content": "Fatbursgatan 6 Stockholm"
+    },
+    {
+      "latitude": 59.28604889,
+      "longitude": 17.96537971,
+      "title": "Hemköp Matextra Stockholm Fruängen",
+      "content": "Fruängsgången 10 129 52"
+    },
+    {
+      "latitude": 59.31597137,
+      "longitude": 18.03383827,
+      "title": "Hemköp Stockholm Hornstull",
+      "content": "Långholmsgatan 23 Stockholm"
+    },
+    {
+      "latitude": 60.47252274,
+      "longitude": 15.43988037,
+      "title": "Hemköp Borlänge Södra Backa",
+      "content": "Hammargatan 8 Borlänge"
+    },
+    {
+      "latitude": 58.42518616,
+      "longitude": 13.8768177,
+      "title": "Hemköp Skövde Rydshallen",
+      "content": "Timmervägen 1 Skövde"
+    },
+    {
+      "latitude": 59.21086502,
+      "longitude": 17.63020515,
+      "title": "Hemköp Södertälje Ellbe Livs",
+      "content": "Bragevägen 14 Södertälje"
+    },
+    {
+      "latitude": 59.3282547,
+      "longitude": 18.01687813,
+      "title": "Hemköp Stockholm Matpressen",
+      "content": "Rålambsvägen 7-9 Stockholm"
+    },
+    {
+      "latitude": 59.42964172,
+      "longitude": 18.09416962,
+      "title": "Hemköp Matextra Näsby Park",
+      "content": "Eskadervägen 6 Täby"
+    },
+    {
+      "latitude": 59.38072968,
+      "longitude": 17.99869156,
+      "title": "Hemköp Solna Ulriksdal",
+      "content": "Bagartorps Ringen 53-55 Solna"
+    },
+    {
+      "latitude": 59.38072968,
+      "longitude": 17.99869156,
+      "title": "Hemköp Solna Ulriksdal",
+      "content": "Bagartorps Ringen 53-55 Solna"
+    },
+    {
+      "latitude": 59.36774445,
+      "longitude": 18.0138588,
+      "title": "Hemköp Solna Frösunda Boulevard",
+      "content": "Gustav III:S Boulevard 47 Solna"
+    },
+    {
+      "latitude": 56.16095734,
+      "longitude": 13.60878754,
+      "title": "Hemköp Tyringe RV 21",
+      "content": "Stenbocksgatan 10 Tyringe"
+    },
+    {
+      "latitude": 60.67445374,
+      "longitude": 15.08935261,
+      "title": "Hemköp Insjön Hjultorget",
+      "content": "Hjultorget 30 Insjön"
+    },
+    {
+      "latitude": 59.33963013,
+      "longitude": 18.051548,
+      "title": "Hemköp Stockholm Wasahallen",
+      "content": "Upplandsgatan 28-32 Stockholm"
+    },
+    {
+      "latitude": 57.92575073,
+      "longitude": 12.52616119,
+      "title": "Hemköp Alingsås",
+      "content": "Sveagatan 8 Alingsås"
+    },
+    {
+      "latitude": 61.80318069,
+      "longitude": 16.55448723,
+      "title": "Hemköp Delsbo",
+      "content": "Edevägen 9 Delsbo"
+    },
+    {
+      "latitude": 59.3478775,
+      "longitude": 17.88472366,
+      "title": "Hemköp Stockholm Blackeberg C",
+      "content": "Weregelandsgatan 3 Bromma"
+    },
+    {
+      "latitude": 59.32389832,
+      "longitude": 18.38520813,
+      "title": "Hemköp Gustavsberg Hamnen",
+      "content": "Odelbergs Väg 1 Gustavsberg"
+    },
+    {
+      "latitude": 58.74539185,
+      "longitude": 17.00620842,
+      "title": "Hemköp Nyköping Spelhagen",
+      "content": "Arnöleden 5 Nyköping"
+    },
+    {
+      "latitude": 58.48328018,
+      "longitude": 16.3140049,
+      "title": "Hemköp Söderköping Ågatan",
+      "content": "Ågatan 2 Söderköping"
+    },
+    {
+      "latitude": 59.5135994,
+      "longitude": 15.99787045,
+      "title": "Hemköp Köping C",
+      "content": "Stora gatan 16 Köping"
+    },
+    {
+      "latitude": 57.7832489,
+      "longitude": 14.16364956,
+      "title": "Hemköp Jönköping C",
+      "content": "Barnarpsgatan 10 Jönköping"
+    },
+    {
+      "latitude": 57.48477936,
+      "longitude": 12.08714581,
+      "title": "Hemköp Kungsbacka Hålabäck",
+      "content": "Blomstergatan 4 Kungsbacka"
+    },
+    {
+      "latitude": 56.87961578,
+      "longitude": 14.83596802,
+      "title": "Hemköp Växjö Högstorp",
+      "content": "Högstorpsvägen 98 Växjö"
+    },
+    {
+      "latitude": 60.54606628,
+      "longitude": 14.36934948,
+      "title": "Hemköp Dala-Järna",
+      "content": "Myrbacka 80 Dala-Järna"
+    },
+    {
+      "latitude": 57.56228638,
+      "longitude": 11.96124935,
+      "title": "Hemköp Kungsporten Billdal",
+      "content": "Kugnsporten 6 Billdal"
+    },
+    {
+      "latitude": 60.68424606,
+      "longitude": 13.71137142,
+      "title": "Hemköp Malung C",
+      "content": "Grönlandsvägen 23 Malung"
+    },
+    {
+      "latitude": 59.3849411,
+      "longitude": 17.86265373,
+      "title": "Hemköp Stockholm Kälvesta",
+      "content": "Basgränd 1 Vällingby"
+    },
+    {
+      "latitude": 59.29306412,
+      "longitude": 17.9675808,
+      "title": "Hemköp i Västertorp AB",
+      "content": "Störtloppsvägen 22 Hägersten"
+    },
+    {
+      "latitude": 58.7518959,
+      "longitude": 17.00434113,
+      "title": "Cityhallen Nyköping C",
+      "content": "Västra Storgatan 13 Nyköping"
+    },
+    {
+      "latitude": 60.58963394,
+      "longitude": 15.73280144,
+      "title": "Hemköp Hosjö",
+      "content": "Centralvägen 7 Falun"
+    },
+    {
+      "latitude": 58.37924576,
+      "longitude": 12.32429028,
+      "title": "Hemköp Värnersborg Sundsgatan",
+      "content": "Sundsgatan 19B Värnersborg"
+    },
+    {
+      "latitude": 55.50895691,
+      "longitude": 13.23716831,
+      "title": "Hemköp Svedala C",
+      "content": "Storgatan 17 Svedala"
+    },
+    {
+      "latitude": 59.47647858,
+      "longitude": 17.91202545,
+      "title": "Hemköp Rotehallen",
+      "content": "Rotebro Centrum Gillbostråket 4 Sollentuna"
+    },
+    {
+      "latitude": 60.3436203,
+      "longitude": 17.51481628,
+      "title": "Hemköp Tierp C",
+      "content": "Centralgatan 19 Tierp"
+    },
+    {
+      "latitude": 59.34839249,
+      "longitude": 18.20540047,
+      "title": "Hemköp Lidingö Brevik",
+      "content": "Södra Kungsvägen 240 Lidingö"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "Hemköp Mellerud Torget",
+      "content": "Köpmanstorget 3 Mellerud"
+    },
+    {
+      "latitude": 57.68292999,
+      "longitude": 11.6455555,
+      "title": "Hemköp Hönö Klåva",
+      "content": "Klåva Backe 7 Hönö"
+    },
+    {
+      "latitude": 59.36016464,
+      "longitude": 17.83218384,
+      "title": "Hemköp Stockholm Hässelby Strand",
+      "content": "Maltesholmstorget 6 Hässelby"
+    },
+    {
+      "latitude": 58.03926086,
+      "longitude": 14.97645283,
+      "title": "Hemköp Tranås C",
+      "content": "Östra Järnvägsgatan 10 Tranås"
+    },
+    {
+      "latitude": 58.18810654,
+      "longitude": 12.7208395,
+      "title": "Hemköp Nossebro C",
+      "content": "Södra Vägen 2 Nossebro"
+    },
+    {
+      "latitude": 57.48712158,
+      "longitude": 12.07488918,
+      "title": "Hemköp Kungsbacka Torget",
+      "content": "Södra Torggatan 6 Kugnsbacka"
+    },
+    {
+      "latitude": 59.37931824,
+      "longitude": 13.49610138,
+      "title": "Hemköp Karlstad C",
+      "content": "Drottninggatan 33 Karlstad"
+    },
+    {
+      "latitude": 60.49612045,
+      "longitude": 15.39987183,
+      "title": "Hemköp Borlänge Tjärna C",
+      "content": "Jan Ers gata 1 Borlänge"
+    },
+    {
+      "latitude": 59.27854919,
+      "longitude": 18.00246048,
+      "title": "Hemköp Stockholm ÄlvsjöHallen",
+      "content": "Sjättenovembervägen 208 125 34"
+    },
+    {
+      "latitude": 58.28756332,
+      "longitude": 12.29453945,
+      "title": "Hemköp Trollhättan Kugnsgatan",
+      "content": "Kugnsgatan 12 Trollhättan"
+    },
+    {
+      "latitude": 62.62982178,
+      "longitude": 17.93597031,
+      "title": "Hemköp Härnösand C",
+      "content": "Storgatan 26 Härnösand"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "Hemköp Göteborg Torslanda",
+      "content": "Torslanda Torg Torslanda"
+    },
+    {
+      "latitude": 59.60845947,
+      "longitude": 16.54001045,
+      "title": "Hemköp Västerås C",
+      "content": "Stora gatan 58 Västerås"
+    },
+    {
+      "latitude": 57.1847229,
+      "longitude": 14.04563713,
+      "title": "Hemköp Värnamo C",
+      "content": "Enehagsvägen 2 Värnamo"
+    },
+    {
+      "latitude": 60.14269257,
+      "longitude": 16.16090584,
+      "title": "Hemköp Avesta",
+      "content": "Prästgatan 26 Avesta"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "Hemköp Alfta",
+      "content": "Västangågatan 3 Alfta"
+    },
+    {
+      "latitude": 59.24280167,
+      "longitude": 18.09230995,
+      "title": "Hemköp Farsta",
+      "content": "Farsta Torg 26-28 Farsta"
+    },
+    {
+      "latitude": 59.16972733,
+      "longitude": 18.13949013,
+      "title": "Hemköp Haninge C",
+      "content": "Storesgränd 26 Haninge"
+    },
+    {
+      "latitude": 59.8582673,
+      "longitude": 17.6432478,
+      "title": "Hemköp Uppsala Svava",
+      "content": "Dragarbrunnsgatan 50 Uppsala"
+    },
+    {
+      "latitude": 59.8582673,
+      "longitude": 17.6432478,
+      "title": "Hemköp Uppsala Svava C",
+      "content": "Dragarbrunnsgatan 50 Uppsala"
+    },
+    {
+      "latitude": 59.31201935,
+      "longitude": 18.05485916,
+      "title": "Hemköp Stockholm Skanstull",
+      "content": "Ringvägen 100B Stockholm"
+    },
+    {
+      "latitude": 59.34292984,
+      "longitude": 18.04641151,
+      "title": "Hemköp Stockholm Odenplan",
+      "content": "Karlbergsvägen 24 Stockholm"
+    },
+    {
+      "latitude": 59.26243973,
+      "longitude": 18.12101746,
+      "title": "Hemköp Stockholm Skarpnäck",
+      "content": "Gråhundsvägen 82-84 Sköndal"
+    },
+    {
+      "latitude": 59.22356033,
+      "longitude": 18.20109558,
+      "title": "Hemköp Tyresö Trollbäcken",
+      "content": "Alléplan 2 Tyresö"
+    },
+    {
+      "latitude": 59.34622955,
+      "longitude": 18.03389931,
+      "title": "Hemköp Stockholm Torsplan",
+      "content": "Norra Stationsgatan 80C Stockholm"
+    },
+    {
+      "latitude": 57.7588773,
+      "longitude": 16.6340724,
+      "title": "Hemköp Västervik C",
+      "content": "Västra Kyrkogatan 34 Västervik"
+    },
+    {
+      "latitude": 58.40792847,
+      "longitude": 15.56314373,
+      "title": "Hemköp Linköping Ryd",
+      "content": "Mårdtorpsgatan 27 Linnköping"
+    },
+    {
+      "latitude": 58.3886376,
+      "longitude": 13.8426685,
+      "title": "Hemköp Skövde C",
+      "content": "Petter Heléns gata 6 Sköve"
+    },
+    {
+      "latitude": 0,
+      "longitude": 0,
+      "title": "Hemköp Stockholm Djurgårdsstaden",
+      "content": "Storängskroken 14-16 Stockholm"
+    },
+    {
+      "latitude": 57.6543526,
+      "longitude": 11.9080668,
+      "title": "Hemköp Göteborg Frölunda Torg",
+      "content": "Förlunda Torg Västra Frölunda"
+    }
+  ]
