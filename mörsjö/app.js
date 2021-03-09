@@ -1,5 +1,5 @@
 
-var mymap = L.map('mapid').setView([60, 10], 4);
+var mymap = L.map('mapid').setView([60, 10], 4.5);
 
 
 var tiles = new L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
