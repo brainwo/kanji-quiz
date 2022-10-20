@@ -2,9 +2,7 @@
     margin: 0;
     padding: 0;
     font-family: ms gothic;
-    
 }
-
 
 .kanji {
     font-size: 100px;
@@ -14,7 +12,7 @@
     position: relative;
     text-align: center;
     font-family: Meiryo;
-    z-index: -1; 
+    z-index: -1;
 }
 .hiragana {
     font-size: 75px;
@@ -27,14 +25,11 @@
     z-index: -1;
 }
 
-
 .eigo {
     visibility: hidden;
     text-align: center;
     margin-top: 10px;
-    
 }
-
 
 .action {
     margin: auto;
@@ -48,7 +43,6 @@
 
 .container {
     margin-top: 10px;
-   
 }
 
 form {
@@ -57,7 +51,8 @@ form {
     width: 250px;
 }
 
-textarea:focus, input:focus{
+textarea:focus,
+input:focus {
     outline: none;
 }
 
@@ -72,13 +67,12 @@ textarea:focus, input:focus{
     text-align: center;
     margin: auto;
     color: gray;
-    font-size: 14; 
+    font-size: 14;
 }
 
 .oBtn:hover {
-    color: #5CDBA4;
+    color: #5cdba4;
 }
-
 
 .options {
     margin-top: 15px;
@@ -94,7 +88,6 @@ a {
 
 a.options {
     font-size: 14px;
-
 }
 
 .nav {
@@ -111,25 +104,24 @@ a.options {
         font-size: 16px;
         margin-right: 0px;
     }
-    .kanji{
+    .kanji {
         font-size: 175px;
         height: 175px;
         line-height: 200px;
     }
-    .contentAbout{
-        width: 75% !important; 
+    .contentAbout {
+        width: 75% !important;
     }
 }
 
 @media only screen and (max-width: 960px) {
-    
-    .contentAbout{
-        width: 65% !important; 
+    .contentAbout {
+        width: 65% !important;
     }
 }
 
 a:hover {
-    color: #5CDBA4;
+    color: #5cdba4;
 }
 
 .fonts {
@@ -151,7 +143,6 @@ hr {
     border: 0;
     margin-bottom: 25px;
 }
-
 
 .contact {
     margin-top: 50px;
@@ -179,16 +170,13 @@ hr {
     text-align: justify;
     padding-top: 100px;
     margin: 0 auto;
-    width: 25%; 
-    
+    width: 25%;
 }
 .links {
     text-align: center;
     padding-top: 25px;
     margin: 0 auto;
-    width: 25%; 
-
-    
+    width: 25%;
 }
 
 .timer {
@@ -197,12 +185,27 @@ hr {
     visibility: hidden;
 }
 
+@media (prefers-color-scheme: dark) {
+    html {
+        background: black;
+        color: white;
+    }
+    .action {
+        background: black;
+        color: white;
+    }
+}
 
+input:focus::-webkit-input-placeholder {
+    color: transparent;
+}
+input:focus:-moz-placeholder {
+    color: transparent;
+} /* FF 4-18 */
+input:focus::-moz-placeholder {
+    color: transparent;
+} /* FF 19+ */
+input:focus:-ms-input-placeholder {
+    color: transparent;
+} /* IE 10+ */
 
-
-
-
-input:focus::-webkit-input-placeholder { color:transparent; }
-input:focus:-moz-placeholder { color:transparent; } /* FF 4-18 */
-input:focus::-moz-placeholder { color:transparent; } /* FF 19+ */
-input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
