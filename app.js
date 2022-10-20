@@ -88,7 +88,11 @@ $(document).keyup(function (e) {
 
     if (e.which == 13) {
 
-        $(".kanji").css("color", "black")
+	if (window.matchMedia("(prefers-color-scheme: dark)").matches){
+	    $(".kanji").css("color", "white")
+	} else {
+	    $(".kanji").css("color", "black")
+	}
         answer = $("input").val().toLowerCase();
         $(".eigo").css("visibility", "hidden");
         $(".onyomi").css("display", "none");
