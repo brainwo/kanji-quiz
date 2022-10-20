@@ -9295,8 +9295,14 @@ var timerStart = 0;
 //Whats happens when you press enter
 $(document).keyup(function(e) {
   if (e.which == 13) {
-    $('.kanji').css('color', 'black');
-    $('.hiragana').css('color', 'black');
+
+    if (window.matchMedia("(prefers-color-scheme: dark)").matches){
+	$('.kanji').css('color', 'white');
+    	$('.hiragana').css('color', 'white');
+    } else {
+	$('.kanji').css('color', 'black');
+    	$('.hiragana').css('color', 'black');
+    }
     answer = $('input')
       .val()
       .toLowerCase();
